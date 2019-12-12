@@ -263,6 +263,8 @@ $doi = '10.18942/apg.KJ00004623252';
 
 //$doi = '10.18942/apg.KJ00004623254';
 
+// unstructured
+$doi = '10.2476/asjaa.65.7';
 
 
 get_references_from_html($doi);

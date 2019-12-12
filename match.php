@@ -4,7 +4,7 @@
 
 require_once(dirname(__FILE__) . '/adodb5/adodb.inc.php');
 
-//--------------------------------------------------------------------------------------------------
+//----------------------------------------------------------------------------------------
 $db = NewADOConnection('mysqli');
 $db->Connect("localhost", 
 	'root', '', 'microcitation');
@@ -14,7 +14,8 @@ $ADODB_FETCH_MODE = ADODB_FETCH_ASSOC;
 
 $db->EXECUTE("set names 'utf8'"); 
 
-
+//----------------------------------------------------------------------------------------
+// get articles from a given journal
 $journal = 'Acta Phytotaxonomica et Geobotanica';
 
 $journal = 'Telopea';
@@ -58,7 +59,7 @@ while (!$result->EOF)
 
 print_r($citations);
 
-// match
+// Match to microcitations.publications---------------------------------------------------
 
 
 $n = count($citations);
@@ -97,16 +98,14 @@ for ($i = 0; $i < $n; $i++)
 	{
 		$citations[$i]->doi = $result->fields['doi'];
 	}
-	
-	
-	
+
 
 
 }
 
 print_r($citations);
 
-// Update SQL
+// Update SQL------------------------------------------------------------------------------
 
 foreach ($citations as $citation)
 {
