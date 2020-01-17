@@ -8,7 +8,7 @@ require_once 'vendor/autoload.php';
 use Sunra\PhpSimple\HtmlDomParser;
 
 //----------------------------------------------------------------------------------------
-function get($url, $user_agent='', $content_type = '')
+function get_html($url, $user_agent='', $content_type = '')
 {	
 	$data = null;
 
@@ -53,7 +53,7 @@ function get_references_from_html($doi)
 	}
 	else
 	{
-		$html_content = get('https://doi.org/' . $doi);
+		$html_content = get_html('https://doi.org/' . $doi);
 		
 		file_put_contents($safe_filename, $html_content);
 	}
@@ -265,6 +265,10 @@ $doi = '10.18942/apg.KJ00004623252';
 
 // unstructured
 $doi = '10.2476/asjaa.65.7';
+
+$doi = '10.18942/apg.KJ00004623252';
+
+$doi = '10.18942/apg.KJ00005878343';
 
 
 get_references_from_html($doi);

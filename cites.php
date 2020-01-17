@@ -489,7 +489,9 @@ if (1)
 	//daisy('https://doi.org/10.11646/phytotaxa.26.1.2');
 	//daisy('https://doi.org/10.11646/phytotaxa.405.3.3');
 	
-	daisy('https://doi.org/10.11646/phytotaxa.376.6.2');
+	//daisy('https://doi.org/10.11646/phytotaxa.376.6.2');
+	
+	daisy('https://doi.org/10.5852/ejt.2017.281');
 }
 
 
