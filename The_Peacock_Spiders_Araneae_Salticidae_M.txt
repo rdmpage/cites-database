@@ -1,0 +1,761 @@
+       Zootaxa 4154 (5): 501–525      Article                         ISSN 1175-5326 (print edition)
+        http://www.mapress.com/j/zt/
+                                                                      ZOOTAXA
+Copyright © 2016 Magnolia Press
+                                                                      ISSN 1175-5334 (online edition)
+
+                              http://doi.org/10.11646/zootaxa.4154.5.1
+http://zoobank.org/urn:lsid:zoobank.org:pub:9C689664-C36A-46F8-B106-6EF6D18B1D50
+
+The Peacock Spiders (Araneae: Salticidae: Maratus) of the Queensland Museum,
+including six new species
+
+BARBARA C. BAEHR & ROBERT WHYTE
+
+Queensland Museum, PO Box 3300, South Brisbane, Qld 4101, Australia.
+E-mail: Barbara.Baehr@qm.qld.gov.au; robertwhyteus@gmail.com
+
+Abstract
+
+Six new species of the peacock spider genus Maratus Karsch, 1878 are described from Australia: M. eliasi sp. nov., M.
+julianneae sp. nov., M. licunxini sp. nov., M. michaelorum sp. nov. and M. ottoi sp. nov. from Queensland, and M. ki-
+wirrkurra sp. nov. from Western Australia. Five species groups are further documented within the genus and new records,
+detailed SEM and automontage images are provided for six previously described species: M. anomalus Karsch, 1878, M.
+chrysomelas (Simon, 1909), M. digitatus Otto & Hill, 2012, M. pavonis (Dunn, 1947), M. speciosus (O.P.-Cambridge,
+1874) and M. volans (O.P.-Cambridge, 1874).
+
+Key words: Australia, Bush Blitz, Carnarvon Station, Kiwirrkurra indigenous protected area, taxonomy
+
+Introduction
+
+The endemic Australian peacock spider genus Maratus contains 70 species (including these six new species).
+Sixteen of these Maratus species need to be revised to resolve their correct generic placement (Otto & Hill 2016b).
+Males of Maratus can be recognized by a dorsal abdominal plate with a dense cover of setae (Otto & Hill 2012a),
+with small (sometimes minimal) or large side wings, which can be folded around the sides of the opisthosoma, and
+by the behaviour of males of most species, which extend their third pair of legs and elevate their opisthosoma to
+display to females (Otto & Hill 2012a). Outside Australia, only one Maratus species is known: M. furvus (Song &
+Chai, 1992) recorded from the Wuling Mountains area in southwestern China. This Maratus species was originally
+described in the genus Lycidas and may not be Maratus.
+
+     This paper is dedicated to people who have documented Maratus in the last decade, utilising a diverse range of
+skills and incredible patience watching and photographing courtship behaviour. It is through their work that the
+world has come to learn of the amazing peacock spider fauna of Australia.
+
+Material and methods
+
+The spiders examined for this study included unidentified Maratus specimens from the collection of the
+Queensland Museum. The study also included a new species from Western Australia. This will be lodged in the
+Western Australian Museum, Perth (WAM). The remaining specimens will remain in the Queensland Museum’s
+collection (QM).
+
+     Three of the six new species were collected on Bush Blitz expeditions, firstly Carnarvon Station Queensland
+(conducted by the Queensland Museum in October 2014) and subsequently Kiwirrkurra indigenous protected area
+Western Australia (conducted by the Western Australian Museum in September 2015). Specimens of these new
+Bush Blitz species were collected with pitfall traps, shallow plastic dishes with ethelyne glycol, and by hand.
+Latitudes, longitudes and elevation were determined by GPS.
+
+     Specimens were examined using a Leica MZ16A microscope. Images were produced using a Leica DFC 500
+
+Accepted by G. Ruiz: 29 Jun. 2016; published: 24 Aug. 2016                        501
+with AutoMontage Pro Version 5.2. The left male palp of each species was imaged with a Hitachi TM_1000 table
+top SEM.
+
+     All measurements are in millimetres. Abbreviations used in the text are as follows: ALE anterior lateral eye;
+AME anterior median eye; CO copulatory opening; E embolus; ED embolic disc; K retrobasal knee-shaped
+structure on embolic disc; LP lateral process of embolic disc; LTS lamella on tegular shoulder; ol/ow opisthosoma
+length/opisthosoma width; pl/pw prosoma length/prosoma width; PLE posterior lateral eye; PME posterior median
+eye; RSDL retrolateral sperm duct loop; RTA retrolateral tibial apophysis; sl/sw sternum length/sternum width; TL
+tegular lobe.
+
+     Scale bars for habitus images are 1.0 mm, for palps and epigynes 0.1 mm.
+
+Taxonomy
+
+Family SALTICIDAE Blackwall, 1841
+
+Tribe EUOPHRYINI Simon, 1901
+
+Genus Maratus Karsch, 1878
+
+Maratus Karsch, 1878: 27. Type species designated by monotypy: Maratus amabilis Karsch, 1878, in Bonnet, 1957: 2713.
+
+The endemic Australian Jumping spider genus Maratus belongs to the Saitis clade together with the salticid genera
+Saitis, Jotus, Prostheclina, Hypoblemum, ‘Lycidas’, Maileus, Barraina and possibly Margaromma (Zhang &
+Maddison, 2015). Zhang and Maddison (2015) suggested merging the genera of this clade into Saitis. To explore
+this notion further it may be worthwhile to take a closer look into the ultrastructure of the embolic disc and the
+embolus which appear to have a lot of hidden characters not visible with a normal microscope (Figs 1, 7, 11, 15);
+however this paper does not aim to explore the monophyly of these genera, rather it is to describe a number of new
+species of the endemic Australian Peacock spider genus Maratus found in the Queensland Museum Collection,
+obtained on Bush Blitz expeditions and elsewhere.
+
+     Diagnosis. Members of the genus Maratus share with other genera of the Saitis clade a relatively large male
+palpal bulb with a retrolateral sperm duct loop (RSDL), a large retrobasal tegular lobe (TL), a finger-like
+retrolateral tibial apophysis (RTA), an anticlockwise coiled embolus (E) and a lamella on the tegular shoulder
+(LTS) of the male palp (Zhang & Maddison, 2015).
+
+     Maratus can be separated from other Saitis clade genera by males having an opisthosomal plate (often with
+lateral wings, flaps or a wide lateral fringe) covered with a dense layer of colourful iridescent setae (Otto & Hill,
+2012a), elevated to display to the female during courtship. Lateral ornamentation in the species here can be a
+minimal edge (Figs 8E) as in M. anomalus, M. julianneae; a larger flap which nearly always remains folded around
+the opisthosoma (Fig. 12B) as in M. eliasi; or a big flap running along the whole side of the opisthosoma (Fig.
+16E), as in M. pavonis var. nornalup, M. volans and M. speciosus. Some Maratus species have inflatable spinnerets
+which are used in the courtship dance [described in detail in Otto & Hill, 2012b] and shown here in (Figs 12A,
+13A) in the cases of M. eliasi and M. ottoi.
+
+The Maratus species groups
+
+Species groups suggested by Waldock (2013) and Otto & Hill (2014b, 2015) take into account differentiation of
+abdominal patterns and lateral ornamentation, inflatable spinnerets, and behaviour, especially male courtship.
+
+     In this paper the male embolic discs of all examined species, studied by Scanning Electron Microscopy (SEM),
+revealed microstructures of the embolic disc and the adjacent lateral process of the embolic disc, suggesting the
+following species groups.
+
+502 · Zootaxa 4154 (5) © 2016 Magnolia Press  BAEHR & WHYTE
+The Maratus chrysomelas group
+(FIGURES 1A, B, D, E, G, H)
+
+Otto & Hill (2016a) described the Maratus chrysomelas group (M. chrysomelas and M. nigromaculatus) as having
+a wide fringe at the sides of the opisthosoma and similar courtship displays. We find also this group contains
+species which have an embolic disc with a wide rim covered with frontal ridges and a flat retrolateral groove (Fig.
+1G); the embolus opening is at the tip of the embolus (Figs 1D, E); and there is no lateral process of the embolic
+disc (Fig. 1G).
+
+     Species: Maratus chrysomelas from Western Australia to New South Wales, Victoria and Queensland,
+Maratus nigromaculatus (Keyserling, 1883) plus the new species Maratus kiwirrkurra from the Gibson Desert.
+
+Maratus chrysomelas (Simon, 1909)
+(FIGURES 1B, E, H)
+
+Habrocestum chrysomelas Simon, 1909: 201.
+Lycidas chrysomelas: Żabka, 1987: 457, figs 19‒22; Waldock, 2002: 228, figs 1‒10.
+
+Material examined. MALE (QM-S96329) from Australia, central Queensland, Emerald, 23°31’S, 148°09’E, L.
+Sanders, 26 Sep. 2015, hand coll.
+
+     Distribution. Previously known from Western Australia to New South Wales and Victoria (Otto & Hill,
+2016a), now also recorded from central Queensland.
+
+Maratus kiwirrkurra Baehr & Whyte, sp. nov.
+(FIGURES 1A, D, G, 2A‒K, 3)
+
+Material examined. MALE HOLOTYPE (WAM-T138587) from Australia, Western Australia, Bush Blitz,
+Kiwirkurra indigenous protected area, S03, Lake Mackay, salt lake, 22°29'S, 128°22'E, 367 m, B. Baehr, 8‒18 Sep.
+2015, pitfall traps.
+
+     Etymology. The specific name in apposition refers to the type locality and recognises the community of the
+Kiwirrkurra indigenous protected area.
+
+     Diagnosis. This small species belongs to the Maratus chrysomelas group, having a wide rimmed embolic disc
+covered with frontal ridges. There is no retrolateral process of the embolic disc. M. kiwirrkurra can be separated
+from other species of this group by the prosoma and opisthosoma being covered with cinnamon and white setae in
+a mottled manner, an adaptation for crypsis in the sand of the Gibson Desert (Fig. 2C).
+
+     Description. Male (Holotype, WAM-T138587). Total length 2.84. Prosoma 1.49 long, 1.13 wide, pl/pw 1.11;
+sternum 0.63 long, 0.47 wide, sl/sw 1.34; opisthosoma 1.35 long, 1.06 wide; opisthosoma longer than wide, ol/
+ow1.27. Ocular quadrangle 0.67 long. Anterior eye row 0.95, posterior eye row 1.01 wide. AME largest; posterior
+eye group width 0.99 of caput width; AME 0.31; ALE 0.19; PME 0.16; PLE 0.06; AME‒AME 0.03; AME‒ALE
+0.04; PME‒PME 0.91; PME‒PLE 0.14; ALE‒PLE 0.16. Clypeus 0.21 high. Paturon with no promarginal teeth and
+one retromarginal tooth. Length of leg III, femur: 1.08, patella: 0.45, tibia: 0.70, metatarsus: 0.61, tarsus: 0.43,
+length of metatarsus III 0.87 the length of tibia III. Leg formula: 3421. Dorsal part and sides of prosoma cinnamon
+brown, with faint reticular pattern, margin black. Ocular quadrangle darker around eyes black, covered with white
+and cinnamon setae. AME and ALE with cinnamon fringe (Figs 2A, C, E, F). Endites, labium, chelicerae pale and
+sternum pale; opisthosoma cinnamon with darker patches, covered with white and cinnamon setae, with longer
+white setae posteriorly; venter cinnamon with darker brown book-lung covers, covered with white setae. Leg III
+pale cinnamon covered with white setae. Male palp (Figs 1A, D, G, 2H‒K): cymbium short, 1.6 times longer than
+wide, covered with long black setae at prolateral margin and white setae dorsally, tip stout with distal scopula.
+Embolic disc longer than wide (Fig. 1D), with narrow retrolateral groove (Fig. 1G), frontally a few half-moon
+shaped ridges at anterior part and longitudinal ridges at posterior part reaching the end of the embolus (Fig. 1D);
+embolus broad, flattened, embolus tip twisted, opening at frontal part (Fig. 1A); retrobasal tegular lobe (TL) broad
+(Fig. 2I); retrolateral tibial apophysis broadly conical (Fig. 2K).
+
+MARATUS, SIX NEW SPECIES  Zootaxa 4154 (5) © 2016 Magnolia Press · 503
+     Female. Unknown
+     Distribution. Known only from Lake Mackay (Fig. 3) at Kiwirrkurra indigenous protected area, in the Gibson
+Desert, Eastern Western Australia.
+
+FIGURE 1 (A‒I). Maratus species groups males: A, D, G, M. kiwirrkurra Baehr & Whyte, sp. nov. holotype (WAM-T138587);
+B, E, H, M. chrysomelas (QM-S96329); C, F, I, Maratus licunxini Baehr & Whyte, sp. nov. holotype (QM-S96330); A‒C,
+palpal tip with embolic disc; D‒F, embolic disc frontal view; G, I, embolic disc retrolateral view; H, embolus tip.
+
+504 · Zootaxa 4154 (5) © 2016 Magnolia Press  BAEHR & WHYTE
+FIGURE 2 (A‒K). Maratus kiwirrkurra Baehr & Whyte, sp. nov. male holotype (WAM-T138587): A, prosoma, lateral view
+(dry); B, opisthosoma, dorsal view (dry); C, habitus, dorsal view; D, opisthosoma, ventral view; E, prosoma, anterior view; F,
+habitus, lateral view; G, right III leg, prolateral view; H, male palp (expanded), prolateral view; I, same, ventral view; J,
+embolus dorsal view; K, male palp, retrolateral view.
+
+MARATUS, SIX NEW SPECIES  Zootaxa 4154 (5) © 2016 Magnolia Press · 505
+FIGURE 3. Lake Mackay: 22°29'25.0"S, 128°22'53.0"E, 367 m, salt lake.
+
+The Maratus fimbriatus group
+(FIGURES 1C, F, I, 4A‒I, 5A‒F)
+
+Otto & Hill (2016a) described Maratus fimbriatus after which this group is named. It contains species which have
+a shiny black opisthosoma with two longitudinal stripes of white setae at the anterior edge and a long dense fringe
+of white bluish iridescent setae along the sides, an embolic disc with a wide front, covered with frontal ridges and a
+deep lateral groove like a wheel rim. There is no retrolateral process of embolic disc. The shiny black opisthosoma
+and the enormous white bluish iridescent setae along the sides separate this group from any other Maratus group.
+
+     Dance: You tube Peacock Spider 14 (Maratus fimbriatus)
+     (https://www.youtube.com/watch?v=Bf8d2rgGEME)
+     Species: Maratus fimbriatus from the Darling Riverina Plains Bioregion in New South Wales, plus the new
+species Maratus licunxini from Carnarvon Station.
+
+Maratus licunxini Baehr & Whyte, sp. nov.
+(FIGURES 1C, F, I, 4A‒I, 5A‒F, 6)
+
+Material examined. MALE HOLOTYPE (QM-S96330) from Australia, Queensland, Bush Blitz, Carnarvon
+Station Homestead, 24°48’S, 147°45’E, 755 m, B. Baehr, 10 Oct. 2014, hand coll. PARATYPES: 2 male, 1 female
+(QM-S96331), same data as holotype, S. Wright, J. Wilson, 12 Oct. 2014, shallow pit fall pans.
+
+     Etymology. The specific name is a patronym in honour of the artistic director of the Queensland Ballet Li
+Cunxin, who is well known for his passionate dancing performances, now motivating his dancers, giving them
+guidance and vision.
+
+506 · Zootaxa 4154 (5) © 2016 Magnolia Press                           BAEHR & WHYTE
+FIGURE 4 (A‒I). Maratus licunxini Baehr & Whyte, sp. nov. male holotype (QM-S96330). A, habitus, dorsal view; B, habitus,
+lateral view; C, habitus, ventral view; D, prosoma, anterior view; E, right I leg, prolateral view; F, right III leg, prolateral view;
+G, male palp, prolateral view; H, same, ventral view; I, same, retrolateral view.
+
+     Diagnosis. M. licunxini belongs to the Maratus fimbriatus group with a shiny black opisthosoma and
+enormous white bluish iridescent setae along the sides. M. licunxin can be separated from M. fimbriatus by the
+shiny black opisthosoma with an inverted Y-shaped patch of dense white setae at the anterior edge and a chimney-
+like embolus opening at the prolateral part of the embolus (Fig. 1F).
+
+     Description. Male (holotype, QM-S96330). Total length 3.94. Prosoma 1.99 long, 1.45 wide, pl/pw 1.37;
+sternum 0.87 long, 0.57 wide, sl/sw 1.52; abdomen 1.95 long, 1.60 wide; abdomen longer than wide, ol/ow1.21.
+Ocular quadrangle 0.81 long. Anterior eye row 1.16, posterior eye row 1.11 wide. AME largest; posterior eye
+
+MARATUS, SIX NEW SPECIES  Zootaxa 4154 (5) © 2016 Magnolia Press · 507
+group width 0.86 of caput width; AME 0.38; ALE 0.24; PME 0.20; PLE 0.05; AME‒AME 0.05; AME‒ALE 0.04;
+PME‒PME 1.11; PME‒PLE 0.20; ALE‒PLE 0.33. Clypeus 0.21 high. Paturon with no promarginal teeth and one
+retromarginal tooth. Length of leg III, femur: 1.44, patella: 0.60, tibia: 0.82, metatarsus: 0.77, length of metatarsus
+III 0.94 the length the length of tibia III, tarsus: 0.49. Leg formula: 3421. Prosoma dark brown, margin black,
+covered with black and white setae. Ocular quadrangle dark brown; AME with white fringe, frontally with a line of
+long black setae, sides of prosoma with a band and an elongated central patch of white setae. Endites, labium and
+chelicerae pale, sternum cinnamon with dark reticular pattern; opisthosoma black, shiny, sparsely covered with
+long, erect black setae; at the anterior corner of the opisthosoma an inverted Y-shaped patch of dense white setae;
+venter cinnamon, with reticulated bands along the sides; sides with long dense fringe of bluish iridescent setae. Leg
+I‒IV cinnamon with dark reticular pattern, femur I thickly covered with black setae (Fig. 4E). Male palp (Figs
+4G‒I): cymbium short, 1.6 times longer than wide, thickly covered with long white setae, prolateral margin with
+long black setae; tip stout with dark distal scopula. Embolic disc as long as wide, with deep lateral groove; dorsally
+with broad flat front, embolus with wide area of ridges retrolaterally; embolic tip chimney-shaped; without lateral
+process of embolic disc (Figs 1C, F, I); retrobasal tegular lobe (TL) with long, broad v-shaped tip only prolateral
+side concave (Fig. 4H); Palpal femur dorsally covered with long black setae, base of patella with shorter black
+setae, distal part and tibia, densely covered with white setae; retrolateral tibial apophysis long and finger-shaped
+(Fig. 4I).
+
+FIGURE 5 (A‒F). Maratus licunxini Baehr & Whyte, sp. nov. female paratype (QM-S96331). A, habitus, dorsal view; B,
+habitus, lateral view; C, habitus, ventral view; D, prosoma, anterior view; E, epigyne, ventral view; F, epigyne, dorsal view.
+
+     Female (Paratype, QM-S96331). Total length 4.73. Prosoma 2.46 long, 1.78 wide, pl/pw 1.38; sternum 1.09
+long, 0.64 wide, sl/sw 1.52; abdomen 2.28 long, 1.64 wide; abdomen longer than wide, ol/ow1.39. Ocular
+quadrangle 0.86 long. Anterior eye row 1.39, posterior eye row 1.41 wide. AME largest; posterior eye group width
+
+508 · Zootaxa 4154 (5) © 2016 Magnolia Press  BAEHR & WHYTE
+0.89 of caput width; AME 0.43; ALE 0.26; PME 0.23; PLE 0.07; AME‒AME 0.05; AME‒ALE 0.04; PME‒PME
+1.12; PME‒PLE 0.21; ALE‒PLE 0.32. Clypeus 0.12 high. Paturon with two promarginal teeth and one
+retromarginal tooth. Prosoma dark brown covered with black setae. Ocular quadrangle black; AME with white
+fringe. Endites, labium and chelicerae, sternum medium brown with dark reticular pattern; opisthosoma dark
+brown with lighter reticular pattern; venter cinnamon, with reticulated bands along the sides. Leg I‒IV cinnamon
+with dark reticular pattern. Epigyne (Figs 5E, F) with large semicircular windows and median septum, copulatory
+opening (CO) close to median septum, primary spermatheca sausage-shaped. Accessory glands at anterior part of
+copulatory ducts; fertilisation ducts to the side of primary spermathecae.
+
+     Remarks. Males and a female have been collected together but no courtship behaviour has been observed. The
+conspecifity may be established when the courtship of this species is observed and the DNA is tested.
+
+     Distribution. Known only from Carnarvon Station (Fig. 6) in Central Queensland.
+
+FIGURE 6. Carnarvon Station Homestead, 24°48’S, 147°45’E, 755 m.
+
+The Maratus anomalus group
+(FIGURES 7A‒I, 8A‒N, 10A‒I)
+
+This group contains species with a pair of large patches of white setae on the posterior sides of the prosoma (Figs
+8A, E, 10B), with an embolic disc which has a smooth narrow front with a retrobasal knee-shaped structure and a
+long narrow embolic tip with the embolic opening at the posterior distal part (Figs 7A‒F) and a thin semicircular
+lateral process. Embolic tip with a narrow retrolateral fold (Figs 7G‒I).
+
+     This group contains at least Maratus anomalus from NSW and Queensland plus the new species Maratus
+julianneae from Carnarvon Station and Maratus michaelorum from Central Queensland.
+
+Maratus anomalus (Karsch, 1878)
+(FIGURE 7A, D, G)
+
+Lycidas anomalus Karsch, 1878d: 26; Prószyński 1984a: 159 (removed m from S of Saitis nigriceps); Żabka, 1987: 471, figs
+     50‒51.
+
+Maratus anomalus Otto & Hill, 2012a: 23, figs. 28.1‒12, 29.1‒4, 30.1‒8, 31.1‒8, 32.1‒8, 33.1‒12, 34.1‒6, 35.1‒4, 36.1‒6,
+
+MARATUS, SIX NEW SPECIES                                          Zootaxa 4154 (5) © 2016 Magnolia Press · 509
+     37.1‒6. [Type locality: New South Wales. So far known from Bribie Island, Mareeba and Cairns in Queensland (Otto &
+     Hill, 2012a; Atlas of living Australia)].
+
+Material examined. 1 male (QM-S56347), Australia, south-east Queensland, North Stradbroke Is. Enterprise,
+Blackbutt, 27°35’S, 153°28’E, 80 m, QM party, 9 Jan. 2002, day hand coll.; 1 male (QM-S56273), same data as
+previous Scribbly Gum, 27°37’S, 153°26’E, 70 m, D. Cook, 8‒10 Jan. 2002, dung trap; 1 male (QM-S56331), same
+data as previous Mallee, 27°35’S, 153°27’E, 100 m, QM party, 11 Jan. 2002, day hand coll.
+
+     Distribution. Known only from New South Wales, and Queensland.
+
+FIGURE 7 (A‒I). Maratus anomalus group males: A, D, G, M. anomalus (Karsch, 1878) (QM-S56273); B, E, H, M. julianneae
+Baehr & Whyte, sp. nov. holotype (QM-S96325); C, F, I, Maratus michaelorum Baehr & Whyte, sp. nov. holotype (QM-
+S80074); A‒C, palpal tip with embolic disc; D‒F, embolic disc frontal view; G‒I, palpal tip retrolateral view, with retrolateral
+groove at embolic tip and semicircular lateral process of embolic disc.
+
+510 · Zootaxa 4154 (5) © 2016 Magnolia Press  BAEHR & WHYTE
+Maratus julianneae Baehr & Whyte, sp. nov.
+(FIGURES 7B, E, H, 8A‒N, 9)
+
+Material examined. MALE HOLOTYPE (QM-S96325) from Australia, Queensland, Bush Blitz, Carnarvon
+Station Tussock grass with Silver-leaved Ironbark (Eucalyptus melanophloia), 783 m, 24°45’S, 147°44’E, 783 m, B.
+Baehr, 9‒16 Oct. 2014, hand coll. PARATYPES: 1 male (QM-S96326), same data as holotype, pitfall; 1 male (QM-
+S96327), Bush Blitz, Carnarvon Station Lyons Rd., Callitris grass, Cycad, 24°50’S, 147°45’E, 884 m, C. Lambkin,
+8‒9 Oct. 2014, yellow pans; 1 male (QM-S96328), same as previous, C. Lambkin, N. Starick, B. Hawkins, 13 Oct.
+2014, hand coll.
+
+     Etymology. The specific name is a patronym in honour of Julianne Waldock, for her contributions to Maratus
+systematics over more than two decades. She also provided excellent support for Madeline Girard in finding
+Maratus localities.
+
+     Diagnosis. This species belongs to the Maratus anomalus group, sharing a pair of large patches of white setae
+on the posterior sides of the prosoma, with an embolic disc which has a smooth narrow front with a retrobasal
+knee-shaped structure and a long narrow embolic tip with the embolic opening at the posterior distal part and a thin
+semicircular lateral process of embolic disc with a narrow retrolateral fold.
+
+     Maratus julianneae can be separated from M. michaelorum and M. anomalus by the pattern of the
+opisothosoma. M. michaelorum has a pattern of a heart-shaped circle and two elongated patches of golden orange
+setae in the centre and M. anomalus has a completely bluish iridescent opisthosoma, whereas Maratus julianneae
+has a grey-whitish opisthosoma with bluish iridescent sides at the posterior third.
+
+     Description. Male (QM-S96325). Total length 4.21. Prosoma 2.05 long, 1.60 wide, pl/pw 1.28; sternum 1.01
+long, 0.71 wide, sl/sw 1.42; opisthosoma 2.16 long, 1.56 wide; opisthosoma longer than wide: ol/ow1.38. Ocular
+quadrangle 0.77 long. Anterior eye row 1.35, posterior eye row 1.49 wide. AME largest; posterior eye group width
+0.97 of caput width; AME 0.40; ALE 0.24; PME 0.19; PLE 0.06; AME‒AME 0.05; AME‒ALE 0.05; PME‒PME
+1.30; PME‒PLE 0.18; ALE‒PLE 0.29. Clypeus 0.22 high. Paturon with no promarginal teeth and one
+retromarginal tooth. Length of leg III, femur: 1.65, patella: 0.71, tibia: 0.99, metatarsus: 0.73, tarsus: 0.58, length of
+metatarsus III 0.74 the length of tibia III. Leg formula: 3421. Dorsal part of the prosoma dark brown, sides pale
+with dark reticular pattern, margin black. Ocular quadrangle covered with white setae. Front and half of the sides
+covered with golden setae. Posterior sites of the prosoma with large patches of white setae. Endites, labium and
+chelicerae pale with dark markings, sternum pale; opisthosoma pale, dotted with black and with one larger pair of
+black dots posteriorly, sparsely covered with longer black setae and white setae, bluish iridescent at posterior 1/3 of
+the opisthosoma lateraly. Lateral shoulders with longer white setae, venter pale. Male palp (Figs 7B, E, H, 8H‒N):
+cymbium short, 1.6 times longer than wide, covered with long black setae, tip stout with distal scopula. Embolic
+disc as wide as long with smooth rim and no tooth-like projections centrally, embolus with narrow v-shaped tip,
+opening at the posterior part (Fig. 7E); lateral process of embolic disc a long semicircular spur fitting into the
+retrolateral groove of the embolus (Fig. 7H); tegular shoulder with cone-shaped lamella (LTS); retrobasal tegular
+lobe (TL) with narrow tip both sides concave (Fig. 8J); tibia about as long as wide, prolaterally with long white
+setae covering 2/3 of the cymbium; retrolateral tibial apophysis (RTA) triangular (Fig. 8K).
+
+     Female. Unknown
+     Distribution. Known only from Carnarvon Station in central Queensland.
+
+Maratus michaelorum Baehr & Whyte, sp. nov.
+(FIGURES 7C, F, I, 10A‒I)
+
+Material examined. MALE HOLOTYPE (QM-S80074) from Australia, Queensland Moolayember Creek
+National Park site 3, Ironbark woodland, 25°14’S, 148°37’E, 410 m, Wright, Burwell, 3‒10 Mar. 2006, yellow pan
+traps.
+
+     Records. 1 male, Carnarvon Gorge National Park, 25°03’S, 148°13’E, M. Girard, 19 Oct. 2015, hand coll.
+     Etymology. The specific name is a patronym in honour of Michael Duncan and Michael Doe, who are experts
+at finding new members of the Maratus anomalus group mostly in “tussock grass” and who provided excellent live
+photography for this paper.
+
+MARATUS, SIX NEW SPECIES  Zootaxa 4154 (5) © 2016 Magnolia Press · 511
+FIGURE 8 (A‒N). Maratus julianneae Baehr & Whyte, sp. nov. male holotype (QM-S96325). A,D,E, live images (photos:
+Robert Whyte); A, B, habitus, dorsal view; C, habitus, ventral view; D, prosoma, anterior view; E, habitus, lateral view; F,
+opisthosoma frontal view; G, right III leg, prolateral view; H, I, male palp, prolateral view; J, same, ventral view; K, same,
+retrolateral view; L, embolic disc, prolateral view; M, same, ventral view; N, same, retolateral view.
+
+512 · Zootaxa 4154 (5) © 2016 Magnolia Press  BAEHR & WHYTE
+FIGURE 9. Carnarvon Station Tussock grass with Eucalyptus melanophloia, 24°45’S, 147°44’E, 783 m.
+
+     Diagnosis. This species belongs to the Maratus anomalus group sharing a pair of large patches of white setae
+on the posterior sides of the prosoma, an embolic disc which has a smooth narrow front with a retrobasal knee-
+shaped structure and a long narrow embolic tip with the embolic opening at the posterior distal part and a thin
+semicircular lateral process of the embolic disc with a narrow retrolateral fold.
+
+     M. michaelorum can be separated from the other two species in the group by the special embolic tip with an
+elongated embolic opening (Figs 7C, F) and the green bluish colour of the opisthosoma with a pattern of a heart-
+shaped circle and two elongated patches of golden orange setae in the centre (Fig. 10A).
+
+     Description. Male (Holotype, QM-S80074). Total length 3.85. Prosoma 1.86 long, 1.50 wide, 1.03 high, pl/
+pw 1.24; sternum 0.75 long, 0.50 wide, sl/sw 1.50; opisthosoma 1.99 long, 1.37 wide; opisthosoma longer than
+wide, ol/ow1.45. Ocular quadrangle 0.60 long. Anterior eye row 1.05, posterior eye row 1.17 wide. AME largest;
+posterior eye group width 0.97 of caput width; AME 0.36; ALE 0.23; PME 0.18; PLE 0.07; AME‒AME 0.04;
+AME‒ALE 0.05; PME‒PME 1.19; PME‒PLE 0.15; ALE‒PLE 0.19. Clypeus 0.19 high. Paturon with no
+promarginal teeth and one retromarginal tooth. Length of leg III, femur: 1.57, patella: 0.60, tibia: 0.98, metatarsus:
+0.86; length of metatarsus III 0.88 the length of tibia III, tarsus: 0.51. Leg formula: 3421. Dorsal part of the
+prosoma dark brown, sides cinnamon with dark reticular pattern, margin black. Ocular quadrangle covered with
+white setae, sides around ALE with golden setae, clypeus and AME with white fringe, posterior sites of prosoma
+with large pair of patches of white setae. Endites, labium and chelicerae pale, sternum pale; opisthosoma bluish
+iridescent with a heart-shaped circle and two elongated patches of golden orange setae in the centre, sparsely
+covered with longer black setae and with longer white setae at the anterior edge of the opisthosoma; venter pale,
+dotted with dark spots along the sides and with one patch in front of the spinnerets. Leg III: coxa, trochanter, base
+and ventral side of femur, metatarsus and tarsus pale; femur, patella and tibia thickly covered with black setae,
+metatarsus and tarsus covered with a thick layer of white setae. Male palp (Figs 7C, F, I, 10G‒I): cymbium short,
+1.6 times longer than wide, covered with long black setae, tip stout with distal scopula. Embolic disc wider than
+long, with smooth, narrow rim, with elongated embolic opening (Figs 7F, I); lateral process of embolic disc a long
+
+MARATUS, SIX NEW SPECIES  Zootaxa 4154 (5) © 2016 Magnolia Press · 513
+semicircular spur fitting into the retrolateral groove of the embolus; tegular shoulder with cone-shaped lamella
+(LTS); retrobasal tegular lobe (TL) with broader tip than M. julianneae, tip only prolateral side concave (Fig. 10H);
+Femur, patella and tibia covered prolaterally with long white setae covering 1/2 of the cymbium; retrolateral tibial
+apophysis triangular (Fig.10I).
+
+FIGURE 10 (A‒I). Maratus michaelorum Baehr & Whyte, sp. nov. male. A, life image male in displaying position (photo:
+Madeline Girard); B‒I, male holotype (QM-S80074): B, habitus, dorsal view; C, habitus, ventral view; D, prosoma, anterior
+view; E, habitus, lateral view; F, right III leg, prolateral view; G, male palp, prolateral view; H, same, ventral view; I, same,
+retrolateral view.
+
+514 · Zootaxa 4154 (5) © 2016 Magnolia Press  BAEHR & WHYTE
+     Female. Unknown.
+     Distribution. Known only from Moolayember Creek National Park and Carnarvon Gorge National Park in
+Central Queensland.
+
+The Maratus digitatus group
+(FIGURES 11A‒I, 12A‒I, 13A‒I)
+
+This group contains species with small flaps, displaying with one leg to one side and with inflated spinnerets (J.
+Otto, pers. comm.). They have an embolic disc with a broad smooth front and a broad spatulate embolic tip with the
+embolic opening at the frontal distal part enclosed by a hole (Figs 11A‒F) and a finger-like lateral process of
+embolic disc with pancake-stack shaped retrolateral ridges (Figs 11G‒I).
+
+     The group includes Maratus digitatus from northern NSW and south eastern Queensland, plus the new species
+Maratus eliasi from Queensland and Maratus ottoi from the Brisbane area.
+
+     Further SEM examination of the embolic disc will clarify if the Maratus digitatus group is the same as the
+Maratus calcitrans group (Otto & Hill, 2015).
+
+Maratus digitatus Otto & Hill, 2012
+(FIGURES 11C, F, I)
+
+Maratus digitatus Otto & Hill, 2012b: 10, figs 12‒27. Type locality: Mount Kaputar near Narrabri, northern New South Wales.
+
+Material examined. AUSTRALIA: 2 males (QM-S47268), south-east Queensland, Nipping Gully, site 5,
+Rainforest, 25°42’S, 151°26’E, 200 m, Monteith & Gough, 9 Oct.‒18 Dec. 1998, intercept; 1 male (QM-S57424),
+south-east Queensland, East Woodmillar, Vine Scrub, 25°41’S, 151°36’E, 250 m, Monteith & Gough, 10 Oct.‒17
+Dec. 1998, intercept; 1 male (QM-S46992), south-east Queensland, Koy Property at Brigooda (Top site), Vine
+Scrub, 26°16’S, 151°25’E, 250 m, Monteith & Gough, 10 Oct.‒17 Dec. 1998, intercept. (These localities were
+mentioned in Otto & Hill, 2015: fig. 37).
+
+     Distribution. Northern New South Wales and south-eastern Queensland.
+
+Maratus eliasi Baehr & Whyte, sp. nov.
+(FIGURES 11A, D, G, 12A‒I)
+
+Material examined. MALE HOLOTYPE (QM-S96335) from Australia, Queensland, Nuga Nuga National Park,
+24°59’S, 148°40’E, M. Girard and D. Elias, 20 Oct. 2015, hand coll. PARATYPES: 1 male (QM-S73641) from
+Australia, Queensland, Boomer Ra. Mongrel Scub, 23°12’S, 149°46’E, G. Monteith, 16 Dec. 1999‒22 Mar. 2000,
+intercept.
+
+     Records. 1 male, Australia, Queensland, Tregole National Park, 26°29’S, 147°06’E, M. Girard and D. Elias, 20
+Oct. 2015, hand coll, deposited in M. Girard’s collection.
+
+     Etymology. The specific name is a patronym in honour of Dr Damian Elias, who helped to discover new
+populations of M. eliasi while assisting his wife, Madeline Girard who was collecting specimens for her PhD work.
+
+     Diagnosis. M. eliasi belongs to the digitatus group in having inflatable spinnerets (Fig. 12A) M. eliasi is
+closely related to M. digitatus (mentioned in Otto & Hill, 2015: fig. 37 as Maratus cf. digitatus) sharing a nearly
+identical prosomal colour pattern and in having a larger pair of semicircular, iridescent, flaps which are uniformly
+dark green in M. digitatus.
+
+     M. eliasi can be separated from M. digitatus by its opisthosomal colour pattern (golden and striped flaps) (Fig.
+12A) and its shorter embolic tip (Figs 11B, E).
+
+     Description. Male (Holotype, QM-S96335). Total length 3.98. Prosoma 2.12 long, 1.60 wide, pl/pw 1.32;
+sternum 0.91 long, 0.52 wide, sl/sw 1.75; abdomen 1.86 long, 1.44 wide; abdomen wider than long when inflated,
+(ol/ow 0.68; QM-S73641). Ocular quadrangle 0.93 long. Anterior eye row 1.51, posterior eye row 1.54 wide. AME
+
+MARATUS, SIX NEW SPECIES  Zootaxa 4154 (5) © 2016 Magnolia Press · 515
+largest; posterior eye group width 0.92 of caput width; AME 0.47; ALE 0.27; PME 0.23; PLE 0.08; AME‒AME
+0.04; AME‒ALE 0.03; PME‒PME 1.19; PME‒PLE 0.180; ALE‒PLE 0.22. Clypeus 0.22 high. Paturon with no
+promarginal teeth and one retromarginal tooth. Length of leg III, femur: 1.54, patella: 0.65, tibia: 0.88, metatarsus:
+0.75, tarsus: 0.52; metatarsus III 0.85 the length of tibia III. Leg formula: 3421. Prosoma dark brown; ocular
+quadrangle covered with golden setae scattered with white setae forming three bands, sides with a fringe, a
+posterior median patch and two lateral patches of white setae; AME and ALE dorsally with a fringe of golden
+
+FIGURE 11 (A‒I). Maratus digitatus group males: A, D, G, M. eliasi Baehr & Whyte, sp. nov. holotype (QM-S96335); B, E, H,
+M. ottoi Baehr & Whyte, sp. nov. holotype (QM-S96332); C, F, I, Maratus digitatus Otto & Hill, 2012 (QM-S47268); A‒C,
+palpal tip with embolic disc; D‒F, embolic disc frontal view; G‒I, palpal tip retrolateral view, embolic disc with flat retrolateral
+groove and finger shaped lateral process of embolic disc with pancake-stack shaped retrolateral ridges.
+
+516 · Zootaxa 4154 (5) © 2016 Magnolia Press  BAEHR & WHYTE
+FIGURE 12 (A‒I). Maratus eliasi Baehr & Whyte, sp. nov. male holotype (QM-S96335). A, live photo (photo: Michael
+Duncan); B, habitus, dorsal view (QM-S73641); C‒I, (QM-S96335), C, habitus, ventral view; D, prosoma, anterior view; E,
+habitus, lateral view; F, right III leg, prolateral view; G, male palp, prolateral view; H, same, ventral view; I, same, retrolateral
+view.
+
+MARATUS, SIX NEW SPECIES  Zootaxa 4154 (5) © 2016 Magnolia Press · 517
+setae, ventrally with a fringe of white setae. Endites distally pale; labium, chelicerae and sternum medium brown
+with darker reticulation; opisthosoma bluish iridescent, a dancing monster with a red head and arms and blue eyes
+when seen from the front, flaps golden with one black and two white stripes; venter pale. Leg I‒IV covered with
+white setae; tibiae and metatarsi I‒IV dark brown tarsi I‒IV pale. Male palp (Figs 11A, D, G, 12G‒I): cymbium
+short, 1.6 times longer than wide, covered with white setae, prolateral distal half with stronger dark satae; tip stout
+with distal scopula. Embolic disc wider than long, with broad, flat front and flat retrolateral groove; with few small
+tooth-like denticules at the retrocentral part of the disc; embolus tip with triangular retrolateral ridge embolic
+opening pipe or chimney-shaped; finger-like lateral process of embolic disc with pancake-stack shaped retrolateral
+ridges; tegular shoulder with cone-shaped lamella (LTS); retrobasal tegular lobe (TL) with broader tip only
+prolateral side concave (Fig. 12H); patella and tibia covered with long white setae covering 1/2 of the cymbium
+retolaterally; retrolateral tibial apophysis narrow, finger-shaped.
+
+     Female. Unknown.
+     Distribution. Known only from Queensland.
+
+Maratus ottoi Baehr & Whyte, sp. nov.
+(FIGURES 11B, E, H, 13A‒I)
+
+Material examined. MALE HOLOTYPE (QM-S96332) from Australia, south-east Queensland, Venman
+Bushland National Park, 27°37’S, 153°12’E, M. Doe, 10 Nov. 2015. ALLOTYPE: 1 female (QM-S96333), same
+data as previous, M. Duncan. PARATYPE: 1female (QM-S96334), same data as previous; 1 male (QM-S35068),
+south-east Queensland, Rochdale State Forest, 27°37’S, 153°09’E, V. Davies, R. Raven, 6 Sep. 1979.
+
+     Remarks. Maratus ottoi was known from black and white drawings in a publication by Davies & Żabka
+(1989: 237, fig. 40), based on a male, collected by Val Davies and Robert Raven in 1979 in the Rochedale State
+Forest (QM-S35068). At that time it was not named. In 2015 live individuals were found by Madeline Girard,
+Michael Doe and Michael Duncan in the Venman Bushland National Park (QM-S96333, S96334).
+
+     Dance: You tube Peacock Spider 15 (https://www.youtube.com/watch?v=my5AqKpC-Rs).
+     Etymology. The specific name is a patronym in honour of Dr Jürgen Otto, one of Australia’s most
+accomplished Maratus experts.
+     Diagnosis. M. ottoi is closely related to M. eliasi sharing a nearly identical prosomal colour pattern (Figs 12A,
+13A) and a similar embolic disc (Figs 11A, B). M. ottoi can be separated from M. eliasi by having a different
+opisthosomal colour pattern with no red posterior markings but an octopus-like pattern anteriorly (this species had
+the nickname “Mr Octopus”) (Fig. 13A) with tooth like denticules at the retrocentral part of the embolus (Fig. 11B)
+and a slightly rounded embolic tip (Fig. 11E).
+     Description. Male (Holotype, QM-S96332). Total length 4.11. Prosoma 2.11 long, 1.74 wide, pl/pw 1.21;
+sternum 1.00 long, 0.56 wide, sl/sw 1.78; abdomen 2.00 long, 1.40 wide, not inflated. Ocular quadrangle 0.99 long.
+Anterior eye row 1.53, posterior eye row 1.52 wide. AME largest; posterior eye group width 0.87 of caput width;
+AME 0.47; ALE 0.28; PME 0.20; PLE 0.08; AME‒AME 0.05; AME‒ALE 0.04; PME‒PME 1.26; PME‒PLE
+0.20; ALE‒PLE 0.31. Clypeus 0.16 high. Paturon with two promarginal teeth and one retromarginal tooth. Length
+of leg III, femur: 1.72, patella: 0.70, tibia: 0.91, metatarsus: 0.87, tarsus: 0.53; metatarsus III 0.94 the length of tibia
+III. Leg formula: 3421. Prosoma dark brown sides cinnamon with dark reticulation; ocular quadrangle covered
+with golden setae scattered with white setae, sides with a fringe, and two lateral patches of white setae just behind
+the PME; AME and ALE dorsally with a fringe of golden setae, ventrally with a fringe of white seatae. Endites,
+labium, chelicerae and sternum pale with darker reticulation; opisthosoma dark with patterns of bluish iridescent
+setae forming an “octopus pattern”, with two red lateral arms when seen from the front; venter pale with irregular
+black dots. Leg I, II, IV pale with darker spots, covered with white setae; leg III: femur medium brown, patella
+cinnamon, tibia and metatarsus dark brown tarsus white. Male palp (Figs 11B, E, H, 13G‒I): cymbium short, 1.6
+times longer than wide, covered with long white setae; tip stout with distal scopula. Embolic disc wider than long,
+with smooth flat rim, no longitudinal ridges but tooth-like denticules at the retrocentral part of the embolus;
+embolus tip with rounded retrolateral ridge, embolus opening at dorsal part of the ridge; (Fig. 11E); lateral process
+of embolic disc compact with longitudinal pancake-stack shaped lamellae (Fig. 11H); tegular shoulder with cone-
+shaped lamella (LTS); retrobasal tegular lobe (TL) with narrow tip only prolateral side strongly concave (Fig.
+13H); retolateral part of patella and tibia covered with long white setae covering 1/2 of the cymbium; retrolateral
+tibial apophysis narrow, finger-shaped (Fig. 13I).
+
+518 · Zootaxa 4154 (5) © 2016 Magnolia Press  BAEHR & WHYTE
+FIGURE 13 (A‒I). Maratus ottoi Baehr & Whyte, sp. nov. male holotype (QM-S96332). A, live photograph of a male in display
+position (photo: Michael Doe); B, habitus, dorsal view; C, habitus, ventral view; D, prosoma, anterior view (photo: Michael
+Duncan); E, habitus, lateral view; F, right III leg, prolateral view; G, male palp, prolateral view; H, same, ventral view; I, same,
+retrolateral view.
+
+MARATUS, SIX NEW SPECIES  Zootaxa 4154 (5) © 2016 Magnolia Press · 519
+FIGURE 14 (A‒H). Maratus ottoi Baehr & Whyte, sp. nov. female allotype (QM-S96333). A, habitus, dorsal view; B, habitus,
+lateral view; C, habitus, ventral view; D, prosoma, anterior view; E, chelicerae, anterior view; F, chelicerae, posterior view; G,
+epigyne, ventral view; H, same, dorsal view.
+
+520 · Zootaxa 4154 (5) © 2016 Magnolia Press  BAEHR & WHYTE
+FIGURE 15 (A‒I). Maratus males: A, D, G, M. volans (O. Pickard-Cambridge, 1874) (QM-S 54112); B, E, H, M. speciosus (O.
+Pickard-Cambridge, 1874) (QM-S26034); C, F, I, Maratus pavonis var. nornalup (WAM-T136127); A‒C, palpal tip with
+embolic disc; D‒F, embolic disc frontal view; G‒I, palpal tip retrolateral view, with flat retrolateral groove and differently
+shaped lateral process of embolic disc.
+
+     Female (Allotype, QM-S96333). Total length 4.54. Prosoma 2.36 long, 1.82 wide, pl/pw 1.30; sternum 0.92
+long, 0.58 wide, sl/sw 1.58; abdomen 2.17 long, 1.73 wide; abdomen longer than wide, ol/ow1.56. Ocular
+quadrangle 0.93 long. Anterior eye row 1.73, posterior eye row 1.70 wide. AME largest; posterior eye group width
+0.93 of caput width; AME 0.52; ALE 0.29; PME 0.26; PLE 0.07; AME‒AME 0.05; AME‒ALE 0.05; PME‒PME
+1.45; PME‒PLE 0.19; ALE‒PLE 0.20. Clypeus 0.14 high. Paturon with two promarginal teeth and one
+retromarginal tooth. Prosoma cinnamon with darker reticulation covered with black setae. Ocular quadrangle
+
+MARATUS, SIX NEW SPECIES  Zootaxa 4154 (5) © 2016 Magnolia Press · 521
+black, indented at middle; AME and ALE with white fringe. Endites, labium, chelicerae and sternum pale;
+opisthosoma dark brown with cinnamon sides and inverted v-shaped pattern dorsally; venter pale. Leg I‒IV
+cinnamon with darker spots. Epigyne (Figs 14G, H) with large semicircular windows, and a median septum,
+copulatory opening (CO) close to median septum, primary spermatheca large nearly circular, secondary
+spermatheca much smaller, circular. Accessory glands at anterior part of secondary spermatheca, fertilisation ducts
+laterally of primary spermathecae.
+
+     Distribution. Known only from the greater Brisbane area in Queensland.
+
+The Maratus pavonis group
+(FIGURES 15C, F, I, 16A‒I)
+
+This group contains those species with an embolic disc which has a broad smooth rim and a broad bent embolic
+ridge with the embolic opening at the frontal end (Fig. 15F). The lateral process of the embolic disc has a pointed
+tip and zig-zag longitudinal ridges (Fig. 15I).
+
+     Further SEM examination of the embolic discs of known and other putative M. pavonis specimens will clarify
+if the palpal characters shown in M. pavonis var nornalup are also present elsewhere in the Maratus pavonis
+group.
+
+Maratus pavonis (Dunn, 1947) var. nornalup
+(FIGURES 15C, F, I, 16A‒I)
+
+Saitis pavonis: Dunn, 1947, 1957
+Maratus pavonis, Żabka, 1991;
+Maratus pavonis Otto & Hill, 2014b.
+
+Material examined. 1 male (WAM-T136127) from Australia, Western Australia Nornalup Inlet, 35°01’S,
+116°44’E, B. & M. Baehr, 1‒2. Dec. 1987, hand coll.
+
+     Etymology. The var. name refers to the location Nornalup Inlet.
+     Diagnosis. Maratus pavonis var. nornalup shares with maratus pavonis the uniform colouration of the eye
+region, a similar opisthosmal pattern and the relatively translucent legs I, II, and IV, with no white banding (Otto &
+Hill, 2014b), but can be separated from M. pavonis by having a pale femur III, a metatarsus III 1.08 x longer than
+tibia III and the whole venter of the opisthosoma covered with tiny knobs (like goosebumps).
+     Description. Male (Holotype, WAM-T136127). Total length 4.46. Prosoma 2.03 long, 1.54 wide, pl/pw 1.32;
+sternum 0.99 long, 0.71 wide, sl/sw 1.39; opisthosoma 2.43 long, 2.00 wide; opisthosoma longer than wide, ol/
+ow1.21. Ocular quadrangle 0.90 long. Anterior eye row 1.42, posterior eye row 1.37 wide. AME largest; posterior
+eye group width 0.96 of caput width; AME 0.40; ALE 0.26; PME 0.22; PLE 0.07; AME‒AME 0.05; AME‒ALE
+0.06; PME‒PME 1.15; PME‒PLE 0.19; ALE‒PLE 0.34. Clypeus 0.18 high. Paturon with no promarginal teeth and
+one retromarginal tooth. Length of leg III, femur: 1.71, patella: 0.61, tibia: 1.11, metatarsus: 1.12, tarsus: 0.43;
+length of metatarsus III 1.08 the length of tibia III. Leg formula: 3421. Prosoma dark brown; ocular quadrangle
+covered with golden setae, sides with a fringe and a posterior median stripe of white setae; AME and ALE with a
+fringe of golden setae. Endites, labium and chelicerae pale with darker reticulation, sternum dark brown with
+lighter reticulation; opisthosoma bluish iridescent with an inverted heart-shaped circle and two elongated patches
+of golden orange setae in the centre; venter covered with goosbumps, cinamon, dotted with dark spots forming
+lines. Leg I, II, IV uniform pale, III: coxa, trochanter, and femur pale, distal end darker, patella, tibia and metatarsus
+dark brown, tarsus pale; tibia and metatarsus thickly covered with black setae in fan-like position, tarsus covered
+with a thick layer of white setae. Male palp (Figs 15C, F, I, 16G‒I): cymbium short, 1.6 times longer than wide,
+covered with white setae, prolateral distal half with stronger dark satae; tip stout with distal scopula. Embolic disc
+wider than long, with broad front, centre with field of cusples, embolus tip with ridge, embolus opening at anterior
+part of the ridge; (Fig. 15F); lateral process of embolic disc with retrolateral ridges and a spear-shaped tip close to
+the retrolateral groove of the embolus (Fig. 15I); tegular shoulder with cone-shaped lamella (LTS); retrobasal
+tegular lobe (TL) with broader tip only prolateral side concave (Fig. 16H); Distal half of femur, patella and tibia
+
+522 · Zootaxa 4154 (5) © 2016 Magnolia Press  BAEHR & WHYTE
+covered with long white setae covering half of the cymbium; retrolateral tibial apophysis narrow, finger-shaped
+(Fig. 16I).
+
+     Female. Unknown.
+     Distribution. Nornalup Inlet, south Western Australia.
+
+FIGURE 16 (A‒I). Maratus pavonis var. nornalup male (WAM-T136127). A, habitus, dorsal view; B, habitus, ventral view; C,
+opisthosoma, ventral view; D, prosoma, anterior view; E, habitus, lateral view; F, right III leg, prolateral view; G, male palp,
+prolateral view; H, same, ventral view; I, same, retrolateral view.
+
+MARATUS, SIX NEW SPECIES  Zootaxa 4154 (5) © 2016 Magnolia Press · 523
+Maratus speciosus (O. Pickard-Cambridge, 1874)
+(FIGURES 15B, E, H)
+
+Salticus speciosus O. Pickard-Cambridge, 1874c: 180, pl. 17, fig. 5 (Dm). Type locality: Swan River, Perth, Western Australia.
+Habrocestum speciosum: Keyserling 1883b: 1468, pl. 123, fig. 8 (Df).
+Saitis speciosus: Simon 1901: 564.
+Maratus speciosus: Otto & Hill 2012a: 42, figs 52.1‒6, 53.1‒4, 54.1‒9, 55.1‒8. 56.1‒3. 57.1‒9, 58.1‒6, 59.1‒5 (Tmf from
+
+     Saitis).
+
+Material examined. 1 male, 1 female (QM-S26034), Western Australia, Mosman Beach, 32°01’S, 115°45’E , 10
+Sep. 1994, S. Wilson, hand coll. during courtship.
+
+     Distribution. Previously known only from Perth Western Australia; this record is from nearly the same area.
+     Dance: You tube Peacock Spider 7 (Maratus speciosus) (https://www.youtube.com/watch?v=d_yYC5r8xMI).
+
+The Maratus volans group
+(FIGURES 15A, D, G)
+
+Otto & Hill (2014a) described the Maratus volans group (M. pardus and M. volans) as having a wide fringe at the
+sides of the opisthosoma and similar courtship displays.
+
+Maratus volans (O. Pickard-Cambridge, 1874)
+(FIGURES 15A, D, G)
+
+Salticus volans O. Pickard-Cambridge, 1874c: 178, pl. 17, fig. 4
+Maratus amoenus Karsch, 1878d: 28.
+Saitis volans: Simon 1901: 559, 563, figs 677‒679; Butler 1933: 291, pl. 17, fig. 6; Prószyński 1984: 126 (m).
+Maratus amoenus Żabka, 1987: 479, fig. 67‒69 (Dm; N.B.: a primary junior homonym and an objective junior synonym of M.
+
+     amoenus Karsch, as per Waldock, 1995: 169).
+Maratus volans: Żabka 1991: 39 (Tm from Saitis, S); Otto & Hill 2014a: 16, figs 8, 9.3‒4, 16‒21, 25, 29, 32, 36, 41; Zhang &
+
+     Maddison, 2015: 77, figs 485‒490.
+
+Material examined. AUSTRALIA: 8 males (QM-S44771), south-east Queensland, Binjour Plateau, Swains Road,
+vine scrub, 25°32’S, 151°30’E, 340 m, 23 Sep.‒21 Dec. 1997, Monteith, Cook, intercept trap; 7 males (QM-
+S44428), same as previous; 1 male (QM-S60108), same as previous, 20‒26 Apr. 1998; 1 male (QM-S31979),
+south-east Queensland, Jack Smith E.P. on Boat Mountain, vine scrub, 26°08’S, 151°58’E, 340 m, 15 Dec.
+1994‒26 Jan. 1995, G. Monteith, intercept trap; 12 males (QM-S59966), south-east Queensland, Hurdle Gully 10.8
+km WSW Monto, vine scrub, 24°54’S, 151°01’E, 320 m, 23 Sep.‒20 Dec. 1997, Monteith, Cook, intercept trap; 1
+male (QM-S31690), south-east Queensland, Hurdle Gully, 13 km WSW Monto, vine scrub, 24°54’S, 151°01’E,
+350m, 23 Sep.‒20 Dec. 1997, Monteith, Cook, intercept trap; 2 males (QM-S33357), south-east Queensland,
+Nangur State Forest 26°08’S, 151°58’E, 320 m, 24 Oct.‒24 Nov. 1995, G. Monteith, intercept trap; 1 male (QM-
+S49213), same as previous, 29 Jul.‒23 Oct. 1995; 1 male (QM-S73640), south-east Queensland, Perrys Knob, vine
+scrub, 27°36’S, 152°36’E, 200 m, 11 Nov. 1998‒13 Jan. 1999, Monteith, Cook, Thompson, intercept trap; 1 male
+(QM-S54112), NEQ, High Falls, 16°24’S, 145°18’E, 500 m, 25 Jan.‒12 Feb. 1996, R. Werz, pitfall traps.
+
+     Distribution. Queensland, New South Wales, Victoria.
+     Dance: You tube Peacock Spider 1(Maratus volans) (https://www.youtube.com/watch?v=9GgAbyYDFeg).
+
+Acknowledgements
+
+This paper was completed with support from the Australian Government’s Australian Biological Resources Study
+(ABRS) Bush Blitz Strategic Taxonomy Grants Scheme Grant Nr: TTC214-49 to study the Maratus specimens
+from different Bush Blitz trips as well as from the Queensland Museums Collection.
+
+524 · Zootaxa 4154 (5) © 2016 Magnolia Press  BAEHR & WHYTE
+     We would like to thank Jo Harding (Manager), Kate Gillespie (Senior Project Officer), Mim Jambrecina
+(Senior Project Officer), Beth Tully and the Bush Blitz team for their support in the field.
+
+     Special thanks to Dr Jürgen Otto who shared his knowledge about Maratus with us, Madeline Girard who
+provided specimens for M. eliasi and Michael Doe for M.ottoi now in the QM collection, Michael Duncan and
+Michael Doe for their images and Laurence Sanders who provided a M. chrysomelas male for SEM studies and for
+the QM collection. We give a big thank you to Dr Robert Raven for his continuous support in finding all the
+peacock spiders in the Queensland Museum Collection. Last but not least we thank Gustavo Ruiz and the referees
+for their thorough work improving our manuscript.
+
+References
+
+Atlas of living Australia (2016) CSIRO.
+Butler, L.S.G. (1933) The common and conspicuous spiders of Melbourne. Victoria Naturalist, 49, 271‒292.
+Davies, V.T. & Żabka, M. (1989) Illustrated keys to the genera of jumping spiders (Araneae: Salticidae) in Australia. Memoirs
+
+     of the Queensland Museum, 27, 189‒266.
+Dunn, R.A. (1947) A new salticid spider from Victoria. Memoirs of the National Museum of Victoria, 15, 82-85.
+Karsch, F. (1878) Diagnoses Attoidarum aliquot novarum Novae Hollandiae collectionis Musei Zoologici Berolinensis.
+
+     Mittheilungen des Münchener Entomologischen Vereins, 2, 22‒32.
+Keyserling, E. (1883) Die Arachniden Australiens. Nürnberg, 1, 1421‒1489.
+Otto, J.C. & Hill, D.E. (2012a) Notes on Maratus Karsch 1878 and related jumping spiders from Australia, with five new
+
+     species (Araneae: Salticidae: Euophryinae). Peckhamia, 103 (1), 1‒81.
+Otto, J.C. & Hill, D.E. (2012b) Two new Australian peacock spiders that display inflated and extended spinnerets (Araneae:
+
+     Salticidae: Euophryinae: Maratus Karsch 1878). Peckhamia, 104 (1), 1‒28.
+Otto, J.C. & Hill, D.E. (2014a) Description of a new peacock spider from Cape Le Grand, Western Australia, with observations
+
+     on display by males and females and comparative notes on the related Maratus volans (Araneae: Salticidae: Euophryinae:
+     Maratus). Peckhamia, 114, 1‒38.
+Otto, J.C. & Hill, D.E. (2014b) Peacock spiders of the pavonis group from southern (Araneae: Salticidae: Euophryinae:
+     Maratus). Peckhamia, 117 (1), 1‒62.
+Otto, J.C. & Hill, D.E. (2015) Two new peacock spiders of the calcitrans group from southern Queensland (Araneae: Salticidae:
+     Euophryinae: Maratus). Peckhamia, 121 (1), 1‒34.
+Otto, J.C. & Hill, D.E. (2016a) Maratus fimbriatus, a new peacock spider from the Darling Riverine Plains of New South
+     Wales, with a review of the Maratus chrysomelas group (Araneae: Salticidae: Euophryini). Peckhamia, 136 (1), 1‒24.
+Otto, J.C. & Hill, D.E. (2016b) Seven new peacock spiders from Western Australia and South Australia (Araneae: Salticidae:
+     Euophryini: Maratus). Peckhamia, 141 (1), 1‒101.
+Pickard-Cambridge, O. (1874) On some new genera and species of Araneidea. Annals and Magazine of Natural History, (4) 14,
+     169‒183.
+Prószyński, J. (1984) Atlas rysunków diagnostycznych mniej znanych Salticidae (Araneae). Wyższa Szkola Rolniczo-
+     Pedagogiczna, Siedlcach, 2, 1‒177.
+Simon, E. (1901) Histoire naturelle des araignées. Paris 2, 381‒668.
+Simon, E. (1909) Araneae. 2e partie. In: Michaelsen & Hartmeyer (Eds.), Die Fauna Südwest-Australiens. Jena 2 (13),
+     152‒212.
+Waldock, J.M. (2002) Redescription of Lycidas chrysomelas (Simon) (Araneae: Salticidae). Records of the Western Australian
+     Museum, 21, 227‒234.
+ World Spider Catalog (2016) World Spider Catalog, version 17. Natural History Museum Bern. Available from: http://
+     wsc.nmbe.ch (accessed 4April 2016)
+Żabka, M. (1987) Salticidae (Araneae) of Oriental, Australian and Pacific Regions, II. Genera Lycidas and Maratus. Annales
+     Zoologici, Warszawa, 40, 451‒482.
+Żabka, M. (1991) Studium taksonomiczno-zoogeograficzne nad Salticidae (Arachnida: Araneae) Australii. Wyższa Szkola
+     Rolniczo-Pedagogiczna W Siedlcach Rozprawa Naukowa, 32, 1‒110.
+Zhang, J. & Maddison, W.P. (2013) Molecular phylogeny, divergence times and biogeography of spiders of the subfamily
+     Euophryinae (Araneae: Salticidae). Molecular Phylogenetics and Evolution, 68, 81‒92.
+Zhang, J. & Maddison, W.P. (2015) Genera of euophryine jumping spiders (Araneae: Salticidae), with a combined molecular-
+     morphological phylogeny. Zootaxa, 3938 (1), 1–147.
+     http://dx.doi.org/10.11646/zootaxa.3938.1.1
+
+MARATUS, SIX NEW SPECIES  Zootaxa 4154 (5) © 2016 Magnolia Press · 525
+
