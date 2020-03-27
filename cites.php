@@ -447,11 +447,19 @@ function jats_xml($url, $doi = '')
 
 
 // From JATS XML
-if (0)
+if (1)
 {
 	$url = 'https://zookeys.pensoft.net/article/28800/download/xml/';
+
+	$url = 'https://phytokeys.pensoft.net/article/32821/download/xml/';
+	$doi = '10.3897/phytokeys.143.32821';
 	
-	jats_xml($url, '10.3897/zookeys.834.28800');
+	// Wasps
+	$url = 'https://zookeys.pensoft.net/article/39128/download/xml/';
+	$doi = '10.3897/zookeys.920.39128';
+	
+	
+	jats_xml($url, $doi);
 	
 }
 
@@ -484,14 +492,17 @@ if (0)
 	daisy('https://doi.org/10.11646/phytotaxa.177.4.6');
 }
 
-if (1)
+if (0)
 {
 	//daisy('https://doi.org/10.11646/phytotaxa.26.1.2');
 	//daisy('https://doi.org/10.11646/phytotaxa.405.3.3');
 	
 	//daisy('https://doi.org/10.11646/phytotaxa.376.6.2');
 	
-	daisy('https://doi.org/10.5852/ejt.2017.281');
+	//daisy('https://doi.org/10.5852/ejt.2017.281');
+	
+	//daisy('https://doi.org/10.11646/phytotaxa.230.2.8');
+	daisy('https://doi.org/10.11646/phytotaxa.365.3.7');
 }
 
 

@@ -2,7 +2,7 @@
 
 require_once(dirname(__FILE__) . '/shared.php');
 
-$filename = 'PII-S0254629916339242.xml';
+$filename = 'examples/PII-S0254629916339242.xml';
 
 $xml = file_get_contents($filename);
 
