@@ -9,3 +9,8 @@ vendor
 .DS_Store
 examples/ZK_article_39128_en_1.pdf
 .DS_Store
+
+*.txt
+*.pdf
+*.sql
+

@@ -18,6 +18,39 @@ $db->EXECUTE("set names 'utf8'");
 //----------------------------------------------------------------------------------------
 
 $guid = "10.11646/zootaxa.4154.5.1";
+$guid = "http://peckhamia.com/peckhamia/PECKHAMIA_114.1.pdf";
+
+
+	// primary reference (assume DOI)
+	$primary = new stdclass;
+	
+	if (preg_match('/10\.\d+\//', $guid))
+	{	
+		$primary->doi = $guid;	
+		$item = wikidata_find_from_anything($primary);	
+	}
+	
+	if (preg_match('/\.pdf$/', $guid))
+	{	
+		$primary->rdmp_guid = $guid;	
+		$item = wikidata_find_from_anything($primary);	
+	}
+	
+	
+	if ($item != '')
+	{
+		echo 'UPDATE cites SET `wikidata` = "' . $item . '" WHERE guid = "' . $guid  . '";' . "\n";	
+	}
+	
+	if ($item == '')
+	{
+		// GUID not in Wikidata
+		
+		echo "$guid not found in Wikidata\n";
+		exit();	
+	}
+	
+
 
 $sql = 'SELECT * FROM cites WHERE guid="' . $guid . '"';
 
@@ -62,11 +95,13 @@ while (!$result->EOF)
 	
 	//print_r($reference);
 	
+	
+	// cited works
 	$item = wikidata_find_from_anything($reference);
 	
 	if ($item != '')
 	{
-		echo 'UPDATE cites SET wikidata-cited="' . $item . '" WHERE guid = "' . $reference->guid . '" AND `key` = "' . $reference->key . '";' . "\n";
+		echo 'UPDATE cites SET `wikidata-cited` = "' . $item . '" WHERE guid = "' . $reference->guid . '" AND `key` = "' . $reference->key . '";' . "\n";
 	
 	}
 	

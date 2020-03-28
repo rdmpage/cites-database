@@ -2,6 +2,28 @@
 
 Database of citation relationships, sourced from CrossRef, web scraping, etc.
 
+## PDF citation extraction
+
+Extract references from PDF
+
+```
+php pdf-extract.php
+```
+
+## Wikidata
+
+Match cited references to Wikidata items
+
+```
+php wikidata-match.php 
+```
+
+Generate quick statements for Wikidata
+
+```
+php wikidata-cites-quickstatments.php
+```
+
 ## Citation identifiers
 
 http://opencitations.net/oci

@@ -237,6 +237,23 @@ function wikidata_find_from_anything ($citation)
 	}	
 	*/
 	
+	// url or pdf
+	if ($item == '')
+	{
+		if (isset($citation->rdmp_guid))
+		{
+			$item = wikidata_item_from_pdf($citation->rdmp_guid);		
+		}
+	}		
+	
+	if ($item == '')
+	{
+		if (isset($citation->rdmp_guid))
+		{
+			$item = wikidata_item_from_url($citation->rdmp_guid);		
+		}
+	}		
+	
 	// OpenURL
 	if ($item == '')
 	{
