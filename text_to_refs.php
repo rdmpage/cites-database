@@ -19,7 +19,7 @@ function is_name($str) {
 function is_end_of_citation($str, $mean_line_length) {
 
 	$debug = true;
-	//$debug = false;
+	$debug = false;
 
 	if ($debug)
 	{
@@ -156,7 +156,10 @@ function extract_citations ($pages) {
 	
 	foreach ($pages as $page_num => $page) {
 	
-		// echo "--- $page_num ---\n";
+		if ($debug)
+		{
+		 	echo "--- $page_num ---\n";
+		}
 	
                 // case where newlines are escaped, e.g Journal of Hymenoptera Research
  		$lines = explode("\n", $page);
@@ -178,12 +181,11 @@ function extract_citations ($pages) {
 
 		while (($state != $STATE_OUT_REFERENCES) && ($line_number < $n)) {
 		
-			//echo $state . "\n";
-			
-			
 		
 			$line = $lines[$line_number];	
-			$line = preg_replace('/^\s+/', '', $line);
+			
+			//$line = preg_replace('/^\s+/', '', $line);
+			
 			$line = preg_replace('/\s+$/', '', $line);
 						
 			// Trim and flag hyphenation
@@ -205,7 +207,7 @@ function extract_citations ($pages) {
 			switch ($state) {
 				case $STATE_START:
 					// Look for references
-					if (preg_match('/^\s*(REFERENCES|LITERATURE CITED|ZOOTAXA References)$/i', $line)) {
+					if (preg_match('/^\s*(REFERENCES|LITERATURE CITED|ZOOTAXA References)$/iu', $line)) {
 						// Ignore table of contents
 						if (preg_match('/\.?\s*[0-9]$/', $line)) {
 						} else {
@@ -235,8 +237,12 @@ function extract_citations ($pages) {
 						$citation .= ' ';
 					}
 					$citation .= $line;
-					if (is_end_of_citation($line, $mean_line_length))
+					if (is_end_of_citation($line, $mean_line_length) 
+					|| (preg_match('/^(\p{Lu}/u', $lines[$line_number+1]))
+					)
 					{
+						$citation = preg_replace('/\s\s+/u', ' ', $citation);
+					
 						$citations[] = $citation;
 						
 						$state = $STATE_IN_REFERENCES;
@@ -272,14 +278,18 @@ function split_column($page)
 	}
 	
 	$mean_line_length = $sum_line_length / $num_lines;
-	
+
+	// estimate the halfway point in a line	
 	$half = $mean_line_length / 2;
 	
+	/*
 	foreach ($lines as $line)
 	{
 		echo substr($line, 0, $half) . "|" . substr($line, $half+1) . "\n";
 	}
+	*/
 	
+	// get frequncy of position of gap between columns
 	$column_count = array();
 	
 	foreach ($lines as $line)
@@ -294,39 +304,63 @@ function split_column($page)
 			$column_count[$m['two'][1]]++;
 		}
 	}
-	print_r($column_count);
 	
-	$pos = 0;
-	$max = 0;
+	// Sort counts, if we have indented references then #2 is the start of right column
+	arsort($column_count);
 	
-	foreach ($column_count as $k => $v)
-	{
-		if ($v > $max)
-		{
-			$pos = $k;
-			$max = $v;
-		}
-	}
+	// print_r($column_count);
 	
-	echo $pos . "\n";
-	echo $max . "\n";
-	
-	$pos -= 3;
-	
+	$column_pos = array_keys($column_count)[0];
+	$column_pos = array_keys($column_count)[1];
+
 	foreach ($lines as $line)
 	{
-		echo substr($line, 0, $pos) . "|" . substr($line, $pos) . "\n";
+		//echo substr($line, 0, $column_pos) . "|" . substr($line, $column_pos) . "\n";
 	}
 		
-       	
-
-
+    $column_text = array();
+    $column_text[0] = array();
+   	$column_text[1] = array();
+   	
+   	$n = count($lines);
+   	
+   	for ($i = 0; $i < $n; $i++)
+   	{
+  		$left_text 	= substr($lines[$i], 0, $column_pos);
+   		$right_text = substr($lines[$i], $column_pos);
+   	
+   		$skip = false;   		
+   		if ($i == 0)
+   		{
+   			$skip = true;
+   		}
+   		
+   		if (!$skip)
+   		{
+			if (trim($left_text) != '')
+			{
+				$column_text[0][] = $left_text;
+			}
+ 
+ 			if (trim($right_text) != '')
+			{
+				$column_text[1][] = $right_text;
+			}
+   		}
+  
+   	
+   	}
+     
+    //print_r($column_text);
+    
+    return $column_text;
+  
 }
 
 
 
 // tests
-if (1)
+if (0)
 {
 	$pages = array(
 	'Peckhamia 114.1  Maratus from Cape Le Grand  38
@@ -491,6 +525,64 @@ Annandale, N., and C.R.N. Rao. 1918. The tad-            the Paleogene Shelania 
    poles of the families Ranidae and Bufonidae           ia and its bearing on the relationships of fossil
 '
 );
+
+$pages = array(
+'                   RAHEEM ET AL.          – LAND SNAILS OF THE WESTERN GHATS                                       253
+
+Reeve,  L.A. 1859-1862.    Conchologia    Iconica:   Or,     Sherborn, C.D. 1922-1932. Index Animalium 1801-
+   Illustrations of the Shells of Molluscous Animals.            1850. British Museum (Natural History), London.
+   Volume    13.   Containing     Monographs     of  the     Sherley,  G. 2000.   Invasive    species in the  Pacific: a
+   Genera  Terebratula,   Rynchonella,    Crania, Orbi-          technical review and draft regional strategy. South
+   cula, Lingula, Cybium, Cyclostoma, Cyclophorus,               Pacific Regional Environment Programme, Samoa.
+   Leptopoma,    Vitrina,  Simpulopsis,    Phasianella,      Simone,   L.R.L.    2013.  Anatomy     of   predator  snail
+   Trochus.  Lovell   Reeve  &   Co., Henrietta   Street,        Huttonella bicolor, an invasive species in Amazon
+   Covent Garden, London.                                        rainforest,    Brazil  (Pulmonata,      Streptaxidae).
+Régnier, C., Fontaine, B. and Bouchet, P. 2009. Not              Papéis Avulsos de Zoologia, 53: 47-58.
+   knowing,    not recording,  not  listing:  numerous       Smith, B.J. and Stanisic, J. 1998. Pulmonata Introduc-
+   unnoticed    mollusc    extinctions.   Conservation           tion. In: Beesly, P.L., Ross, G.J.B. and Wells, A.
+   Biology, 23 (5): 1214-1221.                                   (Eds), Mollusca, The Southern Synthesis, Fauna
+Robin, V.V., Sinha, A. and Ramakrishnan, U. 2010.                of  Australia,  Volume    5, Part  B, pp.   1037-1061.
+   Ancient   Geographical    Gaps  and    Paleo-Climate          CSIRO Publishing, Melbourne.
+   Shape the Phylogeography of an Endemic Bird in            Sowerby, G.B. 1842-1850. Thesaurus Conchyliorum,
+   the Sky Islands of Southern India. PLoS ONE, 5                or Monographs of Genera of Shells. Volume 1.
+   (10): e13321.                                                 Sowerby,    70,  Great Russell  Street,    Bloomsbury,
+Robinson D.G., Hovestadt, A., Fields, A. and Breure,             London.
+   A.S.H.  2009.   The  land   Mollusca   of  Dominica       Sowerby, G.B. 1843a. Descriptions of New Species of
+   (Lesser Antilles), with notes on some enigmatic or            Cyclostoma.      Proceedings    of    the   Zoological
+   rare species. Zoologische Mededelingen, 83: 615-              Society of London, proceedings for 1843: 59-66.
+   650.                                                      Sowerby, G.B. 1843b. On new species of Cyclostoma
+Rowson, B., Tattersfield, P. and Symondson, W.O.C.               in the collection of H. Cuming, Esq. Proceedings
+   2011.   Phylogeny   and   biogeography    of  tropical        of the Zoological Society of London, proceedings
+   carnivorous   land-snails  (Pulmonata:    Streptaxoi-         for 1843: 29-31.
+   dea) with particular reference to East Africa and         Srinivasulu, C. and Das, I. 2008. The herpetofauna of
+   the Indian Ocean. Zoological Scripta, 40: 85-98.              Nallamala Hills, Eastern Ghats, India: an annota-
+Ruhoff, F.A. 1980. Index to the species of Mollusca              ted   checklist, with   remarks    on   nomenclature,
+   introduced   from   1850    to  1870.   Smithsonian           taxonomy,   habitat   use,   adaptive types   and bio-
+   Contributions to Zoology, 294: 1-640.                         geography. Asiatic Herpetological Research, 11:
+Santos S. B. dos, Viana T.A. and Fonseca F.C. 2008.              110-131.
+   First  record   of the  micro-predator     Huttonella     Srivastava, P.D. 1992. Problem of Land Snail Pests in
+   bicolor (Hutton, 1834) (Gastropoda, Streptaxidae)             Agriculture: A Study of the Giant African Snail.
+   on Rio de Janeiro city, Brazil. Biociências, Porto            Concept Publishing Company, New Delhi.
+   Alegre, 16: 145-148.                                      Stoliczka, F. 1871. Notes on terrestrial Mollusca from
+Schwartzberg, J.E. 1992. A Historical Atlas of South             the   neighbourhood    of    Moulmein,     (Tenasserim
+   Asia. Second impression, with additional material.            Provinces),    with   descriptions   of new    species.
+   Oxford  University   Press, New    York   &  Oxford.          Journal of the Asiatic Society of Bengal, 40 (2):
+   Available for reference online through the Digital            217-259.
+   South Asia Library: http://dsal.uchicago.edu [acc-        Stoliczka, F. 1873. Descriptions of two new species of
+   essed 21 February 2014].                                      Indian Landshells. Journal of the Asiatic Society
+Seddon,   M.B.  1992.  The   distribution of  Pupoides           of Bengal, 42 (2): 169-171.
+   coenopictus (Hutton, 1834) in N.W. Africa (Gas-           Subba Rao, N.V. and Mitra, S.C. 1979. On land and
+   tropoda, Pupillidae). Journal of Conchology, 34:              freshwater  molluscs   of  Pune   district Maharashtra.
+   149-158.                                                      Records of the Zoological Survey of India, 75: 1-37.
+Sen, S., Ravikanth, G. and Aravind, N.A. 2012. Land          Subba Rao, N.V. and Mitra, S.C. 1991. Land molluscs
+   snails  (Mollusca:  Gastropoda)    of  India:  status,        of  Andaman      and   Nicobar    Islands.  Zoological
+   threats and   conservation  strategies.   Journal of          Survey of India, Calcutta.
+   Threatened Taxa, 4: 3029-3037.                            Subba Rao, N.V., Mitra, S.C., Dey, A. and Maitra, S.
+Shea,  M.  2007.   Exotic snails  and   slugs found   in         1995. Molluscs of Meghalaya. Fauna of Megha-
+   Australia. Australian Shell News, 131: 3-11.                  laya, State  Fauna    Series  (Zoological    Survey   of
+Sherborn,  C.D.  1902.  Index  Animalium   1758-1800.            India), 4 (8): 1-88.
+   Cambridge University Press, Cambridge.                    Subramanyam,     K. and Nayar, M.P.      1974. Vegetation
+');
 
 	split_column($pages[0]);
 	
