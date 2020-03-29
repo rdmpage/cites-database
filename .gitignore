@@ -10,7 +10,9 @@ vendor
 examples/ZK_article_39128_en_1.pdf
 .DS_Store
 
-*.txt
-*.pdf
-*.sql
+./*.txt
+./*.pdf
+./*.sql
 
+!working/raheem2014/
+!working/raheem2014/*

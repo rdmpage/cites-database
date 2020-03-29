@@ -11,12 +11,12 @@ $debug = true;
 $enhance = false;
 //$enhance = true;
 
-
+$basedir 	= 'raheem2014';
 $guid 		= 'x';
 $filename 	= 'raheem2014refs.pdf';
 
 
-$basefilename = basename($filename, ".pdf");
+$basefilename = $basedir . '/' . basename($filename, ".pdf");
 
 
 // extract text
@@ -24,7 +24,7 @@ $textfilename = $basefilename . ".txt";
 
 if (!file_exists($textfilename))
 {
-	$command = 'pdftotext -enc UTF-8 -layout ' . $filename ;
+	$command = 'pdftotext -enc UTF-8 -layout ' . $basedir . '/' . $filename ;
 	system($command);
 }
 
