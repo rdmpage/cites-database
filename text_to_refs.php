@@ -125,7 +125,7 @@ function is_end_of_citation($str, $mean_line_length) {
 function extract_citations ($pages) {
 
 	$debug = true;
-	//$debug = false;
+	$debug = false;
 	
 	$citations = array();
 	
@@ -310,8 +310,13 @@ function split_column($page)
 	
 	// print_r($column_count);
 	
+	// raheem
 	$column_pos = array_keys($column_count)[0];
 	$column_pos = array_keys($column_count)[1];
+	
+	// amnh
+	ksort($column_count);
+	$column_pos = array_keys($column_count)[0];
 
 	foreach ($lines as $line)
 	{

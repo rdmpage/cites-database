@@ -5,15 +5,22 @@
 require_once(dirname(__FILE__) . '/text_to_refs.php');
 require_once(dirname(__FILE__) . '/shared.php');
 
+$force = false;
+//$force = true;
+
 $debug = false;
-$debug = true;
+//$debug = true;
 
 $enhance = false;
 //$enhance = true;
 
 $basedir 	= 'raheem2014';
-$guid 		= 'x';
+$guid 		= '9786165518000';
 $filename 	= 'raheem2014refs.pdf';
+
+$basedir 	= 'frost';
+$guid 		= '10.1206/0003-0090(2006)297[0001:tatol]2.0.co;2';
+$filename 	= 'frostetal.pdf';
 
 
 $basefilename = $basedir . '/' . basename($filename, ".pdf");
@@ -41,7 +48,7 @@ if ($debug)
 // extract text from columns
 $textcolumns_filename = $basefilename . ".columns.txt";
 
-if (!file_exists($textcolumns_filename))
+if (!file_exists($textcolumns_filename) || $force)
 {
 	$new_text = '';
 
@@ -60,12 +67,17 @@ if (!file_exists($textcolumns_filename))
 	file_put_contents($textcolumns_filename, $new_text);
 }
 
+//exit();
+
 $text = file_get_contents($textcolumns_filename);
 
 // extract reference strings
 $split_pages = explode("\f", $text);
 
-print_r($split_pages);
+if ($debug)
+{
+	print_r($split_pages);
+}
 
 
 // extract references
@@ -103,7 +115,7 @@ foreach ($citations_strings as $string)
 	$citation->unstructured = $string;
 	
 	// paterns
-	$YEAR				= '(?<year>[0-9]{4})[a-z]?';
+	$YEAR				= '(?<year>[0-9]{4})[a-z]?(\s+‘‘[0-9]{4}’’)?';
 	$PAGES				= '(?<spage>[e|D]?\d+)([‒|–|-](?<epage>\d+))?';
 	$LOCATION			= '(?<volume>\d+(\.\d+)?)(\s*\((?<issue>[^\)]+)\))?';
 	
@@ -198,6 +210,9 @@ foreach ($citations_strings as $string)
 		}
 	
 	}
+	
+	// cleanup
+	$citation->{'journal-title'} = preg_replace('/,$/', '', $citation->{'journal-title'});
 	
 	
 	// add identifiers
