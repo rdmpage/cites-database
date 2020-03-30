@@ -1,0 +1,4062 @@
+
+opment of primers and sequences used in this     
+study as well as the supported hylid research.   
+Faivovich acknowledges the timely support        
+of a Theodore Roosevelt Memorial grant.
+During the course of this study Faivovich        
+was supported by an AMNH Graduate Stu-           
+dent Fellowship and NASA grant NAG5-             
+13028. Faivovich and Blotto thank Santiago       
+Nenda, Guido Corallo, Andres Sehinkman,          
+and Diego Baldo for ﬁeld assistance.
+   Bain acknowledges NSF grant DEB-              
+9870232 to the Center for Biodiversity and       
+Conservation (CBC/AMNH) for ﬁnancial           
+support as well as the generous support of       
+The John D. and Catherine T. MacArthur           
+Foundation. Collecting and export permits        
+for Vietnam amphibians were granted by the       
+Forestry Protection Department, Ministry of
+Agriculture and Rural Development, Viet-         
+nam (export permit numbers 31–98, 102–98,    
+340–99, 341–99, and 174–00). Thanks are    
+also due to Le Xuan Canh, Nguyen Quang           
+Truong, Ho Thu Cuc, and Khuat Dang Long          
+of the Institute of Ecology and Biological
+Resources, Hanoi, and Melina Laverty, CBC/       
+AMNH, for cooperation and assistance in all      
+aspects of Vietnam ﬁeldwork. Tissues of Bo-    
+livian amphibians were collected on expedi-      
+tions supported by the CBC/AMNH and the          
+Center for Environmental Research and Con-       
+servation at Columbia University, New York,      
+in collaboration with the Museo de Historia      
+Natural Noel-Kempff Mercado, Santa Cruz,         
+Bolivia, and Coleccio´n Boliviana de la Fau-
+na, La Paz. Collection permits for Bolivian      
+material were granted by el Ministerio de        
+Desarrollo Sostenible y Planiﬁcacion de Bo-    
+livia.                                           
+   Haddad gratefully acknowledges Biota-         
+FAPESP (01/13341-3) and CNPq for ﬁnan-
+cial support. Exportation permits of Brazilian   
+samples were issued by CITES Lic. 081968         
+BR; Autorizac¸o˜es de Acesso e de Remessa      
+de Amostras de Componentes do Patrimoˆnio       
+Gene´tico numbers 02001002851/2004;             
+02001.002669/2004; permits for collection
+were issued by IBAMA/RAN, licenc¸as 057/        
+03 and 054/05. Haddad thanks the following       
+for ﬁeld support in the acquisition of relevant
+tissues: Antonio P. Almeida, Joa˜o L. Gapar-    
+ini, Jose´ P. Pombal, Jr., Luis O.M. Giasson,   
+Mar´ılia T.A. Hartmann, and Paulo C.A.         
+Garcia.                                          
+   Haas acknowledges support by the Deut-
+sche Forschungsgemeinschaft Grant Ha
+2323/2-1.
+   De Sa´ acknowledges NSF grants DEB-
+0342918 and 9815787 which provided sup-
+port for ﬁeld work and Leptodactylus re-
+search that concomitantly furthered the de-
+velopment of this study.
+   Campbell gratefully acknowledges the
+support of NSF grants DEB-0102383 and
+9705277, which allowed the acquisition of
+  many of the Middle American and tissue
+samples used in this paper, as well as ﬁeld
+and collection assistance by Dwight Law-
+son, Brice Noonan, Eric Smith, and Paul Us-
+tach.
+   Channing acknowledges the Tanzania
+    Commission for Science and Technology Re-
+      search Permit 2002-319-ER-99-40, which
+provided ﬁeld support for the collection of
+genetic samples in Tanzania.
+   Donnellan thanks Michael Mahony (Uni-
+versity of Newcastle), Steve Richards (South
+  Australian Museum), Allen Allison (Bernice
+P. Bishop Museum), Dale Roberts (Univer-
+sity of Western Australia), Michael Tyler
+(University of Adelaide), and Ken Aplin
+(Western Australian Museum) for access to
+critical tissues, ﬁeld support, and courtesies
+extended to him that furthered this study.
+   Raxworthy acknowledges NSF grant
+DEB-9984496, National Geographic Society
+  grant 5396-94, and grants from Earthwatch
+which provided ﬁeld support for acquisition
+of important genetic samples from Madagas-
+car.
+   Nussbaum and Raxworthy gratefully ac-
+knowledge support from NSF grants DEB-
+  9024505, 9322600, and 9625873, which pro-
+ vided funds for ﬁeld research and acquisition
+ of tissues.
+    Nussbaum acknowledges NSF grants
+DEB-0070485, 9625873, and 9917453,
+  which provided funds for the acquisition of
+ genetic samples from Madagascar and the
+ Seychelles. Nussbaum also thanks Greg
+  Schneider for efforts in developing and
+maintaining the tissue collections at UMMZ;
+and Ronn Altig, Michael J. Pfrender, and Ed-
+mund D. Brodie II, Jr. for help with ﬁeld
+work in China, Madagascar, Sa˜o Tome´, and
+Seychelles.
+
+   Moler thanks Barry Mansell for ﬁeld as-    
+sistance.                                       
+   Drewes thanks the NSF for grant DBI-         
+9876766, that helped support the CAS frozen     
+tissue collection, which proved to be an in-    
+valuable resource for this study.               
+   Green thanks for funding the National Sci-   
+ences and Engineering Research Council          
+(NSERC) of Canada.                              
+   For access to critical tissues and other
+courtesies with respect to this study and       
+closely related ones we thank Stevan J. Ar-
+nold (Oregon State University, Corvallis),      
+J.W. Arntzen (National Museum of Natural        
+History, Leiden), Christopher Austin, Robb      
+T. Brumﬁeld, Donna Dittman, and Frederick
+Sheldon (Louisiana State University Muse-       
+um of Zoology, Baton Rouge), Boris Blotto       
+(Museo Argentino de Ciencias Naturales          
+‘‘Bernardino Rivadavia’’, Buenos Aires, 
+gentina), Rafe Brown, William E. Duellman,      
+and John Simmons (University of Kansas
+Museum of Natural History and Biodiversity      
+Center, Lawrence), Marius Burger (Univer-       
+sity of the Western Cape, Bellville, South Af-  
+rica), Janalee Caldwell (Sam Noble              
+Oklahoma Museum of Natural History, Nor-        
+man), Paul Chippindale, Paul Franklin, Eric
+Smith, and Paul Ustach (University of Texas     
+at Arlington), Bruce L. Chrisman (Albuquer-     
+que), Maureen Donnelly (Florida Interna-        
+tional University, Miami), Robert N. Fisher     
+and Brian Yang (U.S. Fish & Wildlife Ser-
+vice, San Diego), Ron Gagliardo (Atlanta        
+Botanical Garden), Frank Glaw (Zoologische      
+Sta¨atssammlung Mu¨nchen), Martin Henzl       
+(Wien, Austria), Caren Goldberg (University     
+of Idaho, Moscow), Andrew Holycross (Ar-
+izona State University, Tempe), Robert Inger,   
+Alan Resetar, and Harold Voris (Field Mu-       
+seum, Chicago), Cornelya Klu¨tsch (Zoolo-      
+gisches Forschungsinstitut und Museum Al-       
+exander Koenig, Bonn, Germany), Dwight
+Lawson (Zoo Atlanta), Karen Lips (Southern      
+Illinois University, Carbondale), Steve Gotte,  
+W. Ronald Heyer, Roy W. McDiarmid, Rob-         
+ert Reynolds, and Addison Wynn (National        
+Museum of Natural History, Washington,          
+D.C.), Robert W. Murphy (Royal Ontario          
+Museum, Toronto, Canada), Brice Noonan
+(Brigham Young University, Provo), Paulo        
+Nu´ın (Museu de Zoologia, Universidade de     
+  Sa˜o Paulo, Brazil), Jose´ Nu´n˜ez N. (Instituto
+de Zoolog´ıa, Universidad Austral de Chile,
+Valdivia, Chile), Wade Ryberg (Washington
+University, St. Louis), Elizabeth Scott
+(Transvaal Museum, Pretoria, South Africa),
+Tom A. Titus (University of Oregon, Eu-
+gene), Jens V. Vindum (California Academy
+of Sciences, San Francisco), David B. Wake
+(Museum of Vertebrate Zoology, University
+of California, Berkeley), and Jorge Williams
+(Museo de la Plata, Buenos Aires, Argenti-
+na).
+                   REFERENCES
+Abel, O. 1919. Die Sta¨mme der Wirbeltiere. Klas-
+   se Amphibia. Berlin and Leipzig: Walter de
+   Gruyter.
+Abourachid, A., and D.M. Green. 1999. Origins
+   of the frog kick? Alternate-leg swimming in
+   primitive frogs, families Leiopelmatidae and
+Ar-        Ascaphidae. Journal of Herpetology 33: 657–
+   663.
+Adler, K.A. 1989. Herpetologists of the past. In
+   K.A. Adler (editor), Contributions to the his-
+   tory of herpetology. Contributions to Herpetol-
+   ogy, no. 5. Ithaca, NY: Society for the Study of
+   Amphibians and Reptiles: 5–143.
+Ahl, E. 1930. Neuere Erkenntnisse u¨ber die sys-
+   tematische Einteilung der Amphibian. Sitzungs-
+   berichte der Gesellschaft Naturforschender
+   Freunde zu Berlin 1930: 78–85.
+Alcala, A.C., and W.C. Brown. 1982. Reproduc-
+   tive biology of some species of Philautus (Rha-
+     cophoridae) and other Philippine anurans. Phil-
+   ippine Journal of Biology 11: 203–226.
+Alford, R.A., and S.J. Richards. 1999. Global am-
+   phibian declines: a problem in applied ecology.
+    Annual Review of Ecology and Systematics 30:
+   133–165.
+Allard, M.W., M.M. Miyamoto, L. Jarecki, F.
+   Kraus, and M.R. Tennant. 1992. DNA system-
+   atics and evolution of the artiodactyl family
+   Bovidae. Proceedings of the National Academy
+   of Sciences of the United States of America 89:
+   3972–3976.
+Altig, R.I., and G.F. Johnston. 1989. Guilds of an-
+     uran larvae: relationships among developmen-
+   tal modes, morphologies, and habitats. Herpe-
+   tological Monographs 3: 81–109.
+Altig, R.I., and R.W. McDiarmid. 1999. Diversity:
+   familial and generic characterizations. In R.W.
+   McDiarmid and R. Altig (editors), Tadpoles:
+   the biology of anuran larvae: 295–337. Chica-
+   go: University of Chicago Press.
+Amiet, J.-L. 1970. Morphologie et de´veloppement
+   de la larve de Leptodactylodon ventrimarmor-
+
+   atus (Boulenger) (amphibien, anoure). Annales      
+   de la Faculte des Sciences du Cameroun. Ya-        
+   ounde´ 4: 53–71.                                
+Amiet, J.-L. 1971 ‘‘1970’’. Les batraciens oro
+   philes du Cameroun. Annales de la Faculte des      
+   Sciences du Cameroun. Yaounde´ 5: 83–102.       
+Amiet, J.-L. 1973 ‘‘1972’’. Compte rendu d’u
+   mission batachologique dans le Nord-Came-          
+   roun. Annales de la Faculte des Sciences du        
+   Cameroun. Yaounde´ 12: 63–78.                   
+Amiet, J.-L. 1973. Caracteres diagnostiques de        
+   Petropedetes perreti, nov. sp. et notes sur les    
+   autres espe`ces camerounaises du genre (amphi-     
+   biens anoures). Bulletin de l’Institut Fondamen- 
+   tal d’Afrique Noire, Se´rie A, Sciences Naturel-
+   les 35: 462–474.                                 
+Amiet, J.-L. 1981. Ecologie, ethologie et devel-      
+   oppement de Phrynodon sandersoni Parker,           
+   1939 (Amphibia, Anura, Ranidae). Amphibia-         
+   Reptilia 2: 1–13.                                
+Amiet, J.-L. 1983. Une espe`ce meconnue de Pe-        
+   tropedetes du Cameroun: Petropedetes parkeri       
+   n. sp. (Amphibia, Anura, Ranidae, Phrynoba-        
+   trachinae). Revue Suisse de Zoologie 90: 457–    
+   468.                                               
+Amiet, J.-L. 1989. Quelques aspects de la biologie    
+   des amphibiens anoures du Cameroun. Anne´e        
+   Biologique. Paris 28: 73–116.                    
+Amiet, J.-L., and J.-L. Perret. 1969. Contributions   
+   a` la faune de la re´gion de Yaounde´ (Cameroun  
+   II. Amphibiens anoures. Annales de la Faculte      
+   des Sciences du Cameroun. Yaounde´ 1969:          
+   117–137.                                         
+Anders, C.C. 2002. Class Amphibia (amphibians).       
+   In H.H. Schleich and W. Ka¨stle (editors), Am-    
+   phibians and reptiles of Nepal: biology, system-   
+   atics, ﬁeld guide: 133–340. Ruggell: A.R.G.    
+   Gantner.                                           
+Anderson, J. 1871. A list of the reptilian accession  
+   to the Indian Museum, Calcutta from 1865 to        
+   1870, with a description of some new species.      
+   Journal of the Asiatic Society of Bengal 40:       
+   12–39.                                           
+Anderson, J.S. 2001. The phylogenetic trunk:          
+   maximal inclusion of taxa with missing data in     
+   an analysis of the Lepospondyli (Vertebrata,       
+   Tetrapoda). Systematic Biology 50: 170–193.      
+Andreone, F., M. Vences, D.R. Vieites, F. Glaw,       
+   and A. Meyer. 2004 ‘‘2005’’. Recurrent ecol
+   ical adaptations revealed through a molecular      
+   analysis of the secretive cophyline frogs of       
+   Madagascar. Molecular Phylogenetics and Evo-       
+   lution 34: 315–322.                              
+Annandale, N. 1918. Some undescribed tadpoles         
+   from the hills of southern India. Records of the   
+   Indian Museum 15: 17–23.                         
+Annandale, N., and C.R.N. Rao. 1918. The tad-         
+   poles of the families Ranidae and Bufonidae        
+   found in the plains of India. Records of the In-
+   dian Museum 15: 24–40.
+   Anonymous. 1956. Opinion 417. Rejection for
+-          nomenclatorial purposes of volume 3 (Zoolo-
+   gie) of the work by Lorenz Oken entitled
+      ‘‘Okens Lehrbuch der Naturgeschichte’’ pub-
+ne           lished in 1815–1816. Opinions and Declara-
+   tions Rendered by the International Commis-
+   sion on Zoological Nomenclature 14: 1–42.
+   Anonymous. 1977. Opinion 1071. Emendation
+   under the plenary powers of Liopelmatina to
+   Leiopelmatidae (Amphibia, Salientia). Bulletin
+   of Zoological Nomenclature 33: 167–169.
+  Anonymous. 1990. Opinion 1604. Ichthyophiidae
+      Taylor, 1968 (Amphibia, Gymnophiona): con-
+     served. Bulletin of Zoological Nomenclature
+   47: 166–167.
+Anonymous. 1996. Opinion 1830. Caeciliidae
+   Kolbe, 1880 (Insecta, Psocoptera): spelling
+     emended to Caeciliusidae, so removing the
+   homonymy with Caeciliidae Raﬁnesque, 1814
+   (Amphibia, Gymnophiona). Bulletin of Zoolog-
+   ical Nomenclature 53: 68–69.
+  Aplin, K.P., and M. Archer. 1987. Recent advanc-
+   es in marsupial systematics with a new syn-
+   cretic classiﬁcation. In M. Archer (editor), vol.
+    1. Possums and opossums: studies in evolution:
+     xv–lxxii. Chipping Norton, Australia: Surrey
+   Beatty.
+  Archey, G. 1922. The habitat and life history of
+   Liopelma hochstetteri. Records of the Canter-
+    bury Museum 2: 59–71.
+  Archibald, J.D. 1994. Metataxon concepts and as-
+   sessing possible ancestry using phylogenetic
+    systematics. Systematic Biology 43: 27–40.
+Ardila-Robayo, M.C. 1979. Status sistematico del
+       genero Geobatrachus Ruthven, 1915 (Amphib-
+   ia: Anura). Caldasia 12: 383–495.
+Austin, J.D., S.C. Lougheed, K. Tanner, A.A.
+   Chek, J.P. Bogart, and P.T. Boag. 2002. A mo-
+   lecular perspective on the evolutionary afﬁni-
+   ties of an enigmatic Neotropical frog, Allophry-
+     ne ruthveni. Zoological Journal of the Linnean
+   Society. London 134: 335–346.
+Ba´ez, A.M., and N.G. Basso. 1996. The earliest
+   known frogs of the Jurassic of South America:
+     review and cladistic appraisal of their relation-
+   ships. Mu¨nchner Geowissenschaftliche Abhan-
+og-        dlungen. Reihe A. Geologie und Pala¨ontologie
+   30: 131–158.
+Ba´ez, A.M., and L.A. Pugener. 2003. Ontogeny
+   of a new Paleogene pipid frog from southern
+     South America and xenopodinomorph evolu-
+   tion. Zoological Journal of the Linnean Society.
+   London 139: 439–476.
+  Ba´ez, A.M., and L. Trueb. 1997. Redescription of
+   the Paleogene Shelania pascuali from Patagon-
+   ia and its bearing on the relationships of fossil
+
+   and Recent pipoid frogs. Scientiﬁc Papers. Nat-   
+   ural History Museum, University of Kansas 4:        
+   1–41.                                             
+Bain, R.H., A. Lathrop, R.W. Murphy, N.L. Orlov,       
+   and T.C. Ho. 2003. Cryptic species of a cascade     
+   frog from Southeast Asia: taxonomic revisions       
+   and descriptions of six new species. American       
+   Museum Novitates 3417: 1–60.                      
+Bain, R.H., and Q.T. Nguyen. 2004. Herpetofauna        
+   diversity of Ha Giang Province in northeastern      
+   Vietnam, with descriptions of two new species.      
+   American Museum Novitates 3453: 1–42.             
+Baldauf, R.J. 1959. Morphological criteria and         
+   their use in showing bufonid phylogeny. Jour-       
+   nal of Morphology 104: 527–560.                   
+Baldissera, F.A., Jr., R.F. Batistic, and C.F.B. Had-  
+   dad. 1999. Cytotaxonomic considerations with        
+   the description of two new NOR locations for        
+   South American toads, genus Bufo (Anura: Bu-        
+   fonidae). Amphibia-Reptilia 20: 413–420.          
+Barbour, T., and A. Loveridge. 1928. A compar-         
+   ative study of the herpetological faunae of the     
+   Uluguru and Usambara Mountains, Tanganyika          
+   Territory, with descriptions of new species. Me-    
+   moires of the Museum of Comparative Zoology         
+   50: 85–265.                                       
+Barrio, A. 1954. Sistema´tica, morfolog´ıa y re-    
+   produccion de Physalaemus henselii (Peters) y       
+   Pseudopaludicola falcipes (Hensel). Physis.         
+   Buenos Aires 20: 379–389.                         
+Barrio, A. 1963. Consideraciones sobre compor-         
+   tamiento y ‘‘grito agresivo’’ propio de algu
+   especies de Ceratophrynidae (Anura). Physis.        
+   Buenos Aires 24: 143–148.                         
+Barrio, A. 1968. Revision del genero Lepidoba-         
+   trachus Budgett (Anura, Ceratophrynidae).           
+   Physis. Buenos Aires 27: 445–454.                 
+Barrio, A. 1977. Aportes para la elucidacion del       
+   ‘‘status’’ taxonomico de Pleurodema bibroni 
+   Tschudi y Pleurodema kriegi (Muller) (Am-           
+   phibia, Anura, Leptodactylidae). Physis. Buen-      
+   os Aires 37: 311–331.                             
+Barrio, A., and P. Rinaldi de Chieri. 1971. Con-       
+   tribucio´n al esclarecimiento de la posicio´n tax-
+   oﬁle´tica de algunos batracios argentinos me-    
+   diante el ana´lisis cariot´ıpico. Physis. Buenos 
+   Aires 30: 673–685.                                
+Barrio-Amoro´s, C.L. 2004. Amphibians of Vene-        
+   zuela. Systematic list, distribution and referenc-  
+   es. Revista de Ecolog´ıa Latino-Americana 9: 1– 
+   48.                                                 
+Bauer, L. 1986. A new genus and a new speciﬁc        
+   name in the dart poison frog family (Dendro-        
+   batidae, Anura, Amphibia). Ripa. Netherlands        
+   1986(November): 1–12.                             
+Beddard, F.E. 1908 ‘‘1907’’. Contributions to t
+   knowledge of the anatomy of the batrachian          
+     family Pelobatidae. Proceedings of the Zoolog-
+   ical Society of London 1907: 871–911.
+  Beddard, F.E. 1911. Contributions to the anatomy
+   of the Anura. Proceedings of the Zoological So-
+   ciety of London 1911: 393–412.
+Bell, B.D., and R.J. Wassersug. 2003. Anatomical
+   features of Leiopelma embryos and larvae: im-
+     plication for anuran evolution. Journal of Mor-
+   phology 256: 160–170.
+Benton, M.J. 2000. Stems, nodes, crown clades,
+   and rank-free lists: is Linnaeus dead? Biologi-
+     cal Reviews of the Cambridge Philosophical
+   Society 75: 633–648.
+Berthold, A.A. 1827. Latreille’s natu¨rliche Fami-
+     lien der Thierreichs aus dem Franzo¨sischen mit
+   Anmerkungen und Zusa¨tzen von Dr. Arnold
+   Adoph Berthold. Weimar: Landes-Industrie
+   Comptoir.
+Biju, S.D., and F. Bossuyt. 2003. New frog family
+     from India reveals an ancient biogeographical
+   link with the Seychelles. Nature. London 425:
+   711–714.
+Bishop, S.C. 1943. Handbook of salamanders. Ith-
+   aca: Comstock Publishing Company.
+Blair, W.F. (editor), 1972a. Evolution in the genus
+     Bufo. Austin: University of Texas Press.
+   Blair, W.F. 1972b. Bufo of North and Central
+   America. In W.F. Blair (editor), Evolution in the
+   genus Bufo: 93–101. Austin: University of Tex-
+     as Press.
+Blair, W.F. 1972c. Evidence from hybridization. In
+nas        W.F. Blair (editor), Evolution in the genus Bufo:
+   196–243. Austin: University of Texas Press.
+  Blair, W.F. 1972d. Characteristics of the testes. In
+   W.F. Blair (editor), Evolution in the genus Bufo:
+   324–328. Austin: University of Texas Press.
+  Blaustein, A.R., and J.M. Kiesecker. 2002. Com-
+   plexity in conservation: lessons from the global
+           decline of amphibian populatons. Ecology Let-
+   ters 5: 597–608.
+Blommers-Schlo¨sser, R.M.A. 1975. Observations
+     on the larval development of some Malagasy
+   frogs, with notes on their ecology and biology
+     (Anura: Dyscophinae, Scaphiophryninae and
+      Cophylinae). Beaufortia 24: 7–26.
+   Blommers-Schlo¨sser, R.M.A. 1976. Chromosomal
+     analysis of twelve species of Microhylidae (An-
+    ura) from Madagascar. Genetica 46: 199–210.
+Blommers-Schlo¨sser, R.M.A. 1993. Systematic
+       relationships of the Mantellinae Laurent 1946
+   (Anura Ranoidea). Ethology Ecology & Evo-
+     lution 5: 199–218.
+Blommers-Schlo¨sser, R.M.A., and C.P. Blanc.
+   1991. Amphibiens (premiere partie). Faune de
+     Madagascar 75: 1–379.
+he      Blommers-Schlo¨sser, R.M.A., and C.P. Blanc.
+   1993. Amphibiens (deuxieme partie). Faune de
+   Madagascar 75: 385–530.
+
+Bogart, J.P. 1968. Chromosome number differ-            
+   ence in the amphibian genus Bufo: the Bufo re-       
+   gularis group. Evolution 22: 42–45.                
+Bogart, J.P. 2003. Genetics and systematics of hy-      
+   brid species. In D.M. Sever (editor), Reproduc-      
+   tive biology and phylogeny of Urodela (Am-           
+   phibia): 109–134. Enﬁeld, New Hampshire:         
+   Science Publishers, Inc.                             
+Bogart, J.P., and M. Tandy. 1981. Chromosome            
+   lineages in African ranoid frogs. Monitore           
+   Zoologico Italiano. Nuova Serie, Supplemento         
+   15: 55–91.                                         
+Boie, H. 1828. Bemerfungen u¨ber die Ubtheilun-        
+   gen im natu¨rlichen Systeme und deren Char-         
+   acteristit. Isis von Oken 21: 351–363.             
+Bokermann, W.C.A. 1965. Notas soˆbre as espe´-        
+   cies de Thoropa Fitzinger (Amphibia, Lepto-          
+   dactylidae). Anais da Academia Brasileira de         
+   Cieˆncias. Rio de Janeiro 37: 525–537.            
+Bol´ıvar-G., W., T. Grant, and L.A. Osorio. 1999.     
+   Combat behavior in Centrolene buckleyi and           
+   other centrolenid frogs. Alytes 16: 77–83.         
+Bolkay, S.J. 1919. Osnove uporedne osteologije          
+   anurskih batrahija [Elements of the comparative      
+   osteology of the tailless batrachians]. Glasnika     
+   Zemaljskog Muzeja u Bosni i Hercegovini. Sa-         
+   rejevo 31: 275–357.                                
+Bonacum, J., J. Stark, and E. Bonwich. 2001.            
+   PCR methods and approaches. In R. DeSalle,           
+   G. Giribet, and W.C. Wheeler (editors), Tech-        
+   niques in molecular systematics and evolution:       
+   302–328. Boston: Birkha¨user.                     
+Bonaparte, C.L.J.L. 1839. Iconographia della fau-       
+   na italica per le quattro classi degli animali ver-  
+   tebrati. Tomo II. Amphibi. Fascicolo 26. Roma:       
+   Salviucci.                                           
+Bonaparte, C.L.J.L. 1840. Prodromus systematis          
+   herpetologiae. Nuovi Annali delle Scienze Na-        
+   turali. Bologna 4: 90–101.                         
+Bonaparte, C.L.J.L. 1845. Specchio generale dei         
+   sistemi erpetologico, anﬁbiologico ed ittiologi-   
+   co. Milano: Coi Tipi di Luigi di Giacomo Pi-         
+   rola.                                                
+Bonaparte, C.L.J.L. 1850. Conspectus systema-           
+   tum. Herpetologiae et amphibiologiae. Editio         
+   altera reformata. Leiden: Brill.                     
+Bonett, R.M., and P.T. Chippindale. 2004. Speci-
+   ation, phylogeography and evolution of life his-
+   tory and morphology in plethodontid salaman-
+   ders of the Eurycea multiplicata complex. Mo-
+   lecular Ecology 13: 1189–1203.
+Bossuyt, F., and M.C. Milinkovitch. 2000. Con-
+   vergent adaptive radiations in Madagascan and
+   Asian ranid frogs reveal covariation between
+   larval and adult traits. Proceedings of the Na-
+   tional Academy of Sciences of the United
+   States of America 97: 6585–6590.
+Bossuyt, F., and M.C. Milinkovitch. 2001. Am-
+   phibians as indicators of early Tertiary ‘‘out-of-
+   India’’ dispersal of vertebrates. Science 292:
+     93–95.
+Boulenger, G.A. 1882. Catalogue of the Batrachia
+   Salientia s. Ecaudata in the collection of the
+   British Museum, 2nd ed. London: Taylor and
+   Francis.
+    Boulenger, G.A. 1884. Diagnoses of new reptiles
+   and batrachians from the Solomon Islands, col-
+   lected and presented to the British Museum by
+   H.B. Guppy, Esq., M.B., H.M.S. ‘‘Lark’’. Pro-
+   ceedings of the Zoological Society of London
+   1884: 210–213.
+  Boulenger, G.A. 1890. Second report on additions
+   to the batrachian collection in the Natural-His-
+    tory Museum. Proceedings of the Zoological
+    Society of London 1890: 323–328.
+  Boulenger, G.A. 1892 ‘‘1891’’. A synopsis of the
+   tadpoles of the European batrachians. Proceed-
+     ings of the Zoological Society of London 1891:
+   593–627.
+Boulenger, G.A. 1906 ‘‘1905’’. Report on the ba-
+      trachians collected by the late L. Fea in West
+   Africa. Annali del Museo Civico di Storia Na-
+     turale di Genova. Serie 3, 2: 157–172.
+Boulenger, G.A. 1918. Remarks on the batrachian
+     genera Cornufer, Tschudi, Platymantis, Gthr.,
+   Simomantis, g.n., and Staurois, Cope. Annals
+   and Magazine of Natural History, Series 9, 1:
+   372–375.
+Boulenger, G.A. 1920. A monograph of the South
+   Asian, Papuan, Melanesian and Australian
+     frogs of the genus Rana. Records of the Indian
+   Museum 20: 1–226.
+Boycott, R.C. 1982. On the taxonomic status of
+   Heleophryne regis Hewitt, 1909 (Anura: Lep-
+   todactylidae). Annals of the Cape Provincial
+   Museums. Natural History 14: 89–108.
+   Bremer, K. 1994. Branch support and tree stabil-
+   ity. Cladistics 10: 295–304.
+Brongniart, A.T. 1800a. Essai d’une classiﬁcation
+   naturelle des reptiles. Iere Partie. Bulletin des
+   Sciences, par La Socie´te´ Philomathique 2: 81–
+   82.
+Brongniart, A.T. 1800b. Essai d’une classiﬁcation
+   naturelle des reptiles. II Partie. Bulletin des Sci-
+   ences, par La Socie´te´ Philomathique 2: 89–91.
+  Brown, W.C. 1952. The amphibians of the Solo-
+   mon Islands. Bulletin of the Museum of Com-
+   parative Zoology 107: 3–64.
+  Brummitt, R.K. 2002. How to chop up a tree. Tax-
+   on 51: 31–41.
+Burton, T.C. 1986. A reassessment of the Papuan
+   subfamily Asterophryninae (Anura: Microhyli-
+   dae). Records of the South Australian Museum
+   19: 405–450.
+Burton, T.C. 1998a. Pointing the way: the distri-
+   bution and evolution of some characters of the
+
+   ﬁnger muscles of frogs. American Museum           
+   Novitates 3229: 1–13.                             
+Burton, T.C. 1998b. Variation in the hand and su-
+   perﬁcial throat musculature of Neotropical lep-   
+   todactylid frogs. Herpetologica 54: 53–72.        
+Burton, T.C. 2004. Muscles and pes of hylid frogs.     
+   Journal of Morphology 260: 209–233.               
+Caccone, A., M.C. Milinkovitch, V. Sbordoni, and       
+   J.R. Powell. 1994. Molecular biogeography: us-
+   ing the Corsica-Sardinia microplate disjunction     
+   to calibrate mitochondrial rDNA evolutionary        
+   rates in mountain newts (Euproctus). Journal of     
+   Evolutionary Biology 7: 227–245.                  
+Caldwell, J.P., and C.W. Myers. 1990. A new poi-       
+   son frog from Amazonian Brazil, with further        
+   revision of the quinquevittatus group of Den-
+   drobates. American Museum Novitates 2988:           
+   1–21.                                             
+Cannatella, D.C. 1985. A phylogeny of primitive        
+   frogs (Archeobatrachia). Ph.D. dissertation. De-
+   partment of Systematics and Ecology, Univer-        
+   sity of Kansas, Lawrence.                           
+Cannatella, D.C. 1989. On the monophyly of dis-        
+   coglossoid frogs. Fortschritte der Zoologie/Pro-
+   gress in Zoology 35: 230–231.                     
+Cannatella, D.C., and D.M. Hillis. 1993. Amphib-       
+   ian relationships: phylogenetic analysis of mor-    
+   phology and molecules. Herpetological Mono-         
+   graphs 7: 1–7.
+Cannatella, D.C., and D.M. Hillis. 2004. Amphib-       
+   ians: leading a life of slime. In J. Cracraft and   
+   M.J. Donoghue (editors), Assembling the tree        
+   of life: 430–450. Oxford, U.K.: Oxford Uni-       
+   versity Press.
+Cannatella, D.C., D.M. Hillis, P.T. Chippindale,       
+   L.A. Weigt, A.S. Rand, and M.J. Ryan. 1998.         
+   Phylogeny of frogs of the Physalaemus pustu-        
+   losus species group, with an examination of
+   data incongruence. Systematic Biology 47:           
+   311–335.                                          
+Cannatella, D.C., and L. Trueb. 1988. Evolution        
+   of pipoid frogs: intergeneric relationships of the
+   aquatic frog family Pipidae (Anura). Zoological     
+   Journal of the Linnean Society. London 94: 1–     
+   38.                                                 
+Cantino, P.D., H.N. Bryant, K. de Queiroz, M.J.
+   Donoghue, T. Eriksson, D.M. Hillis, and M.S.Y.      
+   Lee. 1999. Species names in phylogenetic no-        
+   menclature. Systematic Biology 48: 790–807.       
+Cantino, P.D., R.G. Olmstead, and S.J. Wagstaff.       
+   1997. A comparison of phylogenetic nomencla-        
+   ture with the current system: a botanical case
+   study. Systematic Biology 46: 313–331.            
+Caramaschi, U., and J.P. Pombal, Jr. 2001. Bary-       
+   cholos savagei: a junior synonym of Paludicola      
+   ternetzi, with notes on development. Journal of
+   Herpetology 35: 357–360.                          
+  Carpenter, J.M. 2003. Critique of pure folly. Bo-
+     tanical Review 69: 79–92.
+  Carroll, R.L. 2000a. The lissamphibian enigma. In
+     H. Heatwole and R.L. Carroll (editors), Am-
+   phibian biology, vol. 4. Paleontology, the evo-
+     lutionary history of amphibians: 1270–1273.
+   Chipping Norton, Australia: Surrey Beatty.
+Carroll, R.L. 2000b. Eocaecilia and the origin of
+   caecilians. In H. Heatwole and R.L. Carroll (ed-
+   itors), Amphibian biology, vol. 4. Paleontology,
+     the evolutionary history of amphibians: 1402–
+   1411. Chipping Norton, Australia: Surrey Beat-
+   ty & Sons.
+Carroll, R.L., and P.J. Currie. 1975. Microsaurs as
+     possible apodan ancestors. Zoological Journal
+   of the Linnean Society. London 57: 229–247.
+Carroll, R.L., A. Kunst, and K. Albright. 1999.
+   Vertebral development and amphibian evolu-
+   tion. Evolution and Development 1: 36–48.
+  Case, S.M. 1978. Biochemical systematics of
+   members of the genus Rana native to western
+   North America. Systematic Zoology 27: 299–
+   311.
+Cei, J.M. 1970. La posicio´n ﬁletica de Telmato-
+   biinae, su discusio´n reciente y signiﬁcado cri-
+   tico de algunos imunotests. Acta Zoologica Lil-
+     loana 27: 181–192.
+Cei, J.M. 1972. Bufo of South America. In W.F.
+   Blair (editor), Evolution in the genus Bufo: 82–
+   92. Austin: University of Texas Press.
+Cei, J.M. 1980. Amphibians of Argentina. Moni-
+     tore Zoologico Italiano. Nuova Serie, Monogra-
+   phia 2: 1–609.
+Channing, A. 1989. A re-evaluation of the phy-
+     logeny of Old World treefrogs. South African
+   Journal of Zoology 24: 116–131.
+Channing, A. 1995. The relationship between
+   Breviceps (Anura: Microhylidae) and Hemisus
+     (Hemisotidae) remains equivocal. Journal of
+   the Herpetological Association of Africa 44:
+   55–57.
+  Channing, A. 2001. Amphibians of central and
+   southern Africa. Ithaca, NY: Cornell University
+   Press.
+  Channing, A. 2003. Ghost frogs (Heleophryni-
+   dae). In W.E. Duellman (editor), Grzimek’s an-
+   imal life encyclopedia, 2nd ed. Vol. 6. Am-
+   phibians: 131–134. Detroit: Gale Group.
+Channing, A., D. Moyer, and M. Burger. 2002.
+   Cryptic species of sharp-nosed reed frogs in the
+   Hyperolius nasutus complex: advertisement
+   call differences. African Zoology 36: 91–99.
+Channing, A., D.C. Moyer, and K.M. Howell.
+   2002. Description of a new torrent frog in the
+   genus Arthroleptides from Tanzania (Amphibia,
+   Anura, Ranidae). Alytes 20: 13–27.
+Chari, V.K. 1962. A description of the hitherto
+   undescribed tadpole of, and some ﬁeld notes on
+
+   the fungoid frog Rana malabarica (Bibr.). Jour-     
+   nal of the Bombay Natural History Society 59:       
+   71–76.                                            
+Chen, L.Q., R.W. Murphy, A. Lathrop, A. Ngo,           
+   N.L. Orlov, T.C. Ho, and I.L.M. Somorjai.           
+   2005. Taxonomic chaos in Asian ranid frogs:         
+   an initial phylogenetic resolution. Herpetologi-    
+   cal Journal 15: 231–243. [Not seen prior to De-   
+   cember, 2005.]                                      
+Chen, N., J.X. Ma, D.W. Corson, E.S. Hazard, and       
+   R.K. Crouch. 1996. Molecular cloning of a rho-      
+   dopsin gene from salamander rods. Investiga-        
+   tions in Ophthalmology and Vision Science 37:       
+   1907–1913.                                        
+Chippindale, P.T., R.M. Bonett, A.S. Baldwin, and      
+   J.J. Wiens. 2004. Phylogenetic evidence for a       
+   major reversal of life-history evolution in pleth-  
+   odontid salamanders. Evolution 58: 2809–          
+   2822.                                               
+Chou, W.-H. 1999. A new frog of the genus Rana         
+   (Anura: Ranidae) from China. Herpetologica          
+   55: 389–400.                                      
+Clarke, B.T. 1981. Comparative osteology and           
+   evolutionary relationships in the African Rani-     
+   nae (Anura: Ranidae). Monitore Zoologico It-        
+   aliano. Nuova Serie, Supplemento 15: 285–331.     
+Clough, M.E., and K. Summers. 2000. Phyloge-           
+   netic systematics and biogeography of the poi-      
+   son frogs: evidence from mitochondrial DNA          
+   sequences. Biological Journal of the Linnean        
+   Society 70: 515–540.                              
+Cogger, H.G., E.E. Cameron, and H.M. Cogger.           
+   1983. Zoological catalogue of Australia, vol. 1.    
+   Amphibia and Reptilia. Canberra: Australian         
+   Government Publishing Service.                      
+Colgan, D.J., A. McLauchlan, G.D.F. Wilson, S.P.       
+   Livingston, G.D. Edgecombe, J. Macaranas,           
+   and G. Cassis. 1999. Histone H3 and U2 sn-          
+   RNA DNA sequences and arthropod molecular           
+   evolution. Australian Journal of Zoology 46:        
+   419–437.                                          
+Collins, J.P., and A. Storfer. 2003. Global am-        
+   phibian declines: sorting the hypotheses. Di-       
+   versity and Distributions 9: 89–98.               
+Coloma, L.A. 1995. Ecuadorian frogs of the ge-         
+   nus Colostethus (Anura: Dendrobatidae). Uni-        
+   versity of Kansas Museum of Natural History,        
+   Miscellaneous Publications 87: 1–72.              
+Cope, E.D. 1859. On the primary divisions of the       
+   Salamandridae, with descriptions of two new         
+   species. Proceedings of the Academy of Natu-        
+   ral Sciences of Philadelphia 11: 122–128.         
+Cope, E.D. 1861 ‘‘1860’’. Descriptions of repti
+   from tropical America and Asia. Proceedings of      
+   the Academy of Natural Sciences of Philadel-        
+   phia 12: 368–374.                                 
+Cope, E.D. 1862. Catalogues of the reptiles ob-        
+   tained during the explorations of the Parana,       
+   Paraguay, Vermejo and Uraguay [sic] Rivers,
+   by Capt. Thos. J. Page, U.S.N.; and of those
+     procured by Lieut. N. Michler, U.S. Top. Eng.,
+   Commander of the expedition conducting the
+   survey of the Atrato River. Proceedings of the
+   Academy of Natural Sciences of Philadelphia
+   14: 346–359.
+  Cope, E.D. 1863. On Trachycephalus, Scaphiopus
+   and other Batrachia. Proceedings of the Acad-
+   emy of Natural Sciences of Philadelphia 15:
+   43–54.
+Cope, E.D. 1865. Sketch of primary groups of
+   Batrachia s. Salientia. Natural History Review.
+     New Series 5: 97–120.
+Cope, E.D. 1866. On the structure and distribution
+   of the genera of the arciferous Anura. Journal
+   of the Academy of Natural Sciences of Phila-
+     delphia. Series 2, 6: 67–112.
+Cope, E.D. 1867. On the families of the raniform
+   Anura. Journal of the Academy of Natural Sci-
+   ences of Philadelphia. Series 3, 6: 189–206.
+  Cope, E.D. 1869. A review of the species of
+   Plethodontidae and Desmognathidae. Proceed-
+   ings of the Academy of Natural Sciences of
+   Philadelphia 21: 93–118.
+  Cope, E.D. 1875. Check-list of North American
+   Batrachia and Reptilia; with a systematic list of
+   the higher groups, and an essay on geographical
+   distribution based on specimens contained in
+   the U.S. National Museum. Bulletin of the
+     United States National Museum 1: 1–104.
+Cope, E.D. 1880. Geology and paleontology.
+   American Naturalist 14: 609–610.
+Cope, E.D. 1887. The hyoid structure in the am-
+   blystomid salamanders. American Naturalist
+   21: 88.
+Cope, E.D. 1889. Batrachia of North America.
+   Bulletin of the United States National Museum
+   34: 5–525.
+Couper, P. 1992. Hope for our missing frogs.
+     Wildlife Australia. Brisbane 1992: 10–11.
+Crawford, A.J. 2003. Huge populations and old
+   species of Costa Rican and Panamanian dirt
+     frogs inferred from mitochondrial and nuclear
+   gene sequences. Molecular Ecology 12: 2525–
+   2540.
+Crawford, A.J., and E.N. Smith. 2005. Cenozoic
+     biogeography and evolution in direct-develop-
+   ing frogs of Central America (Leptodactylidae:
+   Eleutherodactylus) as inferred from a phylo-
+   genetic analysis of nuclear and mitochondrial
+     genes. Molecular Phylogenetics and Evolution
+les        35: 536–555.
+Cunningham, M., and M.I. Cherry. 2000. Mito-
+   chondrial DNA divergence in southern African
+     bufonids: are species equivalent entities? Afri-
+   can Journal of Herpetology 49: 9–22.
+Cunningham, M., and M.I. Cherry. 2004. Molec-
+
+   ular systematics of African 20-chromosome           
+   toads (Anura: Bufonidae). Molecular Phyloge-        
+   netics and Evolution 32: 671–685.                 
+Cuvier, G.L.C.F.D. 1829. Le re`gne animal distri-      
+   bue´ d’apre`s son organisation, pour servir de   
+   base a` l’histoire naturelle des animaux et       
+   d’introduction a` l’anatomie compare´e. Nou-   
+   velle ed., revue et augmente´e par P.A. Latreille, 
+   vol. 2. Paris: Deterville.                          
+Daltry, J.C., and G.N. Martin. 1997. Rediscovery       
+   of the black narrow mouthed frog, Melanoba-         
+   trachus indicus Beddome, 1878. Hamadryad            
+   22: 57–58.                                        
+Darst, C.R., and D.C. Cannatella. 2004. Novel re-      
+   lationships among hyloid frogs inferred from        
+   12S and 16S mitochondrial DNA sequences.            
+   Molecular Phylogenetics and Evolution 31:           
+   462–475.                                          
+da Silva, H.R. 1998. Phylogenetic relationships of     
+   the family Hylidae with emphasis on the rela-       
+   tionships within the subfamily Hylinae (Am-         
+   phibia: Anura). Ph.D. dissertation. Department      
+   of Sytematics and Ecology, University of Kan-       
+   sas, Lawrence.                                      
+da Silva, H.R., and J.R. Mendelson, III. 1999. A       
+   new organ and sternal morphology in toads           
+   (Anura: Bufonidae): descriptions, taxonomic         
+   distribution, and evolution. Herpetologica 55:      
+   114–126.                                          
+Davies, M.M. 2003a. Australian ground frogs            
+   (Limnodynastidae). In W.E. Duellman (editor),       
+   Grzimek’s animal life encyclopedia, 2nd ed.       
+   Vol. 6. Amphibians: 139–146. Detroit: Gale        
+   Group.                                              
+Davies, M.M. 2003b. Australian toadlets and wa-        
+   ter frogs (Myobatrachidae). In W.E. Duellman        
+   (editor), Grzimek’s animal life encyclopedia,     
+   2nd ed. Vol. 6. Amphibians: 147–154. Detroit:     
+   Gale Group.                                         
+Dawood, A., A. Channing, and J.P. Bogart. 2002.        
+   A molecular phylogeny of the frog genus To-         
+   mopterna in southern Africa: examining spe-         
+   cies boundaries with mitochondrial 12S rRNA         
+   sequence data. Molecular Phylogenetics and          
+   Evolution 22: 407–413.                            
+De Bavay, J.M. 1993. The developmental stages          
+   of the sphagnum frog, Kyarranus sphagnicol-         
+   ous Moore (Anura, Myobatrachidae). Austra-          
+   lian Journal of Zoology 41: 151–201.              
+de Blainville, H.M.D. 1816. Prodrome d’une nou-      
+   velle distribution systematique du regne animal.    
+   Bulletin de la Socie´te´ Philomathique de Paris.  
+   Series 3, 3: 113–124.                             
+de Blainville, H.M.D. 1835. Description de quel-       
+   ques espe`ces de reptiles de la Californie, pre´-  
+   ce´de´e de l’analyse d’un syste`me ge´ne´ral
+   d’erpe´tologie et d’amphibiologie. Nouvelles   
+   Annales du Muse´um d’Histoire Naturelle. Paris
+   4: 233–296, 4 pl.
+  de Carvalho, M.R., F.A. Bockman, D.S. Amorim,
+   M. de Vivo, M. de Toledo-Piza, N.A. Menezes,
+      J.L. De Figueiredo, R.M.C. Castro, A.C. Gill,
+     J.D. McEachran, L.J.V. Compagno, R.C. Schel-
+        ly, R. Britz, J.C. Lundberg, R.P. Vari, and G.
+    Nelson. 2005. Revisiting the taxonomic imped-
+   iment. Science 307: 353.
+De la Riva, I., and J.D. Lynch. 1997. New species
+   of Eleutherodactylus from Bolivia (Amphibia:
+   Leptodactylidae). Copeia 1997: 151–157.
+  Delorme, M., and A. Dubois. 2001. Une nouvelle
+   espe`ce de Scutiger du Bhutan, et quelques re-
+   marques sur la classiﬁcation subge´ne´rique du
+   genre Scutiger (Megophryidae, Leptobrachi-
+   inae). Alytes 19: 141–153.
+  Delorme, M., A. Dubois, S. Grosjean, and A. Ohl-
+   er. 2005. Une nouvelle classiﬁcation generique
+   et subgenerique de la tribu des Philautini (Am-
+   phibia, Anura, Ranidae, Rhacophorinae). Bul-
+   letin Mensuel de la Socie´te´ Linne´enne de Lyon
+   74: 165–171.
+Delorme, M., A. Dubois, J. Kosuch, and M.
+   Vences. 2004. Molecular phylogenetic relation-
+   ships of Lankanectes corrugatus from Sri Lan-
+   ka: endemism of South Asian frogs and the
+   concept of monophyly in phylogenetic studies.
+     Alytes 22: 53–64.
+del Pino, E.M., and B. Escobar. 1981. Embryonic
+   stages of Gastrotheca riobambae (Fowler) dur-
+     ing maternal incubation and comparison with
+     development with other marsupial frogs. Jour-
+   nal of Morphology 167: 277–295.
+de Queiroz, K. 1988. Systematics and the Dar-
+   winian Revolution. Philosophy of Science 55:
+     238–259.
+  de Queiroz, K., and J.A. Gauthier. 1992. Phylo-
+   genetic taxonomy. Annual Review of Ecology
+   and Systematics 23: 449–480.
+de Queiroz, K., and J.A. Gauthier. 1994. Toward
+   a phylogenetic system of biological nomencla-
+   ture. Trends in Ecology and Evolution 9: 27–
+   31.
+  de Sa´, R.O., W.R. Heyer, and A. Camargo. 2005.
+   A phylogenetic analysis of Vanzolinius (Am-
+   phibia, Anura, Leptodactylidae): taxonomic and
+   life history implications. Arquivos do Museu
+     Nacional do Rio de Janeiro, In press.
+  de Sa´, R.O., and D.M. Hillis. 1990. Phylogenetic
+   relationships of the pipid frogs Xenopus and
+     Silurana: an integration of ribosomal DNA and
+     morphology. Molecular Biology and Evolution
+   7: 365–376.
+ de Sa´, R.O., and C.C. Swart. 1999. Development
+           of the suprarostral plate of pipoid frogs. Journal
+        of Morphology 240: 143–153.
+De Villiers, C.G.S. 1929. The development of a
+
+   species of Arthroleptella from Jonkershoek,        
+   Stellenbosch. South African Journal of Science     
+   26: 481–510.                                     
+De Villiers, C.G.S. 1931. U¨ ber den Scha¨delbau    
+   des Breviceps fuscus. Anatomischer Anzeiger        
+   72: 164–178.                                     
+D’Haese, C.A. 2003. Morphological appraisal of
+   Collembola phylogeny with special emphasis         
+   on Poduromorpha and a test of the aquatic or-      
+   igin hypothesis. Zoologica Scripta 32: 563–      
+   586.                                               
+Diaz, N.F., J. Valencia, and M. Sallaberry. 1983.     
+   Life history and phylogenetic relationships of
+   Insuetophrynus acarpicus (Anura: Leptodactyl-      
+   idae). Copeia 1983: 30–37.                       
+Donnelly, M.A., and M.L. Crump. 1998. Potential       
+   effects of climate change on two Neotropical       
+   amphibian assemblages. Climatic Change 39:
+   541–561.                                         
+Donnelly, M.A., R.O. de Sa´, and C. Guyer. 1990.     
+   Description of the tadpoles of Gastrophryne
+   pictiventris and Nelsonophryne aterrima (An-       
+   ura: Microhylidae), with a review of morpho-       
+   logical variation in free-swimming microhylid      
+   larvae. American Museum Novitates 2796: 1–       
+   19.
+Donoghue, M.J. 1985. A critique of the biological     
+   species concept and recommendations for a          
+   phylogenetic alternative. Bryologist 88: 172–
+   181.                                               
+Drewery, G.E., and K.L. Jones. 1976. A new ovo-       
+   viviparous frog, Eleutherodactylus jasperi         
+   (Amphibia, Anura, Leptodactylidae) from
+   Puerto Rico. Journal of Herpetology 10: 161–     
+   165.                                               
+Drewes, R.C. 1984. A phylogenetic analysis of
+   the Hyperoliidae (Anura): treefrogs of Africa,     
+   Madagascar, and the Seychelles Islands. Occa-      
+   sional Papers of the California Academy of Sci-    
+   ences 139: 1–70.
+Drewes, R.C., R.I. Altig, and K.M. Howell. 1989.      
+   Tadpoles of three frog species endemic to the      
+   forest of the Eastern Arc Mountains, Tanzania.     
+   Amphibia-Reptilia 10: 435–443.
+Drewes, R.C., and J.A. Wilkinson. 2004. The Cal-      
+   ifornia Academy of Sciences Gulf of Guinea         
+   Expedition (2001) I. The taxonomic status of
+   the genus Nesionixalus Perret, 1976 (Anura:        
+   Hyperoliidae), treefrogs of Sa˜o Tome´ and Pr´ı
+   cipe, with comments on the genus Hyperolius.       
+   Proceedings of the California Academy of Sci-      
+   ences 55: 395–407.                               
+Dubois, A. 1980. Notes sur la systematique et la
+   repartition des amphibiens anoures de Chine et     
+   des regions avoisinantes IV. Classiﬁcation ge-   
+   nerique et subgenerique des Pelobatidae Me-        
+   gophryinae. Bulletin Mensuel de la Socie´te´     
+   Linne´enne de Lyon 49: 469–482.
+Dubois, A. 1981. Liste des genres et sous-genres
+   nominaux de Ranoidea (amphibiens anoures)
+     du monde, avec identiﬁcation de leurs espe`ces
+     types; consequences nomenclaturales. Monitore
+   Zoologico Italiano. Nuova Serie, Supplemento
+     15: 225–284.
+Dubois, A. 1982. Les notions de genre, sous-
+   genre et groupe d’espe`ces en zoologie a` la lu-
+     mie`re de la syste´matique e´volutive. Monitore
+   Zoologico Italiano. Nuova Serie, Supplemento
+   16: 9–65.
+Dubois, A. 1983. Classiﬁcation et nomenclature
+     supragenerique des amphibiens anoures. Bul-
+   letin Mensuel de la Socie´te´ Linne´enne de Lyon
+   52: 270–276.
+  Dubois, A. 1984a. Miscellanea nomenclatorica
+    batrachologica (V). Alytes 3: 111–116.
+Dubois, A. 1984b. La nomenclature suprage´ne´-
+   rique des amphibiens anoures. Me´moires du
+   Muse´um National d’Histoire Naturelle. Paris.
+     Se´rie A, Zoologie 131: 1–64.
+Dubois, A. 1985. Miscellanea nomenclatorica ba-
+   trachologica (VII). Alytes 4: 61–78.
+Dubois, A. 1986 ‘‘1985’’. Diagnose pre´liminaire
+   d’un nouveau genre de Ranoidea (amphibiens,
+   anoures) du sud de l’Inde. Alytes 4: 113–118.
+  Dubois, A. 1987 ‘‘1985’’. Miscellanea taxinomica
+   batrachologica (I). Alytes 5: 7–95.
+Dubois, A. 1987 ‘‘1986’’. Living amphibians of
+   the world: a ﬁrst step towards a comprehensive
+   checklist. Alytes 5: 99–149.
+Dubois, A. 1987. Discoglossidae Gu¨nther, 1858
+   (Amphibia, Anura): proposed conservation. Al-
+   ytes 6: 56–68.
+Dubois, A. 1988a. Miscellanea nomenclatorica
+   batrachologica (XVII). Alytes 7: 1–5.
+Dubois, A. 1988b. The genus in zoology: a con-
+n-     tribution to the theory of evolutionary system-
+   atics. Me´moires du Muse´um National
+   d’Histoire Naturelle. Paris. Se´rie A, Zoologie
+     140: 1–122.
+Dubois, A. 1992. Notes sur la classiﬁcation des
+     Ranidae (amphibiens anoures). Bulletin Men-
+   suel de la Socie´te´ Linne´enne de Lyon 61: 305–
+     352.
+Dubois, A. 1995. Keratodont formulae in anuran
+   tadpoles: proposals for a standardization. Jour-
+   nal of Zoological Systematics and Evolutionary
+   Research 33: 1–15.
+Dubois, A. 1999a. Miscellanea nomenclatorica
+   batrachologica. 19. Notes on the nomenclature
+   of Ranidae and related groups. Alytes 17: 81–
+   100.
+Dubois, A. 1999b. South Asian Amphibia: a new
+   frontier for taxonomists. Journal of South Asian
+   Natural History 4: 1–11.
+Dubois, A. 2000. The inﬂuence of man on the
+   distribution of amphibians in the Himalayas of
+
+   Nepal: an example of critical evaluation of bio-  
+   geographical data. In G. Miehe and Y. Zhang       
+   (editors), Environmental changes in High Asia.    
+   Proceedings of an international symposium at      
+   the University of Marburg, Faculty of Geogra-     
+   phy, 29 May to 1 June 1997, under the auspices    
+   of the Unesco. Marburger Geographische            
+   Schriften 135: 326–345.                         
+Dubois, A. 2003. True frogs (Ranidae). In W.E.       
+   Duellman (editor), Grzimek’s animal life en-    
+   cyclopedia, 2nd ed. Vol. 6. Amphibians: 245–    
+   264. Detroit: Gale Group.                         
+Dubois, A. 2004a. Amphibians of Nepal: a few         
+   words of caution. Alytes 21: 174–180.           
+Dubois, A. 2004b. The higher nomenclature of         
+   recent amphibians. Alytes 22: 1–14.             
+Dubois, A. 2005. Amphibia Mundi. 1.1. An er-         
+   gotaxonomy of Recent amphibians. Alytes 23:       
+   1–24.                                           
+Dubois, A., and R. Gu¨nther. 1982. Klepton and      
+   synklepton: two new evolutionary systematics      
+   categories in zoology. Zoologische Jahrbu¨cher.  
+   Abteilung fu¨r Systematik, O¨ kologie und Geo-  
+   graphie. Jena 109: 290–305.                     
+Dubois, A., and A. Ohler. 1998. A new species of     
+   Leptobrachium (Vibrissaphora) from northern       
+   Vietnam, with a review of the taxonomy of the     
+   genus Leptobrachium (Pelobatidae, Megophyi-       
+   nae). Dumerilia 4: 1–32.                        
+Dubois, A., and A. Ohler. 1999. Asian and Ori-       
+   ental toads of the Bufo melanostictus, Bufo sca-  
+   ber and Bufo stejnegeri groups (Amphibia, An-     
+   ura): a list of available and valid names and     
+   redescription of some name-bearing types.         
+   Journal of South Asian Natural History 4: 133–  
+   180.                                              
+Dubois, A., and A. Ohler. 2000. Systematics of       
+   Fejervarya limnocharis (Gravenhorst, 1829)        
+   (Amphibia, Anura, Ranidae) and related spe-       
+   cies. 1. Nomenclatural status and type-speci-     
+   mens of the nominal species Rana limnocharis      
+   Gravenhorst, 1829. Alytes 18: 15–50.            
+Dubois, A., and A. Ohler. 2001. A new genus for      
+   an aquatic ranid (Amphibia, Anura) from Sri       
+   Lanka. Alytes 19: 81–106.                       
+Dubois, A., A. Ohler, and S.D. Biju. 2001. A new     
+   genus and species of Ranidae (Amphibia, An-       
+   ura) from south-western India. Alytes 19: 53–   
+   79.                                               
+Duellman, W.E. 1975. On the classiﬁcation of       
+   frogs. Occasional Papers of the Museum of         
+   Natural History, University of Kansas 42: 1–    
+   14.                                               
+Duellman, W.E. 2001. Hylid frogs of Middle           
+   America, 2nd ed. 2 vol. Contributions to Her-     
+   petology, no. 18. Ithaca, NY: Society for the     
+   Study of Amphibians and Reptiles.                 
+Duellman, W.E. 2003. Leptodactylid frogs (Lep-       
+   todactylidae). In W.E. Duellman (editor), Grzi-
+   mek’s animal life encyclopedia, 2nd ed. Vol. 6.
+   Amphibians: 155–171. Detroit: Gale Group.
+Duellman, W.E., and P. Gray. 1983. Developmen-
+   tal biology and systematics of the egg-brooding
+   hylid frogs, genera Flectonotus and Fritziana.
+   Herpetologica 39: 333–359.
+  Duellman, W.E., and M.S. Hoogmoed. 1984. The
+   taxonomy and phylogenetic relationships of the
+     hylid frog genus Stefania. University of Kansas
+     Museum of Natural History, Miscellaneous
+   Publications 75: 1–39.
+Duellman, W.E., and R. Schulte. 1992. Descrip-
+     tion of a new species of Bufo from northern
+   Peru with comments on phenetic groups of
+     South American toads (Anura: Bufonidae).
+   Copeia 1992: 162–172.
+Duellman, W.E., and L. Trueb. 1986. Biology of
+     amphibians. New York: McGraw-Hill.
+ Duellman, W.E., and A. Veloso M. 1977. Phylog-
+   eny of Pleurodema (Anura: Leptodactylidae): a
+    biogeographic model. Occasional Papers of the
+     Museum of Natural History, University of Kan-
+     sas 64: 1–46.
+Dume´ril, A.H.A. 1863. Catalogue me´thodique de
+   la collection des batraciens du Muse´um
+   d’Histoire Naturelle de Paris. Me´moires de la
+   Socie´te´ Impe´riale des Sciences Naturelles de
+     Cherbourg 9: 295–321.
+Dume´ril, A.M.C. 1806. Zoologie analytique, ou
+   me´thode naturelle de classiﬁcation des ani-
+   maux, rendue plus facile a` l’dide de tableaux
+   synoptiques. Paris: Allais.
+Dunn, E.R. 1920. Notes on two Paciﬁc coast Am-
+     bystomidae. Proceedings of the New England
+   Zoological Club 7: 55–59.
+Dunn, E.R. 1922. The sound-transmitting appa-
+   ratus of salamanders and the phylogeny of the
+   Caudata. American Naturalist 56: 418–487.
+Dunn, E.R. 1939. Bathysiredon, a new genus of
+   salamanders, from Mexico. Notulae Naturae of
+     the Academy of Natural Sciences of Philadel-
+   phia 36: 1.
+Dutta, S.K., K. Vasudevan, M.S. Chaitra, K.
+     Shanker, and R.-K. Aggarwal. 2004. Jurassic
+   frogs and the evolution of amphibian endemism
+   in the western Ghats. Current Science. Banga-
+     lore 86: 211–216.
+Echeverria, D.D. 1998. Aspectos de la reproduc-
+     cion in-vitro del desarrollo larval de Melano-
+   phryniscus stelzneri (Weyenbergh, 1875) (An-
+     ura, Bufonidae), con comentarios acerca del or-
+   gano de Bidder. Alytes 15: 158–170.
+Edwards, J.L. 1976. Spinal nerves and their bear-
+   ing on salamander phylogeny. Journal of Mor-
+   phology 148: 305–328.
+Elias, P., and D.B. Wake. 1983. Nyctanolis pernix,
+   a new genus and species of plethodontid sala-
+
+   mander from northwestern Guatemala and              
+   Chiapas, Mexico. In A. Rhodin and K. Miyata         
+   (editors), Advances in herpetology and evolu-       
+   tionary biology. Essays in honor of Ernest E.       
+   Williams: 1–12. Cambridge, MA: Museum of          
+   Comparative Zoology, Harvard University.            
+Emerson, S.B., and D. Berrigan. 1993. System-          
+   atics of Southeast Asian ranids: multiple origins   
+   of voicelessness in the subgenus Limnonectes        
+   (Fitzinger). Herpetologica 49: 22–31.             
+Emerson, S.B., R.F. Inger, and D.T. Iskandar.          
+   2000a. Molecular systematics and biogeogra-         
+   phy of the fanged frogs of Southeast Asia. Mo-      
+   lecular Phylogenetics and Evolution 16: 131–      
+   142.                                                
+Emerson, S.B., C.M. Richards, R.C. Drewes, and         
+   K.M. Kjer. 2000b. On the relationships among        
+   ranoid frogs: a review of the evidence. Herpe-      
+   tologica 56: 209–230.                             
+Estes, R. 1965. Fossil salamanders and salaman-        
+   der origins. American Zoologist 5: 319–334.       
+Estes, R. 1970. New fossil pelobatid frogs and a       
+   review of the genus Eopelobates. Bulletin of        
+   the Museum of Comparative Zoology 139:              
+   239–340.                                          
+Estes, R. 1981. Handbuch der Pala¨oherpetologie/      
+   Encyclopedia of paleoherpetology. Part 2.           
+   Gymnophiona, Caudata. Stuttgart: Gustav Fi-         
+   scher.                                              
+Estes, R., K. de Queiroz, and J.A. Gauthier. 1988.     
+   Phylogenetic relationships within Squamata. In      
+   R. Estes and G.K. Pregill (editors), Phyloge-       
+   netic relationships of the lizard families, essays  
+   commemorating Charles L. Camp: 119–281.           
+   Stanford, CA: Stanford University Press.            
+Estes, R., and O.A. Reig. 1973. The early fossil       
+   record of frogs: a review of the evidence. In J.    
+   Vial (editor), Evolutionary biology of the an-      
+   urans: contemporary research on major prob-         
+   lems: 11–63. Columbia: University of Missouri     
+   Press.                                              
+Evans, B.J., R.M. Brown, J.A. McGuire, J. Su-          
+   priatna, N. Andayani, A.C. Diesmos, D.T. Is-        
+   kandar, D.J. Melnick, and D.C. Cannatella.          
+   2004. Phylogenetics of fanged frogs: testing        
+   biogeographical hypotheses at the interface of      
+   the Asian and Australian fauna zones. System-       
+   atic Biology 52: 794–819.                         
+Evans, B.J., D.J. Melnick, D.C. Cannatella, J. Su-     
+   priatna, N. Andayani, and M.I. Setiadi. 2003.       
+   Monkeys and toads deﬁne areas of endemism         
+   on Sulawesi. Evolution 57: 1436–1443.             
+Evans, S.E., and D. Sigogneau-Russell. 2001. A         
+   stem-group caecilian (Lissamphibia: Gymno-          
+   phiona) from the Lower Cretaceous of North          
+   Africa. Palaeontology 44: 259–274                 
+Fabrezi, M., and J.A. Langone. 2000. Los carac-        
+   teres morfolo´gicos del controvertido Neobatra-
+   chia arbor´ıcola Allophryne ruthveni Gaige,
+   1926. Cuadernos de Herpetolog´ıa 14: 47–59.
+Faivovich, J. 2002. A cladistic analysis of Scinax
+   (Anura: Hylidae). Cladistics 18: 367–393.
+  Faivovich, J., C.F.B. Haddad, P.C.A. Garcia, D.R.
+   Frost, J.A. Campbell, and W.C. Wheeler. 2005.
+   Systematic review of the frog family Hylidae,
+   with special reference to Hylinae: a phyloge-
+   netic analysis and taxonomic revision. Bulletin
+     of the American Museum of Natural History
+   294: 1–240.
+Farris, J.S. 1973. On comparing the shapes of tax-
+   onomic trees. Systematic Zoology 22: 50–54.
+  Farris, J.S., A.G. Kluge, and M.F. Mickevich.
+   1979. Paraphyly of the Rana boylii species
+   group. Systematic Zoology 28: 627–634.
+Farris, J.S., A.G. Kluge, and M.F. Mickevich.
+   1982a. Phylogenetic analysis, the monothetic
+     group method, and myobatrachid frogs. Sys-
+   tematic Zoology 31: 317–327.
+  Farris, J.S., A.G. Kluge, and M.F. Mickevich.
+   1982b. Immunological distance and the phylo-
+   genetic relationships of the Rana boylii species
+   group. Systematic Zoology 31: 479–491.
+  Fatio, V. 1872. Faune des verte´bre´s de la Suisse,
+    vol. III. Histoire naturelle des reptiles et des
+   batraciens. Paris: J.-P. Bailliere.
+Fei, L. 1999. [Atlas of amphibians of China.]
+   Zhengzhou: Henan Press of Science and Tech-
+   nology. [In Chinese.]
+Fei, L., and C. Ye. 2000. A new hynobiid subfam-
+   ily with a new genus and new species of Hy-
+   nobiidae from West China. Cultum Herpetolo-
+     gica Sinica 8: 64–70. [In Chinese with English
+   abstract.]
+Fei, L., and C. Ye. 2001. [The color handbook of
+   the amphibians of Sichuan.] Chengdu, China:
+   Sichuan Forestry Department, Sichuan Associ-
+   ation of Wildlife Conservation, and Chengdu
+     Institute of Biology. [In Chinese.]
+Fei, L., C. Ye, and Y. Huang. 1991 ‘‘1990’’. [Key
+   to Chinese amphibians.] Chongqing, China:
+   Publishing House for Scientiﬁc and Technolog-
+   ical Literature. [In Chinese.]
+Fei, L., C. Ye, and Y. Huang. 1997. Taxonomic
+   studies of the genus Liurana of China including
+   descriptions of a new species (Amphibia: Ran-
+     idae). Cultum Herpetologica Sinica 6–7: 75–80.
+Fei, L., C. Ye, and J. Jiang. 2000. A new genus
+   of the subfamily Amolopinae—Pseudoamo-
+     lops, and its relationship to related genera. Acta
+     Zoologica Sinica 46: 19–26.
+Fei, L., C. Ye, J. Jiang, X. Feng, and Y. Huang.
+   2005. [An illustrated key to Chinese amphibi-
+   ans.] Chongqing: Sichuan Publishing House of
+     Science and Technology. [In Chinese.]
+Fei, L., C. Ye, and C. Li. 2001. Descriptions of
+
+   two new species of the genus Odorrana in Chi-     
+   na. Acta Zootaxonomica Sinica 26: 108–114.      
+Feje´rva´ry, G.J. 1917. Anoures fossiles des couch-
+   es pre´glaciares de Pu¨spo¨kfu¨rdo¨ en Hongri
+   Fo¨ldtani Ko¨zlo¨ny 47: 141–172.             
+Feje´rva´ry, G.J. 1920. Remarques sur la position  
+   systematique des genres Bufavus et Ranavus.       
+   Annales Historico-Naturales Musei Nationalis      
+   Hungarici 18: 28–30.                            
+Feje´rva´ry, G.J. 1921. Kritische Bemerkungen zur  
+   Osteologie, Phylogenie und Systematik der An-     
+   uren. Archiv fu¨r Naturgeschichte. Abteilung A   
+   87: 1–30.                                       
+Feje´rva´ry, G.J. 1923. Ascaphidae, a new family   
+   of the tailless batrachians. Annales Historico-   
+   Naturales Musei Nationalis Hungarici 20: 178–   
+   181.                                              
+Feller, A.E., and S.B. Hedges. 1998. Molecular       
+   evidence for the early history of living amphib-  
+   ians. Molecular Phylogenetics and Evolution 9:    
+   509–516.                                        
+Fink, W.L. 1990. Review of: The genus in zool-       
+   ogy: a contribution to the theory of evolution-   
+   ary systematics, by Alain Dubois. Mem. du         
+   Museum national d’Histoire Naturelle, Serie A,  
+   Zoology, Tome 140. 1988. Quarterly Review of      
+   Biology 65: 79–80.                              
+Fischer von Waldheim, G. 1813. Zoognosia tabulis     
+   synopticis illustrata, in usum prælectionum Aca- 
+   demiæ Imperialis Medico-Chirurgicæ Mosquen-     
+   sis edita. 3rd ed. Vol. 1. Moscow: Nicolai Ser-   
+   geidis Vsevolozsky.                               
+Fitzinger, L.J.F.J. 1826. Neue Classiﬁcation der   
+   Reptilien nach ihren natu¨rlichen Verwandt-      
+   schaften nebst einer Verwandtschafts-Tafel und    
+   einem Verzeichnisse der Reptilien-Sammlung        
+   des k.k. zoologisch Museum’s zu Wien. Wien:     
+   J.G. Heubner.                                     
+Fitzinger, L.J.F.J. 1835. Entwurf einer systema-     
+   tischen Anordnung der Schildkro¨ten nach den     
+   Grandsa¨tzen der natu¨rlichen Methode. Annalen  
+   des Naturhistorischen Museums in Wien 1:          
+   105–128.                                        
+Fitzinger, L.J.F.J. 1843. Systema reptilium. Fas-    
+   ciculus primus. Wien: Braumu¨ller et Seidel.     
+Ford, L.S. 1990. The phylogenetic position of poi-   
+   son-dart frogs (Dendrobatidae): reassessment of   
+   the neobatrachian phylogeny with commentary       
+   on complex character systems. Ph.D. disserta-     
+   tion. Department of Systematics and Ecology,      
+   University of Kansas, Lawrence.                   
+Ford, L.S. 1993. The phylogenetic position of the    
+   dart-poison frogs (Dendrobatidae) among an-       
+   urans: an examination of the competing hy-        
+   potheses and their characters. Ethology Ecolo-    
+   gy & Evolution 5: 219–231.                      
+Ford, L.S., and D.C. Cannatella. 1993. The major     
+   clades of frogs. Herpetological Monographs 7:
+     94–117.
+  Formas, J.R., and N.D. Espinoza. 1975. Karyo-
+e.      logical relatonships of frogs of the genus Tel-
+        matobufo (Anura: Leptodactylidae). Herpeto-
+     logica 31: 429–432.
+Formas, J.R., E. Pugin, and B. Jorquera. 1975. La
+   identidad del batracio chileno Heminectes rufus
+     Philippi, 1902. Physis. Buenos Aires 34: 147–
+     157.
+Frost, D.R. (editor), 1985. Amphibian species of
+    the world. A taxonomic and geographical ref-
+     erence. Lawrence, KS: Association of System-
+     atics Collections and Allen Press.
+Frost, D.R. 2004. Amphibian species of the world:
+     an online reference. Version 3.0. New York:
+   American Museum of Natural History. [Elec-
+   tronic database available at http://re-
+   search.amnh.org/herpetology/amphibia/in-
+   dex.html.]
+  Frost, D.R., and A.G. Kluge. 1994. A consider-
+   ation of epistemology in systematic biology,
+   with special reference to species. Cladistics 10:
+   259–294.
+  Frost, D.R., M.T. Rodrigues, T. Grant, and T.A.
+   Titus. 2001. Phylogenetics of the lizard genus
+     Tropidurus (Squamata: Tropiduridae: Tropidur-
+   inae): direct optimization, descriptive efﬁcien-
+    cy, and sensitivity analysis of congruence be-
+     tween molecular data and morphology. Molec-
+   ular Phylogenetics and Evolution 21: 352–371.
+Gadow, H. 1901. The Cambridge natural history,
+     vol. 8. Amphibia and reptiles. London: Mac-
+    millan and Co.
+Gallardo, J.M. 1965. A proposito de los Lepto-
+   dactylidae (Amphibia, Anura). Pape´is Avulsos
+     de Zoologia. Sa˜o Paulo 17: 77–87.
+Gao, K., and N.H. Shubin. 2001. Late Jurassic
+   salamanders from northern China. Nature. Lon-
+    don 410: 574–577.
+  Gao, K., and N.H. Shubin. 2003. Earliest known
+   crown group salamanders. Nature. London 422:
+     424–429.
+Gao, K., and Y. Wang. 2001. Mesozoic anurans
+    from Liaoning Province, China, and phyloge-
+   netic relationships of archaeobatrachian anuran
+   clades. Journal of Vertebrate Paleontology 21:
+   460–476.
+Garc´ıa-Par´ıs, M., D.R. Buchholz, and G. Parra-
+   Olea. 2003. Phylogenetic relationships of Pe-
+   lobatoidea re-examined using mtDNA. Molec-
+   ular Phylogenetics and Evolution 28: 12–23.
+Garc´ıa-Par´ıs, M., A. Monton, and M.A. Alonso-
+   Zarazaga. 2004a. Ape´ndice 1. Nomenclatura:
+   lista de sino´nimos y combinaciones. In M.
+     Garc´ıa-Par´ıs, A. Montori, and P. Herrero (edi-
+   tors), Fauna Iberica, vol. 24. Amphibia. Lis-
+   samphibia: 589–602. Madrid: Museo Nacional
+
+   de Ciencias Naturales and Consejo Superior de      
+   Investigaciones Cient´ıﬁca.                    
+Garc´ıa-Par´ıs, M., A. Montori, and P. Herrero.   
+   2004b. Fauna Iberica, vol. 24. Amphibia. Lis-      
+   samphibia. Madrid: Museo Nacional de Cien-         
+   cias Naturales and Consejo Superior de Inves-      
+   tigaciones Cient´ıﬁca.                         
+Garc´ıa-Par´ıs, M., and D.B. Wake. 2000. Molecu-  
+   lar phylogenetic analysis of relationships of the  
+   tropical salamander genera Oedipina and No-        
+   totriton, with descriptions of a new genus and     
+   three new species. Copeia 2000: 42–70.           
+Gardiner, B.G. 1982. Tetrapod classiﬁcation. Zoo-   
+   logical Journal of the Linnean Society. London     
+   74: 207–232.                                     
+Gardner, J.D. 2001. Monophyly and afﬁnities of      
+   albanerpetontid amphibians (Temnospondyli;         
+   Lissamphibia). Zoological Journal of the Lin-      
+   nean Society. London 131: 309–352.               
+Gardner, J.D. 2002. Monophyly and intra-generic       
+   relationships of Albanerpeton (Lissamphibia;       
+   Albanerpetontidae). Journal of Vertebrate Pa-      
+   leontology 22: 12–22.                            
+Gauthier, J.A., D.C. Cannatella, K. de Queiroz,       
+   A.G. Kluge, and T. Rowe. 1989. Tetrapod phy-       
+   logeny. In B. Fernholm, K. Bremer, and H.          
+   Jornvall (editors), The hierarchy of life: 337–  
+   353. New York: Elsevier.                           
+Gauthier, J.A., A.G. Kluge, and T. Rowe. 1988a.       
+   Amniote phylogeny and the importance of fos-       
+   sils. Cladistics 4: 105–209.                     
+Gauthier, J.A., A.G. Kluge, and T. Rowe. 1988b.       
+   The early evolution of the Amniota. In M.J.        
+   Benton (editor), The phylogeny and classiﬁca-    
+   tion of the tetrapods, vol. 1. Amphibians, rep-    
+   tiles, birds: 103–155. Systematics Association   
+   Special vol. 23. New York: Academic Press.         
+Ghiselin, M.T. 1966. On psychologism in the log-      
+   ic of taxonomic controversies. Systematic Zo-      
+   ology 15: 207–215.                               
+Giaretta, A.A., and R.J. Sawaya. 1998. Second         
+   species of Psyllophryne (Anura: Brachycephal-      
+   idae). Copeia 1998: 985–987.                     
+Glaw, F., and M. Vences. 1994. A ﬁeldguide to       
+   the amphibians and reptiles of Madagascar, 2nd     
+   ed., including mammals and freshwater ﬁsh.       
+   Ko¨ln: Moos Druck.                                
+Glaw, F., and M. Vences. 2002. A new sibling          
+   species of the anuran subgenus Blommersia          
+   from Madagascar (Amphibia: Mantellidae:            
+   Mantidactylus) and its molecular phylogenetic      
+   relationships. Herpetological Journal. London      
+   12: 11–20.                                       
+Goebel, A.M., J.M. Donnelly, and M.E. Atz.            
+   1999. PCR primers and ampliﬁcation methods       
+   for 12S ribosomal DNA, the control region, cy-     
+   tochrome oxidase I, and cytochrome b in bu-        
+   fonids and other frogs, and an overview of PCR
+   primers which have ampliﬁed DNA in amphib-
+       ians successfully. Molecular Phylogenetics and
+       Evolution 11: 163–199.
+Goin, C.J., O.B. Goin, and G.R. Zug. 1978. Intro-
+   duction to herpetology, 3rd ed. San Francisco:
+   W.H. Freeman and Co.
+    Goldfuss, G.A. 1820. Handbuch der Zoologie.
+       Zweite Abtheilung. Nu¨rnburg: Johann Leon-
+   hard Schrag.
+Goloboff, P.A. 1993–1999. NONA. Version 2.9.
+   Tucuma´n, Argentina: Computer software dis-
+     tributed by the author.
+  Goloboff, P.A. 1999. Analyzing large data sets in
+   reasonable times: solutions for composite opti-
+     ma. Cladistics 15: 415–428.
+  Goloboff, P.A., and J.S. Farris. 2001. Methods of
+   quick consensus estimation. Cladistics 17: S26–
+   S34.
+  Goloboff, P.A., J.S. Farris, and K.C. Nixon. 2003.
+   T.N.T.: Tree analysis using new technology,
+   version 1.0. Program and documentation avail-
+   able from the authors and at www.zmuc.dk/
+     public/phylogeny.
+Good, D.A., and D.B. Wake. 1992. Geographic
+   variation and speciation in the torrent salaman-
+   ders of the genus Rhyacotriton (Caudata: Rhy-
+     acotritonidae). University of California Publi-
+   cations in Zoology 126: 1–91.
+Gower, D.J., A. Kupfer, O.V. Oommen, W. Him-
+   stedt, R.A. Nussbaum, S.P. Loader, B. Pres-
+     swell, H. Mu¨ller, S.B. Krishna, R. Boistel, and
+   M. Wilkinson. 2002. A molecular phylogeny of
+   ichthyophiid caecilians (Amphibia: Gymno-
+     phiona: Ichthyophiidae): out of India or out of
+   South East Asia? Proceedings of the Royal So-
+     ciety of London. Series B, Biological Sciences
+   269: 1563–1569.
+Gower, D.J., and M. Wilkinson. 2002. Phallus
+   morphology in caecilians (Amphibia, Gymno-
+     phiona) and its systematic utility. Bulletin of
+   the Natural History Museum. London. Zoology
+   Series 68: 143–154.
+  Grandison, A.G.C. 1981. Morphology and phy-
+     logenetic position of the West African Didyn-
+   amipus sjoestedti Andersson, 1903 (Anura, Bu-
+     fonidae). Monitore Zoologico Italiano. Nuova
+    Serie, Supplemento 15: 187–215.
+Grant, T. 1998. Una nueva especie de Colostethus
+   del grupo edwardsi de Colombia. Revista de la
+   Academia Colombiana de Ciencias Exactas,
+   Fisicas y Naturales 22: 423–428.
+Grant, T. 2002. Testing methods: the evaluation of
+     discovery operations in evolutionary biology.
+   Cladistics 18: 94–111.
+  Grant, T. 2004. On the identities of Colostethus
+   inguinalis (Cope, 1868) and C. panamensis
+   (Dunn, 1933), with comments on C. latinasus
+
+   (Cope, 1863) (Anura: Dendrobatidae). Ameri-       
+   can Museum Novitates 3444: 1–24.                
+Grant, T., and F. Castro-Herrera. 1998. The cloud    
+   forest Colostethus (Anura, Dendrobatidae) of a    
+   region of the Cordillera Occidental of Colom-     
+   bia. Journal of Herpetology 32: 378–392.        
+Grant, T., E.C. Humphrey, and C.W. Myers. 1997.      
+   The median lingual process of frogs: a bizarre    
+   character of Old World ranoids discovered in      
+   South American dendrobatids. American Mu-         
+   seum Novitates 3212: 1–40.                      
+Grant, T., and A.G. Kluge. 2004. Transformation      
+   series as an ideographic character concept. Cla-  
+   distics 20: 23–31.                              
+Grant, T., and L.O. Rodriguez. 2001. Two new         
+   species of frogs of the genus Colostethus (Den-   
+   drobatidae) from Peru and a redescription of C.   
+   trilineatus (Boulenger, 1883). American Mu-       
+   seum Novitates 3355: 1–24.                      
+Gray, J.E. 1825. A synopsis of the genera of rep-    
+   tiles and Amphibia, with a description of some    
+   new species. Annals of Philosophy. Series 2, 10   
+   193–217.                                        
+Gray, J.E. 1850a. Catalogue of the specimens of      
+   Amphibia in the collection of the British Mu-     
+   seum. Part. II. Batrachia Gradientia, etc. Lon-   
+   don: Spottiswoodes and Shaw.                      
+Gray, J.E. 1850b. Description of a new genus of      
+   batrachians from Swan River. By Dr. H. Schle-     
+   gel, Curator of the Royal Zoological Museum,      
+   Leyden. (Extracted from a letter to J.E. Gray,    
+   Esq.). Proceedings of the Zoological Society of   
+   London 1850: 9–10.                              
+Graybeal, A. 1995. Phylogenetic relationships and    
+   evolution of bufonid frogs based on molecular     
+   and morphological characters. Ph.D. disserta-     
+   tion. Department of Integrative Biology, Uni-     
+   versity of California, Berkeley.                  
+Graybeal, A. 1997. Phylogenetic relationships of     
+   bufonid frogs and tests of alternate macroevo-    
+   lutionary hypotheses characterizing their radi-   
+   ation. Zoological Journal of the Linnean Soci-    
+   ety. London 119: 297–338.                       
+Graybeal, A., and D.C. Cannatella. 1995. A new       
+   taxon of Bufonidae from Peru, with descrip-       
+   tions of two new species and a review of the      
+   phylogenetic status of supraspeciﬁc bufonid     
+   taxa. Herpetologica 51: 105–131.                
+Green, D.M. 2005. The ecology of extinction:         
+   population ﬂuctuation and decline in amphibi-   
+   ans. Biological Conservation 111: 331–343.      
+Green, D.M., and D.C. Cannatella. 1993. Phylo-       
+   genetic signiﬁcance of the amphicoelous frogs,  
+   Ascaphidae and Leiopelmatidae. Ethology           
+   Ecology & Evolution 5: 233–245.                 
+Green, D.M., R.A. Nussbaum, and D. Yang. 1988.       
+   Genetic divergence and heterozygosity among       
+   frogs of the family Sooglossidae. Herpetologica
+     44: 113–119.
+Green, D.M., T.F. Sharbel, R.A. Hitchmough, and
+   C.H. Daugherty. 1989. Genetic variation in the
+   genus Leiopelma and relationships to other
+     primitive frogs. Zeitschrift fu¨r Zoologische
+   Systematik und Evolutionsforschung 27: 65–
+   79.
+Grifﬁths, I. 1954. On the ‘‘otic element’’ in Am-
+   phibia Salientia. Proceedings of the Zoological
+     Society of London 124: 3–50.
+Grifﬁths, I. 1959a. The phylogenetic status of the
+   Sooglossinae. Annals and Magazine of Natural
+     History, Series 13, 2: 626–640.
+Grifﬁths, I. 1959b. The phylogeny of Sminthillus
+   limbatus and the status of the Brachycephalidae
+   (Amphibia Salientia). Proceedings of the Zoo-
+   logical Society of London 132: 457–487.
+  Grifﬁths, I. 1963. The phylogeny of the Salientia.
+   Biological Reviews of the Cambridge Philo-
+   sophical Society 38: 241–292.
+Grosjean, S., M. Perez, and A. Ohler. 2003. Mor-
+     phology and buccopharyngeal anatomy of the
+   tadpole of Rana (Nasirana) alticola (Anura:
+   Ranidae). Rafﬂes Bulletin of Zoology 51: 101–
+   107.
+Grosjean, S., M. Vences, and A. Dubois. 2004.
+   Evolutionary signiﬁcance of oral morphology
+   in the carnivorous tadpoles of tiger frogs, genus
+   Hoplobatrachus (Ranidae). Biological Journal
+   of the Linnean Society 81: 171–181.
+Gu¨nther, A. 1858a. Neue Batrachier in der Samm-
+     lung des britischen Museums. Archiv fu¨r Na-
+   turgeschichte 24: 319–328.
+Gu¨nther, A. 1858b. On the systematic arrange-
+   ment of the tailless batrachians and the struc-
+   ture of Rhinophrynus dorsalis. Proceedings of
+   the Zoological Society of London 1858: 339–
+   352.
+Gu¨nther, A. 1859 ‘‘1858’’. Catalogue of the Ba-
+   trachia Salientia in the collection of the British
+   Museum. London: Taylor and Francis.
+  Gu¨nther, A. 1870. Reptilia (1869). Zoological Re-
+   cord 6: 105–122.
+Haas, A. 1995. Cranial features of dendrobatid
+   larvae (Amphibia: Anura: Dendrobatidae).
+     Journal of Morphology 224: 241–264.
+  Haas, A. 2003. Phylogeny of frogs as inferred
+   from primarily larval characters (Amphibia:
+     Anura). Cladistics 19: 23–90.
+  Haas, A., and S.J. Richards. 1998. Correlations of
+   cranial morphology, ecology, and evolution in
+     Australian suctorial tadpoles of the genera Li-
+   toria and Nyctimystes (Amphibia: Anura: Hy-
+     lidae: Pelodryadinae. Journal of Morphology
+   238: 109–141.
+Haddad, C.F.B., and C.P.A. Prado. 2005. Repro-
+   ductive modes in frogs and their unexpected di-
+
+   versity in the Atlantic Forest of Brazil. Bio-    
+   Science 55: 207–217.                            
+Haeckel, E.H.P.A. 1866. Generelle Morphologie        
+   der Organismen, vol. 2. Berlin: Georg Reimer.     
+Hall, J.A., and J.H. Larsen, Jr. 1998. Postembry-    
+   onic ontogeny of the spadefoot toad, Scaphio-     
+   pus intermontanus (Anura: Pelobatidae): skel-
+   etal morphology. Journal of Morphology 238:       
+   179–244.                                        
+Halliday, T. 2005. Diverse factors inﬂuencing am-
+   phibian population declines. In M.J. Lannoo       
+   (editor), Amphibian declines: the conservation    
+   status of United States species: 3–9. Berkeley:
+   University of California Press.                   
+Hallowell, E. 1856. Description of several species   
+   of Urodela, with remarks on the geographical      
+   distribution of the Caducibranchiata division of  
+   these animals and their classiﬁcation. Proceed- 
+   ings of the Academy of Natural Sciences of
+   Philadelphia 8: 6–11.                           
+Hanken, J., and D.B. Wake. 1982. Genetic differ-     
+   entiation among plethodontid salamanders (ge-     
+   nus Bolitoglossa) in Central and South Ameri-     
+   ca: implications for the South American inva-     
+   sion. Herpetologica 38: 272–287.
+Harris, D.J. 2001. Reevaluation of 16S ribosomal     
+   RNA variation in Bufo (Anura: Amphibia). Mo-      
+   lecular Phylogenetics and Evolution 19: 326–    
+   329.                                              
+Hass, C.A., J.F. Dunski, L.R. Maxson, and M.S.
+   Hoogmoed. 1995. Divergent lineages within         
+   the Bufo margaritifera complex (Amphibia:         
+   Anura; Bufonidae) revealed by albumin im-         
+   munology. Biotropica 27: 238–249.               
+Hay, J.M., I. Ruvinsky, S.B. Hedges, and L.R.        
+   Maxson. 1995. Phylogenetic relationships of
+   amphibian families inferred from DNA se-          
+   quences of mitochondrial 12S and 16S ribo-        
+   somal RNA genes. Molecular Biology and            
+   Evolution 12: 928–937.                          
+Hayes, M.P., and P.H. Starrett. 1981 ‘‘1980’’
+   Notes on a collection of centrolenid frogs from   
+   the Colombia Choco. Bulletin of the Southern      
+   California Academy of Science 79: 89–96.        
+Hedges, S.B. 1989. Evolution and biogeography
+   of West Indian frogs of the genus Eleuthero-      
+   dactylus: slow-evolving loci and the major        
+   groups. In C.A. Woods (editor), Biogeography      
+   of the West Indies: past, present, and future:    
+   305–370. Gainesville, FL: Sandhill Crane        
+   Press.                                            
+Hedges, S.B. 1994. Molecular evidence for the
+   origin of birds. Proceedings of the National      
+   Academy of Science of the United States of        
+   America 91: 2621–2624.
+Hedges, S.B., and L.R. Maxson. 1993. A molec-        
+   ular perspective on lissamphibian phylogeny.      
+   Herpetological Monographs 7: 27–42.             
+Hedges, S.B., R.A. Nussbaum, and L.R. Maxson.
+     1993. Caecilian phylogeny and biogeography
+   inferred from mitochondrial DNA sequences of
+   the 12S rRNA and 16S rRNA genes (Amphib-
+   ia: Gymnophiona). Herpetological Monographs
+   7: 64–76.
+Hedges, S.B., and L.L. Poling. 1999. A molecular
+     phylogeny of reptiles. Science 283: 998–1001.
+Hennig, W. 1966. Phylogenetic systematics. Chi-
+   cago: University of Illinois Press.
+Henrici, A.C. 1991. Chelomophrynus bayi (Am-
+   phibia, Anura, Rhinophrynidae), a new genus
+   and species from the Middle Eocene of Wyo-
+   ming: ontogeny and relationships. Annals of
+     the Carnegie Museum 60: 97–144.
+  Hertwig, S., R.O. de Sa´, and A. Haas. 2004. Phy-
+   logenetic signal and the utility of 12S and 16S
+   mtDNA in frog phylogeny. Journal of Zoolog-
+   ical Systematics and Evolutionary Research 42:
+   2–18.
+Hewitt, J. 1919. Anhydrophryne rattrayi, a re-
+   markable new frog from Cape Colony. Record
+     of the Albany Museum. Grahamstown 3: 182–
+   189.
+Heyer, W.R. 1970. Studies on the frogs of the ge-
+   nus Leptodactylus (Amphibia: Leptodactyli-
+   dae). VI. Biosystematics of the melanonotus
+     group. Natural History Museum of Los Angeles
+   County Contributions in Science 191: 1–48.
+Heyer, W.R. 1975. A preliminary analysis of the
+   intergeneric relationships of the frog family
+   Leptodactylidae. Smithsonian Contributions in
+     Zoology 199: 1–55.
+.
+Heyer, W.R. 1998. The relationships of Leptodac-
+   tylus diedrus (Anura, Leptodactylidae). Alytes
+     16: 1–24.
+Heyer, W.R. 1999. A new genus and species of
+   frog from Bahia, Brazil (Amphibia: Anura:
+   Leptodactylidae) with comments on the zoo-
+   geography of the Brazilian campos rupestres.
+     Proceedings of the Biological Society of Wash-
+   ington 112: 19–30.
+Heyer, W.R. 2003. Viewpoint: ultraviolet-B and
+   Amphibia. BioScience 53: 540–541.
+Heyer, W.R., and R.I. Crombie. 1979. Natural his-
+   tory notes on Craspedoglossa stejnegeri and
+     Thoropa petropolitana (Amphibia: Salientia,
+   Leptdactylidae). Journal of the Washington
+   Academy of Sciences 69: 17–20.
+Heyer, W.R., and D.S.S. Liem. 1976. Analysis of
+   the intergeneric relationships of the Australian
+   frog family Myobatrachidae. Smithsonian Con-
+   tributions in Zoology 233: 1–29.
+Highton, R. 1997. Geographic protein variation
+   and speciation in the Plethodon dorsalis com-
+   plex. Herpetologica 53: 345–356.
+Highton, R. 1998. Is Ensatina eschscholtzii a ring
+   species? Herpetologica 54: 254–278.
+
+Highton, R. 1999. Geographic protein variation        
+   and speciation in the salamanders of the Pleth-    
+   odon cinereus group with the description of        
+   two new species. Herpetologica 55: 43–90.        
+Highton, R., and R.B. Peabody. 2000. Geographic       
+   protein variation and speciation in salamanders    
+   of the Plethodon jordani and Plethodon gluti-      
+   nosus complexes in the southern Appalachian        
+   Mountains with the description of four new         
+   species. In R.C. Bruce, R.G. Jaeger, and L.D.      
+   Houck (editors), The biology of plethodontid       
+   salamanders: 31–93. New York: Kluwer Aca-        
+   demic/Plenum Publishers.                           
+Hillis, D.M., and S.K. Davis. 1986. Evolution of      
+   ribosomal DNA: ﬁfty million years of recorded    
+   history in the frog genus Rana. Evolution 40:      
+   1275–1288.                                       
+Hillis, D.M., and M.T. Dixon. 1991. Ribosomal         
+   DNA: molecular evolution and phylogenetic in-      
+   ference. Quarterly Review of Biology 66: 411–    
+   453.                                               
+Hillis, D.M., and T.P. Wilcox. 2005. Phylogeny of     
+   the New World true frogs (Rana). Molecular         
+   Phylogenetics and Evolution 34: 299–314.         
+Hiragond, N.C., B.A. Shanbhag, and S.K. Saida-        
+   pur. 2001. Description of the tadpole of a         
+   stream breeding frog, Rana curtipes. Journal of    
+   Herpetology 35 166–168.                          
+Hoffman, A.C. 1932. Researches relating to the        
+   validity of the South African Polypedatidae        
+   (Rhacophoridae) as an autonomous family of         
+   the Anura. South African Journal of Science        
+   29: 562–583.                                     
+Hoffman, A.C. 1935. Die sistematiese posiesie         
+   van Heleophryne. Soo¨logiese Navorsing van        
+   die Nasionale Museum. Bloemfontein 1: 1–2.       
+Hoffmann, C.K. 1878. Die Klassen und Ordnun-          
+   gen des Thier-Reichs wissenschaftlich darges-      
+   telldt in Wort und Bild, vol. 6 (part 2). Klassen  
+   und Ordnungen der Amphibien wissenschaf-           
+   tlich dargestelldt in Wort un Bild. Leipzig and    
+   Heidelberg: C.F. Winter.                           
+Hogg, J. 1838. On the classiﬁcation of the Am-      
+   phibia. Annals of Natural History 1: 152.          
+Hogg, J. 1839a. On the classiﬁcation of the Am-     
+   phibia. Magazine of Natural History, New Se-       
+   ries 3: 265–274.                                 
+Hogg, J. 1839b. On the classiﬁcation of the Am-
+   phibia (continued from page 274). Magazine of
+   Natural History, New Series 3: 367–378.
+Hoogmoed, M.S. 1989a. South American bufon-
+   ids (Amphibia: Anura: Bufonidae), an enigma
+   for taxonomists. Treballs d’Ictiologia i Herpe-
+   tologia 2: 167–180.
+Hoogmoed, M.S. 1989b. On the identity of some
+   toads of the genus Bufo from Ecuador, with ad-
+   ditional remarks on Andinophryne colomai
+   Hoogmoed, 1985 (Amphibia: Anura: Bufoni-
+   dae). Zoologische Verhandelingen. Leiden 250:
+   1–32.
+Hoogmoed, M.S., and J. Lescure. 1984. A new
+     genus and two new species of minute leptodac-
+   tylid frogs from northern South America, with
+   comments upon Phyzelaphryne (Amphibia: An-
+   ura: Leptodactylidae). Zoologische Mededelin-
+   gen. Leiden 58: 85–115.
+Houlahan, J.E., C.S. Findlay, B.R. Schmidt, A.H.
+   Meyer, and S.L. Kuzmin. 2000. Quantitative
+   evidence for global amphibian population de-
+   clines. Nature. London 404: 752–755.
+  Hu, S., E. Zhao, and C.-C. Liu. 1966. A herpe-
+   tological survey of the Tsinling and Ta-Pa Shan
+   region. Acta Zoologica Sinica 18: 57–89. [In
+   Chinese with English abstract.]
+  Hu, S., E. Zhao, and C.-C. Liu. 1973. A survey
+   of amphibians and reptiles in Kweichow prov-
+     ince, including a herpetofaunal analysis. Acta
+   Zoologica Sinica 19: 149–181.
+Hull, D.L. 1988. Science as a process: an evolu-
+   tionary account of the social and conceptual de-
+     velopment of science. Chicago: University of
+   Chicago Press.
+Hutchinson, M.N., and L.R. Maxson. 1987. Phy-
+   logenetic relationships among Australian tree
+   frogs (Anura: Hylidae: Pelodryadinae): an im-
+     munological approach. Australian Journal of
+   Zoology 35: 61–74.
+Huxley, T.H. 1863. Description of Anthracosau-
+   rus russelli, a new labyrinthodont from the
+   Lanarkshire coal ﬁeld. Quarterly Journal of the
+     Geological Society of London 19: 56–68.
+Inger, R.F. 1954. Systematics and zoogeography
+   of Philippine Amphibia. Fieldiana. Zoology 33:
+   183–531.
+Inger, R.F. 1966. The systematics and zoogeog-
+   raphy of the Amphibia of Borneo. Fieldiana.
+     Zoology 52: 1–402.
+Inger, R.F. 1967. The development of a phylogeny
+   of frogs. Evolution 21: 369–384.
+ Inger, R.F. 1972. Bufo of Eurasia. In W.F. Blair
+     (editor), Evolution in the genus Bufo: 102–118.
+   Austin: University of Texas Press.
+Inger, R.F. 1996. Commentary on a proposed clas-
+   siﬁcation of the family Ranidae. Herpetologica
+   52: 241–246.
+Inger, R.F., H.B. Shaffer, M. Koshy, and R. Bakde.
+   1984. A report on a collection of amphibians
+   and reptiles from the Ponmudi, Kerala, South
+   India. Journal of the Bombay Natural History
+     Society 81: 406–427.
+International Commission of Zoological Nomen-
+   clature. 1999. International code of zoological
+     nomenclature, 4th ed. London: International
+   Trust for Zoological Nomenclature.
+  Iordansky, N.N. 1996. Evolution of the muscula-
+   ture of the jaw apparatus in the Amphibia. Ad-
+
+   vances in Amphibian Research in the Former           
+   Soviet Union 1: 3–26.                              
+Iwabe, N., Y. Hara, Y. Kumazawa, K. Shibamoto,          
+   Y. Saito, T. Miyata, and K. Kazutaka. 2005. Sis-     
+   ter-group relationship of turtles to the bird-croc-  
+   odilian clade revealed by nuclear DNA-coded          
+   proteins. Molecular Biology and Evolution 22:        
+   810–813.                                           
+Izecksohn, E. 1971. Noˆvo geˆnero e nova espe´cie    
+   de Brachycephalidae do Estado do Rio de Ja-          
+   neiro, Brasil (Amphibia, Anura). Boletim do          
+   Museu Nacional, Rio de Janeiro. Nova Se´rie,        
+   Zoologia 280: 1–12.                                
+Izecksohn, E. 1988. Algumas considerac¸o˜es soˆbre   
+   o geˆnero Euparkerella, coma descric¸a˜o de treˆs
+   novas espe´cies (Amphibia, Anura, Leptodactyl-      
+   idae). Revista Brasileira de Biologia 48: 59–74.   
+Izecksohn, E., J.J. Jim, S.T. de Albuquerque, and       
+   W.F. de Mendonc¸a. 1971. Observac¸o˜es soˆbre o  
+   desenvolvimento e os ha´bitos de Myersiella         
+   subnigra (Miranda-Ribeiro). Arquivos do Mu-          
+   seu Nacional. Rio de Janeiro 43: 69–73.            
+Jackman, T.R., G. Applebaum, and D.B. Wake.             
+   1997. Phylogenetic relationships of bolitoglos-      
+   sine salamanders: a demonstration of the effects     
+   of combining morphological and molecular             
+   data sets. Molecular Biology and Evolution 14:       
+   883–891.                                           
+Janies, D., and W.C. Wheeler. 2001. Efﬁciency of      
+   parallel direct optimization. Cladistics 17: S71–  
+   S82.                                                 
+Janke, A., D. Erpenbeck, M. Nilsson, and U. Ar-         
+   nason. 2001. The mitochondrial genomes of the        
+   iguana (Iguana iguana) and the caiman (Cai-          
+   man crocodylus): implications for amniote phy-       
+   logeny. Proceedings of the Royal Society of          
+   London. Series B, Biological Sciences 268:           
+   623–631.                                           
+Jenkins, F.A., and D.M. Walsh. 1993. An early           
+   Jurassic caecilian with limbs. Nature. London        
+   365: 246–250.                                      
+Jiang, J., A. Dubois, A. Ohler, A. Tillier, X. Chen,    
+   F. Xie, and M. Sto¨ck. 2005. Phylogenetic rela-     
+   tionships of the tribe Paini (Amphibia, Anura,       
+   Ranidae) based on partial sequences of mito-         
+   chondrial 12S and 16S rRNA genes. Zoological         
+   Science. Tokyo 22: 353–362.                        
+Jiang, J., L. Fei, C. Ye, X. Zeng, M. Zhen, F. Xie,     
+   and Y. Chen. 1997. Studies on the taxonomics         
+   of species of Pseudorana and discussions of the      
+   phylogenetical relationships with its relative       
+   genera. Cultum Herpetologica Sinica 6–7: 67–     
+   74.                                                  
+Jiang, J., and K. Zhou. 2001. Evolutionary rela-        
+   tionships among Chinese ranid frogs inferred         
+   from mitochondrial DNA sequences of 12S              
+   rRNA gene. Acta Zoologica Sinica 47: 38–44.        
+Jiang, J., and K. Zhou. 2005. Phylogenetic rela-        
+   tionships among Chinese ranids inferred from
+     sequence data set of 12S and 16S rDNA. Her-
+   petological Journal. London 15: 1–8.
+Jime´nez de la Espada, M. 1871 ‘‘1870’’. Fauna
+   neotropicalis species quaedam nondum cogni-
+   tae. Jornal de Scieˆncias, Mathema´ticas, Physi-
+   cas e Naturaes. Lisbo˜a 3: 57–65.
+  Jockusch, E.L., and D.B. Wake. 2002. Falling
+      apart and merging: diversiﬁcation of slender
+   salamanders (Plethodontidae: Batrachoseps) in
+   the American West. Biological Journal of the
+    Linnean Society 76: 361–391.
+  Jockusch, E.L., K.P. Yanev, and D.B. Wake. 2001.
+      Molecular phylogenetic analysis of slender sal-
+       amanders, genus Batrachoseps (Amphibia:
+    Plethodontidae), from central coastal California
+     with descriptions of four new species. Herpe-
+   tological Monographs 15: 54–99.
+    Jungfer, K.-H., H. Birkhahn, V. Ku¨lpmann, and K.
+    Wassmann. 1996. Haltung und Fortpﬂanzung
+   von Dendrobates fulguritus Silverstone, 1975,
+     mit Anmerkungen zur Gattung Minyobates My-
+   ers, 1987. Herpetofauna. Weinstadt 15: 19–27.
+Jungfer, K.-H., S. Lo¨tters, and D. Jo¨rgens. 2000.
+   Der kleinste Pfeilgiftfrosche—eine neue Den-
+   drobates-Art aus West-Panama. Herpetofauna.
+   Weinstadt 22: 11–18.
+  Jurgens, J.D. 1971. The morphology of the nasal
+     region of the Amphibia and its bearing on the
+     phylogeny of the group. Annals of the Univer-
+   sity of Stellenbosch 46: 1–146.
+Kaiser, H., L.A. Coloma, and H.M. Gray. 1994.
+   A new species of Colostethus (Anura: Dendro-
+   batidae) from Martinique, French Antilles. Her-
+   petologica 50: 23–32.
+Kaplan, M. 1994. Analysis of some long-standing
+   controversies concerning the pectoral girdle of
+     Atelopus (Bufonidae) using ontogenetic studies.
+   Journal of Herpetology 28: 128–131.
+Kaplan, M. 1995. On the presence of overlap dur-
+     ing the development of the pectoral girdle of
+   Colostethus subpunctatus (Amphibia: Anura)
+    and its relevance in the classiﬁcation of Den-
+   drobatidae. Journal of Herpetology 29: 300–
+   304.
+Kaplan, M. 1997. A new species of Colostethus
+     from the Sierra Nevada de Santa Marta (Co-
+   lombia) with comments on intergeneric rela-
+   tionships within the Dendrobatidae. Journal of
+   Herpetology 31: 369–375.
+Kaplan, M. 2000. The pectoral girdles of Rana
+       rugulosa (Ranidae) and Nesomantis thomasseti
+   (Sooglossidae). Herpetologica 56: 188–195.
+Kaplan, M. 2001. On the relevance of the char-
+   acter ‘‘absence of epicoracoid horns’’ in the
+   systematics of anurans. Alytes 19: 196–204.
+  Kaplan, M. 2002. Histology of the anteroventral
+   part of the breast-shoulder apparatus of Bra-
+
+   chycephalus ephippium (Brachycephalidae)            
+   with comments on the validity of the genus          
+   Psyllophryne (Brachycephalidae). Amphibia-          
+   Reptilia 23: 225–227.                             
+Kaplan, M. 2004. Evaluation and redeﬁnition of       
+   the states of anuran pectoral girdle architecture.  
+   Herpetologica 60: 84–97.                          
+Keller, R.A., R.N. Boyd, and Q.D. Wheeler. 2003.
+   The illogical basis of Phylogenetic Nomencla-       
+   ture. Botanical Review 69: 93–110.                
+King, M., M.J. Tyler, M.M. Davies, and D. King.        
+   1979. Karyotypic studies on Cyclorana and as-
+   sociated genera of Australian frogs. Australian     
+   Journal of Zoology 27: 699–708.                   
+Kirsch, J.A., A.W. Dickerman, O.A. Reig, and           
+   M.S. Springer. 1991. DNA hybridization evi-         
+   dence for the Australasian afﬁnity of the Amer-
+   ican marsupial Dromiciops australis. Proceed-       
+   ings of the National Academy of Sciences of         
+   the United States of America 88: 10465–10469.     
+Kirtisinghe, P. 1958. Some hitherto undescribed        
+   anuran tadpoles. Ceylon Journal of Science 1:       
+   171–176.                                          
+Kiyasetuo and M.K. Khare. 1986. A new genus
+   of frog (Anura: Ranidae) from Nagaland at the       
+   northeastern hills of India. Asian Journal of Ex-   
+   ploration and Science 1: 12.                        
+Kjer, K.M. 1995. Use of rRNA secondary struc-          
+   ture in phylogenetic studies to identify homol-     
+   ogous positions: an example of alignment and
+   data presentation from frogs. Molecular Phy-        
+   logenetics and Evolution 4: 314–330.              
+Klein, S.L., R.L. Strausberg, L. Wagner, J. Pon-
+   tius, S.W. Clifton, and P. Richardson. 2002. Ge-    
+   netic and genomic tools for Xenopus research:       
+   the NIH Xenopus initiative. Developmental Dy-       
+   namics 225: 384–391.
+Klemens, M.W. 1998. The male nuptial charac-           
+   teristics of Arthroleptides martiensseni Nieden,    
+   an endemic torrent frog from Tanzania’s East-     
+   ern Arc Mountains. Herpetological Journal.
+   London 8: 35–40.                                  
+Kluge, A.G. 1966. A new pelobatine frog from           
+   the lower Miocene of South Dakota with a dis-       
+   cussion of the evolution of the Scaphiopus-         
+   Spea complex. Natural History Museum of Los
+   Angeles County Contributions in Science 113:        
+   1–26.                                             
+Kluge, A.G. 2005. Taxonomy in theory and prac-         
+   tice, with arguments for a new phylogenetic         
+   system of taxonomy. In M.A. Donnelly, B.I.          
+   Crother, C. Guyer, M.H. Wake, and M.E. White
+   (editors), Ecology and evolution in the tropics:    
+   a herpetological perspective: 7–47. Chicago:      
+   University of Chicago Press.                        
+Kluge, A.G., and J.S. Farris. 1969. Quantitative       
+   phyletics and the evolution of anurans. System-     
+   atic Zoology 18: 1–32.                            
+Knauer, F.K. 1883. Naturgeschichte der Lurche.
+   (Amphibiologie.) Eine umfassendere Darle-
+   gung unserer Kenntnisse von dem anatomisch-
+     en Bau, der Entwicklung und systematischen
+     Eintheilung der Amphibien, & c. Zweite Aus-
+   gabe. Wien and Leipzig: A. Pilchler’s Witwe &
+     Sohn.
+Ko¨hler, J. 2000. New species of Eleutherodactylus
+     (Anura: Leptodactylidae) from cloud forest of
+   Bolivia. Copeia 2000: 516–520.
+Kojima, J.-I. 2003. Apomorphy-based deﬁnition
+     also pinpoints a node, and PhyloCode names
+   prevent effective communication. Botanical
+   Review 69: 44–58.
+Kokubum, M.N., de Carvalho, and A.A. Giaretta.
+   2005. Reproductive ecology and behaviour of
+     a species of Adenomera (Anura, Leptodactyli-
+   nae) with endotrophic tadpoles: systematic im-
+   plications. Journal of Natural History. London
+     39: 1745–1758.
+Kosuch, J., M. Vences, A. Dubois, A. Ohler, and
+   W. Bo¨hme. 2001. Out of Asia: mitochondrial
+   DNA evidence for an oriental origin of tiger
+   frogs, genus Hoplobatrachus. Molecular Phy-
+   logenetics and Evolution 21: 398–407.
+Kress, W.J., and P. DePriest. 2001. What’s in a
+     Phylocode name? Science 292: 6.
+Kuramoto, M. 1985. A new frog (genus Rana)
+   from the Yaeyama Group of the Ryukyu Is-
+   lands. Herpetologica 41: 150–158.
+Kuramoto, M. 1990. A list of chromosome num-
+   bers of anuran amphibians. Bulletin of Fukuoka
+     University of Education 39: 83–127.
+  Kuramoto, M., and C.-S. Wang. 1987. A new rha-
+   cophorid treefrog from Taiwan, with compari-
+   sons to Chirixalus eifﬁngeri (Anura, Rhaco-
+   phoridae). Copeia 1987: 931–942.
+Kuramoto, M., C.-S. Wang, and H.-T. Yu. 1984.
+     Breeding, larval morphology and experimental
+   hybridization of Taiwanese brown frogs, Rana
+   longicrus and R. sauteri. Journal of Herpetol-
+   ogy 18: 387–395.
+Kwon, A.S., and Y.H. Lee. 1995. Comparative
+     spermatology of anurans with special referenc-
+   es to phylogeny. In B.G.M. Jamieson, J. Ausio,
+   and J.-L. Justine (editors), Advances in sper-
+   matozoal phylogeny and taxonomy. Me´moires
+     du Muse´um National d’Histoire Naturelle. Par-
+   is. Se´rie A, Zoologie 166: 321–332.
+La Marca, E., M. Vences, and S. Lo¨tters. 2002.
+   Rediscovery and mitochondrial relationships of
+   the dendrobatid frog Colostethus humilis sug-
+   gest parallel colonization of the Venezuelan
+   Andes by poison frogs. Studies on Neotropical
+   Fauna and Environment 37: 233–240.
+Lamotte, M. 1961. Contribution a` l’e´tude des ba-
+   traciens de l’ouest africain XII. Les formes lar-
+   vaires de Cardioglossa leucomystax Blgr. Bul-
+
+   letin de l’Institut Fondamental d’Afrique Noire 
+   23: 211–216.                                      
+Lamotte, M., and J. Lescure. 1989. Les teˆtards       
+   rhe´ophiles et hygrope´triques de l’Ancien et du
+   Noveau Monde. Annales des Sciences Naturel-         
+   les. Zoologie. Paris. Serie 13, 10: 111–122.      
+Lamotte, M., J.-L. Perret, and S. Dzieduszycka.        
+   1959. Contribution a` l’e´tude des batraciens de 
+   l’ouest africain. IX. Les formes larvaires de Pe- 
+   tropedetes palmipes, Conraua goliath et Acan-       
+   thixalus spinosus. Bulletin de l’Institut Fran-   
+   c¸aise d’Afrique Noire. Se´rie A, Sciences Na-  
+   turelles 21: 762–776.                             
+Lamotte, M., and F. Xavier. 1972. Les amphibiens       
+   anoures a developpement direct d’Afrique. Ob-     
+   servations sur la biologie de Nectophrynoides       
+   tornieri (Roux). Bulletin de la Socie´te´ Zoolo-  
+   gique de France 97: 413–428.                      
+Lamotte, M., and M. Zuber-Vogeli. 1954. Contri-        
+   bution a` l’e´tude des batraciens de l’ouest af
+   cain. III. Les formes larvaires de Astylosternus    
+   diadematus et Petropedetes natator. Bulletin de     
+   l’Institut Franc¸aise d’Afrique Noire. Se´rie 
+   Sciences Naturelles 16: 1222–1233.                
+Langone, J.A. 1994. Ranas y sapos del Uruguay          
+   (reconocimientos y aspectos biolo´gicos). Mu-      
+   seo Damaso Antonio Larran˜aga, Serie de Di-        
+   vulgacio´n 5: 1–123.                             
+Largen, M.J. 1991. A new genus and species of          
+   petropedetine frog (Amphibia, Anura, Ranidae)       
+   from high altitude in the mountains of Ethiopia.    
+   Tropical Zoology. Firenze 4: 139–152.             
+Largen, M.J., and R.C. Drewes. 1989. A new ge-         
+   nus and species of brevicipitine frog (Amphib-      
+   ia, Anura, Microhylidae) from high altitude in      
+   the mountains of Ethiopia. Tropical Zoology.        
+   Firenze 2: 13–30.                                 
+Larson, A. 1991. A molecular perspective on the        
+   evolutionary relationship of the salamander         
+   families. In M.K. Hecht, B. Wallace, and R.J.       
+   MacIntyre (editors), Evolutionary biology, vol.     
+   25: 211–277. New York: Plenum Publishing          
+   Corporation.                                        
+Larson, A., and W. Dimmick. 1993. Phylogenetic         
+   relationships of the salamander families: an        
+   analysis of congruence among morphological          
+   and molecular characters. Herpetological            
+   Monographs 7: 77–93.                              
+Larson, A., D.B. Wake, L.R. Maxson, and R.             
+   Highton. 1981. A molecular phylogenetic per-        
+   spective on the origins of morphological nov-       
+   elties in the salamanders of the tribe Pletho-      
+   dontini (Amphibia, Plethodontidae). Evolution       
+   35: 405–422.                                      
+Larson, A., D.W. Weisrock, and K.H. Kozak.             
+   2003. Phylogenetic systematics of salamanders       
+   (Amphibia: Urodela), a review. In D.M. Sever        
+   (editor), Reproductive biology and phylogeny        
+       of Urodela (Amphibia): 31–108. Enﬁeld, NH:
+     Science Publishers.
+ Lataste, F. 1879. E´ tude sur le Discoglossus pictus
+       Otth. Actes de la Socie´te´ Linne´enne de Bor-
+   deaux, Se´rie 4, 3: 275–342.
+  Lathrop, A. 1997. Taxonomic review of the me-
+   gophryid frogs (Anura: Pelobatoidea). Asiatic
+      Herpetological Research 7: 68–79.
+  Lathrop, A. 2003. Asian toadfrogs (Megophryi-
+   dae). In W.E. Duellman (editor), Grzimek’s an-
+     imal life encyclopedia, 2nd ed. Vol. 6. Am-
+       phibians: 109–117. Detroit: Gale Group.
+  Latreille, P.A. 1800. Histoire naturelle des sala-
+   mandres de France, pre´ce´de´e d’un tableau
+     me´thodique des autres reptiles indige`nes. Paris:
+   Imprimerie de Crapelet.
+  Latreille, P.A. 1825. Familles naturelles du re`gne
+     animal, expose´es succinctement et dans un or-
+   dre analytique, avec l’indication de leurs
+ri-     genres. Paris: J.B. Baillie`re.
+Laurent, R.F. 1941 ‘‘1940’’. Contribution a`
+   l’oste´ologie et a` la syste´matique des ranides af-
+A,       ricains. Premie`re note. Revue de Zoologie et de
+     Botanique Africaines 34: 74–96.
+Laurent, R.F. 1941. Contribution a` l’oste´ologie et
+    a` la systematique des ranides africains. Deux-
+    ie`me note. Revue de Zoologie et de Botanique
+      Africaines 34: 192–234.
+Laurent, R.F. 1942. Note sur les procoeliens ﬁr-
+   misternes (Batrachia Anura). Bulletin du Muse´e
+   Royal d’Histoire Naturelle de Belgique 18: 1–
+     20.
+Laurent, R.F. 1943. Contribution a l’osteologie et
+   a la systematique des rhacophorides non afri-
+   caines. Bulletin du Muse´e Royal d’Histoire Na-
+   turelle de Belgique 19: 1–16.
+  Laurent, R.F. 1946. Mises au point dans la tax-
+   onomie des ranides. Revue de Zoologie et de
+   Botanique Africaines 39: 336–338.
+Laurent, R.F. 1951. Sur la necessite´ de supprimer
+   la famille des Rhacophoridae mais de cre´er cel-
+     le des Hyperoliidae. Revue de Zoologie et de
+   Botanique Africaines 45: 116–122.
+Laurent, R.F. 1954. Remarques sur le genre
+   Schoutedenella. Annales du Muse´e Royal du
+   Congo Belge. Nouvelle Se´rie in Quarto. Sci-
+   ences Zoologiques. Tervuren 1: 34–40.
+  Laurent, R.F. 1961. Notes on some South African
+   amphibians. Publications de l’Universite´ de
+   l’E´ tat a` Elisabethville. Lubumbashi 1: 197–209.
+Laurent, R.F. 1972. The morphology, systematics,
+   and evolution of the Old World treefrogs (Rha-
+   cophoridae and Hyperoliidae) [Review]. Cop-
+     eia 1972: 198–201.
+Laurent, R.F. 1973. The natural classiﬁcation of
+   the Arthroleptinae (Amphibia, Hyperoliidae).
+   Revue de Zoologie et de Botanique Africaines
+   87: 666–678.
+
+Laurent, R.F. 1975. Bioge´ographie et liaisons in-    
+   tercontinentales au course du Me´sozo¨ıque. Me´-
+   moires du Muse´um National d’Histoire Natu-      
+   relle. Paris. Se´rie A, Zoologie 88: 176–191.    
+Laurent, R.F. 1978. L’appareil hyoidien des As-      
+   tylosterninae et des Arthroleptinae (Amphibia).     
+   Revue Zoologique Africaine 92: 233–240.           
+Laurent, R.F. 1980 ‘‘1979’’. Esquisse d’une p
+   logene`se des anoures. Bulletin de la Socie´te´   
+   Zoologique de France 104: 397–422.                
+Laurent, R.F. 1983. Heterogeneidad del genero          
+   Batrachophrynus Peters (Leptodactylidae).           
+   Acta Zoologica Lilloana 37: 107–113.              
+Laurent, R.F. 1984a. Heterogeneidad de la familia      
+   Caeciliidae (Amphibia-Apoda). Acta Zoologica        
+   Lilloana 37: 199–200.
+Laurent, R.F. 1984b. La phylogenese des Rano-          
+   idea et le cladisme. Alytes 3: 97–111.            
+Laurent, R.F. 1986. Sous classe des lissamphi-
+   biens (Lissamphibia). In P. Grasse´ and M. Del-    
+   sol (editors), Traite´ de zoologie. Anatomie, sys- 
+   tematique, biologie, vol. 14. Batraciens, fasc. 1-
+   B: 594–797. Paris: Masson.                        
+Laurent, R.F. 1986 ‘‘1985’’. Sur la classiﬁca
+   et la nomenclature des amphibiens. Alytes 4:
+   119–120.                                          
+Laurent, R.F., and M. Fabrezi. 1986 ‘‘1985’’. L
+   carpe des Arthroleptinae. Alytes 4: 85–93.
+Laurenti, J.N. 1768. Specimen medicum, exhibens        
+   synopsin reptilium emendatum cum experimen-         
+   tis circa venena et antidota Reptilium Austria-     
+   corum. Wien.
+Laurin, M. 1998a. The importance of global par-        
+   simony and historical bias in understanding tet-    
+   rapod evolution. Part I. Systematics, middle ear    
+   evolution and jaw suspension. Annales des Sci-
+   ences Naturelles. Zoologie et Biologie Anima-       
+   le. Paris. Serie 13, 1998: 1–42.                  
+Laurin, M. 1998b. The importance of global par-        
+   simony and historical bias in understanding tet-
+   rapod evolution. Part II. Vertebral centrum, cos-   
+   tal ventilation, and paedomorphosis. Annales        
+   des Sciences Naturelles. Zoologie et Biologie       
+   Animale. Paris. Serie 13, 1998: 99–114.           
+Laurin, M. 1998c. A reevaluation of the origin of      
+   pentadactyly. Evolution 52: 1476–1482.            
+Laurin, M. 2002. Tetrapod phylogeny, amphibian
+   origins, and the deﬁnition of the name Tetra-     
+   poda. Systematic Biology 51: 364–369.             
+Laurin, M., and R.R. Reisz. 1997. A new per-
+   spective on tetrapod phylogeny. In S.S. Sumida      
+   and K.L.M. Martin (editors), Amniote origins:       
+   completing the transition to land: 9–59. San Di-  
+   ego: Academic Press.                                
+Laurin, M., R.R. Reisz, and M. Girondot. 2000.         
+   Caecilian viviparity and amniote origins: a re-     
+   ply to Wilkinson and Nussbaum. Journal of           
+   Natural History. London 34: 311–315.
+ Lavilla, E.O., and J.M. Cei. 2001. Amphibians of
+       Argentina. A second update, 1987–2000. Mu-
+      seo Regionale di Scienze Naturali Monograﬁe.
+      Torino 28: 1–177.
+  Lawson, D.P. 1993. The reptiles and amphibians
+   of Korup National Park Project, Cameroon.
+     Herpetological Natural History 1: 27–90.
+hy-       Lebedkina, N.S. 2004. Evolution of the amphibian
+     skull. Advances in Amphibian Research in the
+     Former Soviet Union 9: 1–265.
+Lescure, J., V. Marty, C. Marty, F. Starace, M.A.
+   Thomay, and F. Letellier. 1995. Contribution a`
+     l’e´tude des amphibiens de Guyane franc¸aise. X.
+   Les Phyllomedusa (Anura, Hylidae). Revue
+   Franc¸aise d’Aquariologie, Herpe´tologie 22 35–
+   50.
+Lescure, J., S. Renous, and J.-P. Gasc. 1986. Prop-
+   osition d’une nouvelle classiﬁcation des am-
+     phibiens gymnophiones. Me´moires de la Socie´-
+   te´ Zoologique de France 43: 145–177.
+ Leuckart, F.S. 1821. Einiges u¨ber die ﬁschartigen
+    Amphibien. Isis von Oken 9: 257–265.
+  Li, W.-H., and Z.-Y. Wang. 1985. Karyotype of
+   Rana livida. Acta Herpetologica Sinica 4: 56.
+tion         [In Chinese with English abstract.]
+  Licht, L.E. 2003. Shedding light on ultraviolet ra-
+   diation and amphibian embryos. BioScience
+e          53: 551–561.
+Liem, D.S.S. 1970. The morphology, systematics,
+   and evolution of the Old World treefrogs (Rha-
+   cophoridae and Hyperoliidae). Fieldiana. Zo-
+   ology 57: i–vii, 1–145.
+Linnaeus, C. 1758. Systema naturae per regna tria
+   naturae, secundum classes, ordines, genera,
+   species, cum characteribus, differentiis, synon-
+   ymis, locis, 10th ed. Stockholm.
+Lips, K.R., P.A. Burrowes, J.R. Mendelson III,
+     and G. Parra-Olea. 2005. Amphibian declines
+   in Latin America: a synthesis. Biotropica 37:
+   222–228.
+Littlejohn, M.J. 1963. The breeding biology of the
+   Baw Baw frog Philoria frosti Spencer. Pro-
+   ceedings of the Linnaean Society of New South
+     Wales 88: 273–276.
+Liu, C.-C. 1950. Amphibians of western China.
+     Fieldiana. Zoology Memoires 2: 1–397 ϩ 10
+   pl.
+  Liu, C.-C., and S. Hu. 1961. [Tailless amphibians
+     of China.] Shanghai: Science Press. [In Chi-
+   nese.]
+Liu, C.-C., and S. Hu. 1962. A herpetological re-
+   port of Kwangsi. Acta Zoologica Sinica 14: 73–
+     104. [In Chinese with English abstract and
+   translations of descriptions.]
+Liu, W., A. Lathrop, J. Fu, D. Yang, and R.W.
+   Murphy. 2000. Phylogeny of East Asian bufon-
+   ids inferred from mitochondrial DNA sequenc-
+
+   es (Anura: Amphibia). Molecular Phylogenetics       
+   and Evolution 14: 423–435.                        
+Loader, S.P., D.J. Gower, K.M. Howell, N. Dog-         
+   gart, M.-O. Ro¨del, R.O. de Sa´, B.L. Cohen, and  
+   M. Wilkinson. 2004. Phylogenetic relationships      
+   of African microhylid frogs inferred from DNA       
+   sequences of mitochondrial 12S and 16S rRNA         
+   genes. Organisms, Diversity & Evolution 4:          
+   227–235.                                          
+Lombard, R.E., and S.S. Sumida. 1992. Recent           
+   progress in understanding early tetrapods.          
+   American Zoologist 32: 609–622.                   
+Lombard, R.E., and D.B. Wake. 1986. Tongue             
+   evolution in the lungless salamanders, family       
+   Plethodontidae IV. Phylogeny of plethodontid        
+   salamanders and the evolution of feeding dy-        
+   namics. Systematic Biology 35: 532–551.           
+Loveridge, A. 1957. Check list of the reptiles and     
+   amphibians of East Africa (Uganda; Kenya;           
+   Tanganyika; Zanzibar). Bulletin of the Museum       
+   of Comparative Zoology 117: 153–362.              
+Lo¨ytynoja, A., and M.C. Milinkovitch. 2000.          
+   SOAP, cleaning multiple alignments from un-         
+   stable blocks, version 1.0. Bioinformatics 17:      
+   573–574.                                          
+Lo¨ytynoja, A., and M.C. Milinkovitch. 2003. A        
+   hidden Markov model for progressive multiple        
+   alignments. Bioinformatics 19: 1505–1513.         
+Lutz, B. 1954. Anf´ıbios anuros do Distrito Fed-     
+   eral/The frogs of the Federal District of Brazil.   
+   Memo´rias do Instituto Oswaldo Cruz. Rio de        
+   Janeiro 52: 155–197 (Portuguese), 219–238       
+   (English).                                          
+Lutz, B. 1968. Taxonomy of the Neotropical Hy-         
+   lidae. Pearce-Sellards Series. Texas Memorial       
+   Museum 11: 3–26.                                  
+Lutz, B. 1969. Adaptac¸o˜es, especializac¸o˜es e li
+   hagens nos anuros neotropicais. Acta Zoologica      
+   Lilloana 24: 267–292.                             
+Lynch, J.D. 1969. Program. Final Ph.D. exami-          
+   nation. Department of Zoology, University of        
+   Kansas, Lawrence.                                   
+Lynch, J.D. 1971. Evolutionary relationships, os-      
+   teology, and zoogeography of leptodactyloid         
+   frogs. University of Kansas Museum of Natural       
+   History, Miscellaneous Publications 53: 1–238.    
+Lynch, J.D. 1972a. Generic partitioning of the         
+   South American leptodactyloid frog genus Eup-       
+   sophus Fitzinger, 1843 (sensu lato). Bulletin of    
+   the Southern California Academy of Science          
+   71: 2–11.                                         
+Lynch, J.D. 1972b. Two new species of frogs            
+   (Eleutherodactylus: Leptodactylidae) from the       
+   pa´ramos of northern Ecuador. Herpetologica        
+   28: 141–147.                                      
+Lynch, J.D. 1973. The transition from archaic to       
+   advanced frogs. In J.L. Vial (editor), Evolution-   
+   ary biology of the anurans: contemporary re-        
+   search on major problems: 133–182. Columbia:
+     University of Missouri Press.
+Lynch, J.D. 1975. A review of the Andean lep-
+     todactylid frog genus Phrynopus. Occasional
+   Papers of the Museum of Natural History, Uni-
+   versity of Kansas 35: 1–51.
+Lynch, J.D. 1976. The species groups of the South
+   American frogs of the genus Eleutherodactylus
+     (Leptodactylidae). Occasional Papers of the
+   Museum of Natural History, University of Kan-
+   sas 61: 1–24.
+  Lynch, J.D. 1978a. A new eleutherodactyline frog
+   from the Andes of northern Colombia. Copeia
+   1978: 17–21.
+Lynch, J.D. 1978b. A re-assessment of the tel-
+   matobiine leptodactylid frogs of Patago´nia. Oc-
+     casional Papers of the Museum of Natural His-
+   tory, University of Kansas 72: 1–57.
+Lynch, J.D. 1980. A new species of Barycholos
+   from Estado Goia´s, Brasil (Amphibia, Anura,
+     Leptodactylidae) with remarks on related gen-
+    era. Bulletin du Museum National d’Histoire
+   Naturelle. Paris. Section A, Zoologie, Biologie
+   et Ecologie Animales 2: 289–302.
+  Lynch, J.D. 1982a. Two new species of poison-
+    dart frogs (Colostethus) from Colombia. Her-
+   petologica 38: 366–374.
+  Lynch, J.D. 1982b. Relationships of the frogs of
+     the genus Ceratophrys (Leptodactylidae) and
+   their bearing on hypotheses of Pleistocene for-
+    est refugia in South America and punctuated
+       equilibrium. Systematic Zoology 31: 166–179.
+Lynch, J.D. 1986. The deﬁnition of the Middle
+   American clade of Eleutherodactylus based on
+   jaw musculature (Amphibia: Leptodactylidae).
+     Herpetologica 42: 248–258.
+n-  Lynch, J.D. 1989. Intrageneric relationships of
+   mainland Eleutherodactylus (Leptodactylidae).
+     I. A review of the frogs assigned to the Eleuth-
+   erodactylus discoidalis species group. Milwau-
+   kee Public Museum Contributions in Biology
+   and Geology 79: 1–25.
+Lynch, J.D. 1994. A new species of high-altitude
+   frog (Eleutherodactylus: Leptodactylidae) from
+   the Cordillera Oriental of Colombia. Revista de
+     la Academia Colombiana de Ciencias Exactas,
+   F´ısicas y Naturales 19: 195–203.
+Lynch, J.D. 1996. The relationships of the His-
+   paniolan frogs of the subgenus Pelorius
+   (Eleutherodactylus: Leptodactylidae). In R.
+     Powell and R.W. Henderson (editors), Contri-
+   butions to West Indian herpetology: a tribute to
+   Albert Schwartz: 141–155. Contribution to
+    Herpetology, no. 12. Ithaca, NY: Society for the
+     Study of Amphibians and Reptiles.
+Lynch, J.D. 2000. The relationships of an ensem-
+   ble of Guatemalan and Mexican frogs (Eleuth-
+   erodactylus: Leptodactylidae: Amphibia). Re-
+
+   vista de la Academia Colombiana de Ciencias     
+   Exactas, F´ısicas y Naturales 24: 129–156.  
+Lynch, J.D., and W.E. Duellman. 1997. Frogs of     
+   the genus Eleutherodactylus in western Ecua-    
+   dor. Systematics, ecology, and biogeography.    
+   University of Kansas Natural History Museum,    
+   Special Publication 23: 1–236.                
+Lynch, J.D., and H.L. Freeman. 1966. Systematic    
+   status of a South American frog, Allophryne     
+   ruthveni Gaige. University of Kansas Publica-   
+   tions, Museum of Natural History 17: 493–502. 
+Lynch, J.D., and R.W. McDiarmid. 1987. Two         
+   new species of Eleutherodactylus (Amphibia:     
+   Anura: Leptodactylidae) from Bolivia. Proceed-  
+   ings of the Biological Society of Washington    
+   100: 337–346.                                 
+Lynch, J.D., and P.M. Ruiz-Carranza. 1982. A       
+   new genus and species of poison-dart frog       
+   (Amphibia: Dendrobatidae) from the Andes of     
+   northern Colombia. Proceedings of the Biolog-   
+   ical Society of Washington 95: 557–562.       
+Lynch, J.D., and P.M. Ruiz-Carranza. 1997          
+   ‘‘1996’’. A remarkable new centrolenid f
+   from Colombia with a review of nuptial ex-      
+   crescences in the family. Herpetologica 52:     
+   525–535.                                      
+Lynch, J.F., and D.B. Wake. 1978. A new species    
+   of Chiropterotriton (Amphibia: Caudata) from    
+   Baja Verapaz, Guatemala, with comments on       
+   relationships among Central American mem-       
+   bers of the genus. Natural History Museum of    
+   Los Angeles County Contributions in Science     
+   294: 1–22.                                    
+Lynch, J.F., D.B. Wake, and S.-Y. Yang. 1983.      
+   Genic and morphological differentiation in      
+   Mexican Pseudoeurycea (Caudata: Plethodon-      
+   tidae). Copeia 1983: 884–894.                 
+Macey, J.R., J.L. Strasburg, J.A. Brisson, V.T.    
+   Vredenburg, M. Jennings, and A. Larson. 2001.   
+   Molecular phylogenetics of western North        
+   American frogs of the Rana boylii species       
+   group. Molecular Phylogenetics and Evolution    
+   19: 131–143.                                  
+Macey, J.R. 2005. Plethodontid salamander mi-      
+   tochondrial genomics: a parsimony evaluation    
+   of character conﬂict and implications for his-
+   torical biogeography. Cladistics 21: 194–202. 
+Maglia, A.M. 1998. Phylogenetic relationships of   
+   extant pelobatoid frogs (Anura: Pelobatoidea):  
+   evidence from adult morphology. Scientiﬁc Pa- 
+   pers. Natural History Museum, University of     
+   Kansas 10: 1–19.                              
+Maglia, A.M., L.A. Pugener, and L. Trueb. 2001.    
+   Comparative development of anurans: using       
+   phylogeny to understand ontogeny. American      
+   Zoologist 41: 538–551.                        
+Mahoney, M.J. 2001. Molecular systematics of       
+   Plethodon and Aneides (Caudata: Plethodonti-    
+   dae: Plethodontini): phylogenetic analysis of an
+       old and rapid radiation. Molecular Phylogenet-
+   ics and Evolution 18: 174–188.
+Maienschein, J. 1994. Cutting edges cut both
+   ways. Biology and Philosophy 9: 1–24.
+Mannen, H., and S.S.-L. Li. 1999. Molecular ev-
+     idence for a clade of turtles. Molecular Phylo-
+   genetics and Evolution 13: 144–148.
+Manzano, A.S., and E.O. Lavilla. 1995. Myolog-
+   ical peculiarities in Rhinoderma darwini (An-
+     ura: Rhinodermatidae). Journal of Morphology
+   224: 125–129.
+Manzano, A.S., S.A. Moro, and V. Abdala. 2003.
+   The depressor mandibulae muscle in Anura.
+   Alytes 20: 93–131.
+  Marmayou, J., A. Dubois, A. Ohler, E. Pasquet,
+   and A. Tillier. 2000. Phylogenetic relationships
+   in the Ranidae (Amphibia, Anura). Independent
+   origin of direct development in the genera Phi-
+   lautus and Taylorana. Comptes Rendus de
+     l’Academie des Sciences. Series 3, Life Scienc-
+   es Paris 323: 287–297.
+rog     Martin, A.A. 1967. Australian anuran life histo-
+   ries: some evolutionary and ecological aspects.
+   In A.H. Weatherly (editor), Australian inland
+     waters and their fauna: eleven studies: 175–
+   191. Canberra: Australian National University
+   Press.
+Martin, R.F. 1972. Evidence from osteology. In
+   W.F. Blair (editor), Evolution in the genus Bufo:
+   37–70. Austin: University of Texas Press.
+Martin, W.F. 1972. Evolution of vocalization in
+     the genus Bufo. In W.F. Blair (editor), Evolution
+   in the genus Bufo: 279–309. Austin: University
+   of Texas Press.
+Matsui, M. 1994. A taxonomic study of the Rana
+     narina complex, with description of three new
+   species (Amphibia: Ranidae). Zoological Jour-
+   nal of the Linnean Society. London 111: 385–
+   415.
+Matsui, M., and N.L. Orlov. 2004. A new species
+   of Chirixalus from Vietnam (Anura: Rhaco-
+     phoridae). Zoological Science. Tokyo 21: 671–
+   676.
+Matsui, M., H. Ota, M.W.-N. Lau, and A. Boga-
+     dek. 1995. Cytotaxonomic studies of three ra-
+     nid species (Amphibia: Anura) from Hong
+   Kong. Japanese Journal of Herpetology/ Ha-
+   chu-Ryoseiruigaku Zasshi 16: 12–17.
+  Matsui, M., T. Shimada, H. Ota, and T. Tanaka-
+   Ueno. 2005. Multiple invasions of the Ryukyu
+     Archipelago by Oriental frogs of the subgenus
+   Odorrana with phylogenetic reassessment of
+   the related subgenera of the genus Rana. Mo-
+   lecular Phylogenetics and Evolution 37: 733–
+     742. [Seen as an electronic/pdf preprint avail-
+   able from the publisher.]
+Maxson, L.R., R. Highton, and D.B. Wake. 1979.
+
+   Albumin evolution and its phylogenetic impli-     
+   cations in the plethodontid salamander genera     
+   Plethodon and Ensatina. Copeia 1979: 502–       
+   508.                                              
+Maxson, L.R., D.P. Ondrula, and M.J. Tyler. 1985.    
+   An immunological perspective on evolutionary      
+   relationships in Australian frogs of the hylid    
+   genus Cyclorana. Australian Journal of Zoolo-     
+   gy 33: 17–22.                                   
+Maxson, L.R., and D.B. Wake. 1981. Albumin           
+   evolution and its phylogenetic implications in    
+   the plethodontid salamander genera Pseudoeu-      
+   rycea and Chiropterotriton. Herpetologica 37:     
+   109–117.                                        
+Mayer, A.F.J.K. 1849. System des Thier-Reiches       
+   oder Eintheilung der Thiere nach einem Prin-      
+   cip, entworfen. Verhandlungen des Naturhisto-     
+   rischen Vereines der Preussischen Rheinlande      
+   6: 177–210.                                     
+McDiarmid, R.W., and R.I. Altig. 1999. Research      
+   materials and techniques. In R.W. McDiarmid       
+   and R. Altig (editors), Tadpoles: the biology of  
+   anuran larvae: 7–23. Chicago: University of     
+   Chicago Press.                                    
+McDiarmid, R.W., and S.J. Gorzula. 1989. As-         
+   pects of the reproductive ecology and behavior    
+   of the tepui toads, genus Oreophrynella (Anura,   
+   Bufonidae). Copeia 1989: 445–451.               
+McGowan, G.J., and S.E. Evans. 1995. Albaner-        
+   petontid amphibians from the Cretaceous of        
+   Spain. Nature. London 373: 143–145.             
+Meegaskumbura, M., F. Bossuyt, R. Pethiyagoda,       
+   K. Manamendra-Arachchi, M. Bahir, M.C. Mil-       
+   inkovitch, and C.J. Schneider. 2002. Sri Lanka:   
+   an amphibian hot spot. Science 298: 379.          
+Meinhardt, D.J., and J.R. Parmalee. 1996. A new      
+   species of Colostethus (Anura: Dendrobatidae)     
+   from Venezuela. Herpetologica 52: 70–77.        
+Mendelson, J.R., III, H.R. da Silva, and A.M.        
+   Maglia. 2000. Phylogenetic relationships          
+   among marsupial frog genera (Anura: Hylidae:      
+   Hemiphractinae) based on evidence from mor-       
+   phology and natural history. Zoological Journal   
+   of the Linnean Society. London 128: 125–148.    
+Merrem, B. 1820. Versuch eines Systems der Am-       
+   phibien/ Tentamen systematis amphibiorum.         
+   Marburg: Johann Christian Krieger.                
+Milner, A.R. 1988. The relationships and origin      
+   of the living amphibians. In M.J. Benton (edi-    
+   tor), The phylogeny and classiﬁcation of the    
+   tetrapods, vol. 1. Amphibians, reptiles, birds:   
+   59–102. Systematics Association Special Vol-    
+   ume 23. New York: Academic Press.                 
+Milner, A.R. 1993. The Paleozoic relatives of lis-   
+   samphibians. Herpetological Monographs 7: 8–    
+   27.                                               
+Milner, A.R. 1994. Late Triassic and Jurassic am-    
+   phibians: fossil record and phylogeny. In N.C.    
+   Fraser and H.-D. Sues (editors), In the shadow
+   of the dinosaurs: 5–23. New York: Cambridge
+     University Press.
+Milner, A.R. 2000. Mesozoic and Tertiary Cau-
+   data and Albanerpetontidae. In H. Heatwole
+   and R.L. Carroll (editors), Amphibian biology,
+   vol. 4. Paleontology, the evolutionary history
+   of amphibians: 1412–1444. Chipping Norton,
+     Australia: Surrey Beatty.
+Min, M.-S., S.-Y. Yang, R.M. Bonett, D.R. Viei-
+   tes, R.A. Brandon, and D.B. Wake. 2005. Dis-
+   covery of the ﬁrst Asian plethodontid salaman-
+   der. Nature. London 435: 87–90.
+  Miranda-Ribeiro, A., de. 1923. Os hylodideos do
+   Museu Paulista. Revista do Museu Paulista.
+   Sa˜o Paulo 13: 825–846 (reprint pages 3–24).
+Miranda-Ribeiro, A., de. 1926. Notas para servi-
+   rem ao estudo dos Gymnobatrachios (Anura)
+     brasileiros. Arquivos do Museu Nacional do
+   Rio de Janeiro 27: 1–227.
+Mivart, S.G. 1869. On the classiﬁcation of the
+   anurous batrachians. Proceedings of the Zoo-
+     logical Society of London 1869: 280–295.
+Mookerjee, H.K. 1931. On the development of the
+   vertebral column of Anura. Philosophical
+   Transactions of the Royal Society of London
+   219: 165–196.
+  Morrison, D.A., and J.T. Ellis. 1997. Effects of
+   nucleotide sequence alignment on phylogeny
+   estimation: a case study of 18S rDNAs of Ap-
+     icomplexa. Molecular Biology and Evolution
+   14: 428–441.
+Mueller, R.L., J.R. Macey, M. Jaekel, D.B. Wake,
+   and J.L. Boore. 2004. Morphological homopla-
+   sy, life history evolution, and historical bioge-
+   ography of plethodontid salamanders inferred
+   from complete mitochondrial genomes. Pro-
+     ceedings of the National Academy of Sciences
+   of the United States of America 101: 13820–
+   13825.
+Mu¨ller, H., G.J. Measey, and P.K. Malonza. 2005.
+   Tadpole of Bufo taitanus (Anura: Bufonidae)
+   with notes on its systematic signiﬁcance and
+     life history. Journal of Herpetology 39: 138–
+   141.
+Mu¨ller, J. 1831. An einer jungen Coecilia hypo-
+   cyanea im Museum der Naturgeschichte. Isis
+   von Oken 1831: 710–711.
+Mu¨ller, J. 1832. Beitra¨ge zur Anatomie und Na-
+     turgeschichte der Amphibien. I. Ueber die na-
+   tu¨rliche Eintheilung der Amphibien. Zeitschrift
+     fu¨r Physiologie 4: 190–275, pl. 18–22.
+Mu¨ller, K. 2004. PRAP—computation of Bremer
+   support for large data sets. Molecular Phylo-
+     genetics and Evolution 31: 780–782.
+Myers, C.W. 1982. Spotted poison frogs: descrip-
+   tions of three new Dendrobates from western
+   Amazonia, and resurrection of a lost species
+
+   from ‘‘Chiriqui’’. American Museum Novitat
+   2721: 1–23.                                     
+Myers, C.W. 1987. New generic names for some         
+   Neotropical poison frogs (Dendrobatidae). Pa-
+   pe´is Avulsos de Zoologia. Sa˜o Paulo 36: 301–
+   306.                                              
+Myers, C.W., and P.A. Burrowes. 1987. A new          
+   poison frog (Dendrobates) from Andean Co-         
+   lombia, with notes on a lowland relative. Amer-
+   ican Museum Novitates 2899: 1–17.               
+Myers, C.W., J.W. Daly, and B. Malkin. 1978. A       
+   dangerously toxic new frog (Phyllobates) used     
+   by Embera´ indians of western Colombia, with     
+   discussion of blowgun fabrication and dart poi-   
+   soning. Bulletin of the American Museum of
+   Natural History 161: 307–366.                   
+Myers, C.W., and L.S. Ford. 1986. On Atopo-          
+   phrynus, a recently described frog wrongly as-
+   signed to the Dendrobatidae. American Muse-       
+   um Novitates 2843: 1–15.                        
+Myers, C.W., A. Paolillo O., and J.W. Daly. 1991.    
+   Discovery of a defensively malodorous and
+   nocturnal frog in the family Dendrobatidae:       
+   phylogenetic signiﬁcance of a new genus and     
+   species from the Venezuelan Andes. American       
+   Museum Novitates 3002: 1–33.                    
+Nascimento, L.B., U. Caramaschi, and C.A.G.          
+   Cruz. 2005. Taxonomic review of the species
+   group of the genus Physalameus Fitzinger,         
+   1826 with revalidation of the genera Engysto-     
+   mops Jimenez de la Espada, 1872 and Eupem-        
+   phix Steindachner, 1836 (Amphibia, Anura,         
+   Leptodactylidae). Arquivos do Museu Nacional
+   do Rio de Janeiro 63: 297–320.                  
+Nicholls, G.E. 1916. The structure of the vertebral  
+   column in the Anura Phaneroglossa and its im-     
+   portance as a basis of classiﬁcation. Proceed-  
+   ings of the Linnaean Society of London 128:
+   80–92.                                          
+Niklas, K.J. 2001. Taxing debate for taxonomists.    
+   Science 292: 2249–2250.                         
+Nixon, K.C. 1999. The parsimony ratchet, a new
+   method for rapid parsimony analysis. Cladistics   
+   15: 407–414.                                    
+Nixon, K.C. 1999–2002. WinClada. Version 1.0.      
+   Ithaca, New York: Computer software distrib-      
+   uted by the author.
+Nixon, K.C., and J.M. Carpenter. 2000. On the        
+   other ‘‘phylogenetic systematics’’. Cladis
+   16: 298–318.                                    
+Nixon, K.C., J.M. Carpenter, and D.W. Stevenson.
+   2003. The PhyloCode is fatally ﬂawed and the    
+   ‘‘Linnaean’’ system can be easily ﬁxed. 
+   ical Review 69: 111–120.                        
+Noble, G.K. 1924. A new spadefoot toad from the      
+   Oligocene of Mongolia with a summary of the
+   evolution of the Pelobatidae. American Muse-      
+   um Novitates 132: 1–15.                         
+es      Noble, G.K. 1926. The pectoral girdle of the bra-
+     chycephalid frogs. American Museum Novita-
+   tes 230: 1–14.
+    Noble, G.K. 1927. The value of life history data
+   in the study of the evolution of the Amphibia.
+   Annals of the New York Academy of Sciences
+   30: 31–128.
+  Noble, G.K. 1929. The adaptive modiﬁcations of
+   the arboreal tadpoles of Hoplophryne and the
+   torrent tadpoles of Staurois. Bulletin of the
+    American Museum of Natural History 58: 291–
+   334.
+  Noble, G.K. 1931. The biology of the Amphibia.
+   New York: McGraw-Hill.
+Noble, G.K., and P.G. Putnam. 1931. Observa-
+     tions on the life history of Ascaphus truei Ste-
+   jneger. Copeia 1931: 97–101.
+Nussbaum, R.A. 1976. Geographic variation and
+     systematics of salamanders of the genus Di-
+   camptodon Strauch (Ambystomatidae). Miscel-
+     laneous Publications. Museum of Zoology,
+   University of Michigan 149: 1–94.
+Nussbaum, R.A. 1977. Rhinatrematidae: a new
+   family of caecilians (Amphibia: Gymno-
+   phiona). Occasional Papers of the Museum of
+   Zoology, University of Michigan 682: 1–30.
+  Nussbaum, R.A. 1979. The taxonomic status of
+   the caecilian genus Uraeotyphlus Peters. Oc-
+   casional Papers of the Museum of Zoology,
+     University of Michigan 687: 1–20.
+  Nussbaum, R.A. 1980. Phylogenetic implications
+   of amplectic behavior in sooglossid frogs. Her-
+     petologica 36: 1–5.
+Nussbaum, R.A. 1982. Heterotopic bones in the
+     hindlimbs of frogs of the families Pipidae, Ran-
+     idae and Sooglossidae. Herpetologica 38: 312–
+   320.
+Nussbaum, R.A., A.P. Jaslow, and J. Watson.
+tics       1982. Vocalization in frogs of the family Soog-
+     lossidae. Journal of Herpetology 16: 198–203.
+  Nussbaum, R.A., and M. Wilkinson. 1989. On the
+Botan-       classiﬁcation and phylogeny of caecilians (Am-
+     phibia: Gymnophiona), a critical review. Her-
+   petological Monographs 3: 1–42.
+Nussbaum, R.A., and M. Wilkinson. 1995. A new
+     genus of lungless tetrapod: a radically divergent
+   caecilian (Amphibia: Gymnophiona). Proceed-
+   ings of the Royal Society of London. Series B,
+   Biological Sciences 261: 331–335.
+Ohler, A., S.R. Swan, and J.C. Daltry. 2002. A
+   recent survey of the amphibian fauna of the
+   Cardamom Mountains, Southwest Cambodia
+   with descriptions of three new species. Rafﬂes
+   Bulletin of Zoology. Singapore 50: 465–481.
+Okada, Y. 1966. Fauna Japonica. Anura (Amphib-
+   ia). Tokyo: Biogeographical Society of Japan.
+Olsson, L., and J. Hanken. 1996. Cranial neural-
+   crest migration and chondrogenic fate in the
+
+   oriental ﬁre-bellied toad Bombina orientalis:  
+   deﬁning the ancestral pattern of head develop- 
+   ment in anuran amphibians. Journal of Mor-       
+   phology 299: 105–120.                          
+Oppel, M. 1810. Second memoire sur las classi-      
+   ﬁcation des reptiles. Annales du Muse´um      
+   d’Histoire Naturelle 16: 394–418.
+Orlov, N.L., L.N. Ngat, and T.C. Ho. 2003. A new    
+   species of cascade frog from North Vietnam       
+   (Ranidae, Anura). Russian Journal of Herpetol-   
+   ogy 10: 123–134.                               
+Orton, G.L. 1949. Larval development of Necto-      
+   phrynoides tornieri (Roux), with comments on
+   direct development in frogs. Annals of the Car-  
+   negie Museum 31: 257–274.                      
+Orton, G.L. 1953. The systematics of vertebrate     
+   larvae. Systematic Zoology 2: 63–75.           
+Orton, G.L. 1957. The bearing of larval evolution
+   on some problems in frog classiﬁcation. Sys-   
+   tematic Zoology 6: 79–86.                      
+Page, L.M, H.L. Bart, Jr., R. Beaman, L. Bohs,      
+   L.T. Deck, V.A. Funk, D. Lipscomb, M.A. Ma-
+   res, L.A. Prather, J. Stevenson, Q.D. Wheeler,   
+   J.B. Wooley, and D.W. Stevenson. 2005. LIN-      
+   NE: legacy infrastructure network for natural    
+   environments. Champaign, IL: Illinois Natural    
+   History Survey.                                  
+Palma, R.E., and A.E. Spotorno. 1999. Molecular
+   systematics of marsupials based on the rRNA      
+   12S mitochondrial gene: the phylogeny of di-     
+   delphimorphia and the living fossil microbioth-  
+   eriid Dromiciops gliroides Thomas. Molecular     
+   Phylogenetics and Evolution 13: 525–535.       
+Palumbi, S.R., A. Martin, S. Romano, W.O. Mc-
+   Millan, L. Stice, and G. Grabawski. 1991. The    
+   simple fool’s guide to PCR, version 2.0. Uni-  
+   versity of Hawaii, Honolulu: Privately pub-      
+   lished, compiled by S. Palumbi.                  
+Papavero, N., J. Llorente-Bousquets, and J.M.
+   Abe. 2001. Proposal of a new system of no-       
+   menclature for phylogenetic systematics. Ar-     
+   quivos de Zoologia. Sa˜o Paulo 36: 1–145.
+Parker, H.W. 1934. A monograph of the frogs of      
+   the family Microhylidae. London: Trustees of     
+   the British Museum.                              
+Parker, H.W. 1940. The Australasian frogs of the    
+   family Leptodactylidae. Novitates Zoologicae.
+   Tring 42: 1–106.                               
+Parra-Olea, G. 2002. Molecular phylogenetic re-     
+   lationships of Neotropical salamanders of the    
+   genus Pseudoeurycea. Molecular Phylogenetics
+   and Evolution 22: 234–246.                     
+Parra-Olea, G., M. Garc´ıa-Par´ıs, and D.B. Wake
+   2002. Phylogenetic relationships among the sal-  
+   amanders of the Bolitoglossa macrinii species    
+   group (Amphibia: Plethodontidae), with de-       
+   scriptions of two new species from Oaxaca
+   (Mexico). Journal of Herpetology 36: 356–366.  
+  Parra-Olea, G., M. Garc´ıa-Par´ıs, and D.B. Wake.
+     2004. Molecular diversiﬁcation of salamanders
+   of the tropical American genus Bolitoglossa
+     (Caudata: Plethodontidae) and its evolutionary
+   and biogeographical implications. Biological
+      Journal of the Linnean Society 81: 325–346.
+Parra-Olea, G., and D.B. Wake. 2001. Extreme
+   morphological and ecological homoplasy in
+   tropical salamanders. Proceedings of the Na-
+     tional Academy of Sciences of the United
+   States of America 98: 7888–7891.
+Parsons, T.S., and E.E. Williams. 1963. The rela-
+     tionships of the modern Amphibia: a re–ex-
+   amination. Quarterly Review of Biology 38:
+     26–53.
+  Passmore, N.I., and V.C. Carruthers. 1979. South
+     African frogs. Johannesburg: Witwatersrand
+   University Press.
+Patterson, C., and D.E. Rosen. 1977. Review of
+   the ichthyodectiform and other Mesozoic tele-
+   ost ﬁshes and the theory and practice of clas-
+   sifying fossils. Bulletin of the American Mu-
+   seum of Natural History 158: 85–172.
+Pauly, G.B., D.M. Hillis, and D.C. Cannatella.
+   2004. The history of Nearctic colonization: mo-
+   lecular phylogenetics and biogeography of the
+   Nearctic toads (Bufo). Evolution 58: 2517–
+     2535.
+Peixoto, O.L. 1995. Associac¸a˜o de anuros a bro-
+     melia´ceas na mata Atlaˆntica. Revista de Univ-
+   ersidade Federal Rural do Rio de Janeiro. Se´rie
+   Cieˆncias da Vida 17: 75–83.
+Pennisi, E. 2001. Linnaeus’s last stand? Science
+   291: 2304–2307.
+Perret, J.-L. 1966. Les amphibiens du Cameroun.
+   Zoologische Jahrbu¨cher. Abteilung fu¨r Syste-
+   matik, O¨ kologie und Geographie. Jena 93:
+   289–464.
+  Perret, J.-L. 1977. Les Hylarana (amphibiens,
+   ranide´s) du Cameroun. Revue Suisse de Zool-
+   ogie 84: 841–868.
+  Perret, J.-L. 1984. Identiﬁcation des syntypes de
+.      Petropedetes obscurus Ahl, 1924 (Amphibia,
+   Phrynobatrachinae), conserve´s au muse´um de
+   Berlin. Bulletin de la Socie´te´ Neuchaˆteloise des
+   Sciences Naturelles 107: 167–170.
+  Peters, W.C.H. 1862. U¨ ber die Batrachier-Gattung
+   Hemiphractus. Monatsberichte der Ko¨niglichen
+   Preussische Akademie des Wissenschaften zu
+   Berlin 1862: 144–152.
+Philippe, H. 1993. MUST: management utilities
+   for sequences and trees. Nucleic Acids Re-
+   search 21: 5264–5272.
+Phillips, A., D. Janies, and W.C. Wheeler. 2000.
+   Multiple sequence alignment in phylogenetic
+   analysis. Molecular Phylogenetics and Evolu-
+   tion 16: 317–330.
+Pickett, K.M. 2005. The new and improved
+
+   PhyloCode, now with types, ranks, and even       
+   polyphyly: a conference report from the First    
+   International Phylogenetic Nomenclature Meet-    
+   ing. Cladistics 21: 79–82.                     
+Platnick, N.I. 1977. Cladograms, phylogenetic       
+   trees, and hypothesis testing. Systematic Zool-  
+   ogy 26: 438–443.                               
+Pombal, J.P., Jr. 1999. Oviposic¸a˜o e desenvolvi-
+   mento de Brachycephalus ephippium (Spix)         
+   (Anura, Brachycephalidae). Revista Brasileira    
+   de Zoologia 16: 967–976.                       
+Pombal, J.P., Jr., and C.F.B. Haddad. 1999. Frogs   
+   of the genus Paratelmatobius (Anura: Lepto-      
+   dactylidae) with descriptions of two new spe-    
+   cies. Copeia 1999: 1014–1026.                  
+Pope, C.H. 1931. Notes on amphibians from Fu-       
+   kien, Hainan and other parts of China. Bulletin  
+   of the American Museum of Natural History        
+   61: 397–611.                                   
+Posada, D., and K.A. Crandall. 1998. Modeltest:     
+   testing the model of DNA substitution. Bioin-    
+   formatics 14: 817–818.                         
+Post, T.J., and T. Uzzell. 1981. The relationships  
+   of Rana sylvatica and the monophyly of the       
+   Rana boylii group. Systematic Zoology 30:        
+   170–180.                                       
+Poynton, J.C. 1964a. Amphibia of southern Afri-     
+   ca: a faunal study. Annals of the Natal Museum   
+   17: 1–334.                                     
+Poynton, J.C. 1964b. Amphibia of the Nyasa-Lu-      
+   angwa region of Africa. Senckenbergiana Biol-    
+   ogica 45: 193–225.                             
+Poynton, J.C. 1976. Classiﬁcation and the Arthro- 
+   leptinae. Revue Zoologique Africaine 90: 215–  
+   220.                                             
+Poynton, J.C. 2003. Arthroleptis troglodytes and    
+   the content of Schoutedenella (Amphibia: An-     
+   ura: Arthroleptidae). African Journal of Her-    
+   petology 52: 49–51.                            
+Poynton, J.C., and D.G. Broadley. 1967. A new       
+   species of Probreviceps (Amphibia) from Rho-     
+   desia. Arnoldia. Zimbabwe 3: 1–3.              
+Poynton, J.C., and D.G. Broadley. 1985. Amphib-     
+   ia Zambesiaca 2. Ranidae. Annals of the Natal    
+   Museum 27: 115–181.                            
+Poynton, J.C., and D.G. Broadley. 1988. Amphib-     
+   ia Zambesiaca, 4. Bufonidae. Annals of the Na-   
+   tal Museum 29: 447–490.                        
+Pramuk, J.B. 2000. Prenasal bones and snout mor-    
+   phology in West Indian bufonids and the Bufo     
+   granulosus species group. Journal of Herpetol-   
+   ogy 34: 334–340.                               
+Pramuk, J.B. 2002. Combined evidence and cla-       
+   distic relationships of West Indian toads (Anu-  
+   ra: Bufonidae). Herpetological Monographs 16:    
+   121–151.                                       
+Pramuk, J.B., C.A. Hass, and S.B. Hedges. 2001.     
+   Molecular phylogeny and biogeography of
+   West Indian toads (Anura: Bufonidae). Molec-
+   ular Phylogenetics and Evolution 20: 294–301.
+Pramuk, J.B., and J.R. Mendelson, III. 2003. An-
+     axyrus melanocholicus Tschudi: synonym of
+   the Mexican taxon Bufo compactilis Wiegmann
+   (Anura: Bufonidae). Southwestern Naturalist
+     48: 676–680.
+  Pregill, G.K. 1981. Cranial morphology and the
+   evolution of West Indian toads: resurrection of
+   the genus Peltophryne (Fitzinger). Copeia
+     1981: 273–285.
+Procter, J.B. 1925. Notes on the nests of some
+   African frogs. Proceedings of the Zoological
+   Society of London 1925: 909–910.
+  Pugener, L.A., A.M. Maglia, and L. Trueb. 2003.
+   Revisiting the contribution of larval characters
+   to an analysis of phylogenetic relationships of
+   basal anurans. Zoological Journal of the Lin-
+     nean Society. London 139: 129–155.
+Pusey, H.K. 1943. On the head of the liopelmid
+   frog, Ascaphus truei I. The chondrocranium,
+     jaws, arches, and muscles of a partly grown lar-
+   va. Quarterly Journal of Microscopical Science
+   84: 106–185.
+Pyburn, W.F. 1970. Breeding behavior of the leaf-
+     frogs Phyllomedusa callidryas and Phyllome-
+   dusa dacnicolor in Mexico. Copeia 1970: 209–
+   218.
+  Pytel, B.A. 1986. Biochemical systematics of the
+   eastern North American frogs of the genus
+   Rana. Herpetologica 42: 273–282.
+  Rabb, G.B. 1960. On the unique sound production
+     of the Surinam toad, Pipa pipa. Copeia 1960:
+     368–369.
+Raﬁnesque, C.S. 1814. Fine del prodromo
+   d’erpetologia siciliana. Specchio delle Scienze,
+   o, Giornale Enciclopedico di Sicilia 2: 102–
+   104.
+  Raﬁnesque, C.S. 1815. Analyse de nature, ou tab-
+   leau de l’universe et des corps organise´s. Pa-
+   lermo: Jean Barravecchia.
+  Rambaut, A. 1995. Se-Al. Sequence alignment
+   editor, version 1.d1. University of Oxford,
+   U.K.: Computer software distributed by the au-
+     thor.
+Rao, C.R.N. 1920. Some South Indian batrachi-
+   ans. Journal of the Bombay Natural History So-
+     ciety 27: 119–127.
+Read, K., J.S. Keogh, I.A. Scott, J.D. Roberts, and
+   P. Doughty. 2001. Molecular phylogeny of the
+   Australian frog genera Crinia, Geocrinia, and
+     allied taxa (Anura: Myobatrachidae). Molecular
+   Phylogenetics and Evolution 21: 294–308.
+Regal, P.J. 1966. Feeding specializations and the
+   classiﬁcation of terrestrial salamanders. Evolu-
+     tion 20: 392–407.
+Reig, O.A. 1958. Proposiciones para una nueva
+
+   macrosistematica de los anuros (nota prelimi-        
+   nar). Physis. Buenos Aires 21: 109–118.            
+Reig, O.A. 1960. Las relaciones gene´ricas del an-     
+   uro chileno Calyptocephalella gayi (Dum. &           
+   Bibr.). In Actas y trabajos del Primer Congreso      
+   Sudamericano de Zoolog´ıa (La Plata, 12–24       
+   Octubre 1959), vol. 4: 113–147. La Plata: Com-     
+   isio´n de Investigacio´n Cient´ıﬁca de la Provi
+   de Buenos Aires y Consejo Nacional de Inves-         
+   tigaciones Cient´ıﬁcas y Te´cnicas.             
+Reig, O.A. 1972. Macrogenioglottus and the              
+   South American bufonid toads. In W.F. Blair          
+   (editor), Evolution in the genus Bufo: 14–36.      
+   Austin: University of Texas Press.                   
+Richards, C.M., and W.S. Moore. 1996. A phy-            
+   logeny for the African treefrog family Hyper-        
+   oliidae based on mitochondrial rDNA. Molec-          
+   ular Phylogenetics and Evolution 5: 522–532.       
+Richards, C.M., and W.S. Moore. 1998. A molec-          
+   ular phylogenetic study of the Old World tree-       
+   frog family Rhacophoridae. Herpetological            
+   Journal. London 8: 41–46.                          
+Richards, C.M., R.A. Nussbaum, and C.J. Rax-            
+   worthy. 2000. Phylogenetic relationships within      
+   the Madagascan boophids and mantellids as            
+   elucidated by mitochondrial ribosomal genes.         
+   African Journal of Herpetology 49: 23–32.          
+Rieppel, O., and M. de Braga. 1996. Turtles as          
+   diapsid reptiles. Nature. London 384: 453–455.     
+Risch, J.-P. 1985. The Himalayan salamander and         
+   its relatives: a short review of the Pleurodelinae   
+   (Amphibia, Caudata, Salamandridae). Journal          
+   of the Bengal Natural History Society. New Se-       
+   ries 4: 139–143.                                   
+Ritgen, F.A. 1828. Versuch einer naturlichen            
+   Eintheilung der Amphibien. Nova Acta Physi-          
+   co-medica Academiae Caesareae Leopoldino-            
+   Carolinae Naturae Curiosorum. Halle 14: 277,         
+   278.                                                 
+Ritland, R.M. 1955. Studies on the post-cranial         
+   morphology of Ascaphus truei. II. Journal of         
+   Morphology 97: 215–282.                            
+Rocˇek, Z. 1981 ‘‘1980’’. Cranial anatomy of fr
+   of the family Pelobatidae Stannius, 1856, with       
+   outlines of their phylogeny and systematics.         
+   Acta Universitatis Carolinae. Biologica. Prague      
+   1980: 1–160.                                       
+Rocˇek, Z. 1989. Developmental pattern of the eth-     
+   moidal region of the anuran skull. In H.             
+   Splechtna (editor), Trends in vertebrate mor-        
+   phology: 412–515. Stuttgart: G. Fischer.           
+Rocˇek, Z. 1990. Ethmoidal endocranial structures      
+   in primitive tetrapods: their bearing on the         
+   search for anuran ancestry. Zoological Journal       
+   of the Linnean Society. London 99: 389–407.        
+Rocˇek, Z., and M. Vesely. 1989. Development of        
+   the ethmoidal structures of the endocranum in        
+   the anuran Pipa pipa. Journal of Morphology
+     200: 300–319.
+ Ro¨del, M.-O., J. Kosuch, M. Veith, and R. Ernst.
+   2003. First record of the genus Acanthixalus
+   Laurent, 1944 from the upper Guinean rain for-
+       est, West Africa, with the description of a new
+     species. Journal of Herpetology 37: 43–52.
+ncia  Rodman, J.E., and J.H. Cody. 2003. The taxonom-
+   ic impediment overcome: NSF’s Partnerships
+        for Enhancing Expertise in Taxonomy (PEET)
+   as a model. Systematic Biology 52: 428–435.
+Roelants, K., and F. Bossuyt. 2005. Archaeobatra-
+     chian paraphyly and Pangaean diversiﬁcation
+   of crown-group frogs. Systematic Biology 54:
+   111–126.
+Roelants, K., J. Jiang, and F. Bossuyt. 2004. En-
+   demic ranid (Amphibia: Anura) genera in
+     southern mountain ranges of the Indian subcon-
+   tinent represent ancient frog lineages: evidence
+   from the molecular data. Molecular Phyloge-
+   netics and Evolution 31: 730–740.
+  Romer, A.S. 1933. Vertebrate paleontology. Chi-
+   cago: University of Chicago Press.
+Romer, A.S. 1945. Vertebrate paleontology, 2nd
+   ed. Chicago: University of Chicago Press.
+Ruiz-Carranza, P.M., and J.D. Lynch. 1991a. Ran-
+     as Centrolenidae de Colombia I. Propuesta de
+   una nueva clasiﬁcacion generica. Lozania 57:
+     1–30.
+Ruiz-Carranza, P.M., and J.D. Lynch. 1991b. Ran-
+   as Centrolenidae de Colombia II. Nuevas es-
+   pecies de Centrolene de la Cordillera Oriental
+   y Sierra Nevada de Santa Marta. Lozania 58:
+     1–26.
+Ruiz-Carranza, P.M., and J.D. Lynch. 1998. Ranas
+   Centrolenidae de Colombia XI. Nuevas espe-
+   cies de ranas cristal del genero Hyalinobatrach-
+   ium. Revista de la Academia Colombiana de
+   Ciencias Exactas, F´ısicas y Naturales 22: 571–
+   586.
+Ruta, M., M.I. Coates, and D.L.J. Quicke. 2003.
+     Early tetrapod relationships revisited. Biologi-
+ogs         cal Reviews of the Cambridge Philosophical
+   Society 78: 251–345.
+Ruvinsky, I., and L.R. Maxson. 1996. Phyloge-
+   netic relationships among bufonoid frogs (An-
+     ura: Neobatrachia) inferred from mitochondrial
+    DNA sequences. Molecular Phylogenetics and
+   Evolution 5: 533–547.
+Saint-Aubain, M.L., de. 1981. Amphibian limb
+     ontogeny and its bearing on the phylogeny of
+    the group. Zeitschrift fu¨r Zoologische Syste-
+   matik und Evolutionsforschung 19: 175–194.
+Salthe, S.N. 1967. The courtship patterns and the
+     phylogeny of the urodeles. Copeia 1967: 100–
+    117.
+Sanch´ız, F.B. 1984. Ana´lisis ﬁlogene´tico de la tri-
+   bu Alytini (Anura, Discoglossidae) mediante el
+
+   estudio de su morfoestructura o´sea. In H. Hem-    
+   mer and J.A. Alcover (editors), Histo`ria bioo`g-   
+   ica del ferreret (Life history of the Mallorcan     
+   midwife toad): 61–108. Mallorca, Spain: Edi-      
+   torial Moll.                                        
+Sanch´ız, F.B. 1998. Encyclopedia of paleoherpe-     
+   tology, vol. 4. Salientia. Mu¨nchen: Dr. Fried-    
+   rich Pfeil.                                         
+Sanch´ız, F.B., and I. de la Riva. 1993. Remarks     
+   on the tarsus of centrolenid frogs (Amphibia,       
+   Anura). Graellsia 49: 115–117.                    
+Sankoff, D. 1975. Minimal mutation trees of se-        
+   quences. SIAM Journal on Applied Mathemat-          
+   ics 28: 35–42.                                    
+Sankoff, D., R.J. Cedergren, and G. Lapalme.           
+   1976. Frequency of insertion-deletion, transver-    
+   sion, and transition in evolution of 5S ribosom-    
+   al RNA. Journal of Molecular Evolution 7:           
+   133–149.                                          
+San Mauro, D., D.J. Gower, O.V. Oommen, M.             
+   Wilkinson, and R. Zardoya. 2004. Phylogeny of       
+   caecilian amphibians (Gymnophiona) based on         
+   complete mitochondrial genomes and nuclear          
+   RAG1. Molecular Phylogenetics and Evolution         
+   33: 413–427.                                      
+San Mauro, D., M. Vences, M. Alcobendas, R.            
+   Zardoya, and A. Meyer. 2005. Initial diversiﬁ-    
+   cation of living amphibians predated the break-     
+   up of Pangaea. American Naturalist 165: 590–      
+   599.                                                
+Santos, J.C., L.A. Coloma, and D.C. Cannatella.        
+   2003. Multiple, recurring origins of aposema-       
+   tism and diet specialization in poison frogs.       
+   Proceedings of the National Academy of Sci-         
+   ences of the United States of America 100:          
+   12792–12797.                                      
+Sarasin, P., and F. Sarasin. 1890. Zur Entiwick-       
+   lungsgeschichte und Anatomie der ceylonisch-        
+   en Blindwuehle, Ichthyophis glutinosus (Epi-        
+   crium glutinosum Aut.). Ergebnisse naturwis-        
+   senschaftlicher Forschungen auf Ceylon in den       
+   Jahren 1884–86. Vol. II. Heft 4. Wiesbaden:       
+   C.W. Kreidel.                                       
+Savage, J.M. 1973. The geographic distribution of      
+   frogs: patterns and predictions. In J.L. Vial (ed-  
+   itor), Evolutionary biology of the anurans: con-    
+   temporary research on major problems: 351–        
+   445. Columbia: University of Missouri Press.        
+Savage, J.M. 1987. Systematics and distribution        
+   of the Mexican and Central American rainfrogs       
+   of the Eleutherodactylus gollmeri group (Am-        
+   phibia: Leptodactylidae). Fieldiana. Zoology.       
+   New Series 33: 1–57.                              
+Savage, J.M., and C.W. Myers. 2002. Frogs of the       
+   Eleutherodactylus biporcatus group (Leptodac-       
+   tylidae) of Central America and northern South      
+   America, including rediscovered, resurrected,       
+    and new taxa. American Museum Novitates
+   3357: 1–48.
+Scha¨uble, C.S., C. Moritz, and R.W. Slade. 2000.
+     A molecular phylogeny for the frog genus Lim-
+   nodynastes (Anura: Myobatrachidae). Molecu-
+     lar Phylogenetics and Evolution 16: 379–391.
+ Scheel, J.J. 1970. Notes on the biology of the Af-
+   rican tree-toad, Nectophryne afra Buchholz &
+     Peters, 1875 (Bufonidae, Anura) from Fernan-
+   do Poo. Revue de Zoologie et de Botanique Af-
+     ricaines 81: 225–236.
+Scheltinga, D.M., B.G.M. Jamieson, D.P. Bick-
+   ford, A.A. Garda, S.N. Bao, and K.R. Mc-
+     Donald. 2002. Morphology of the spermatozoa
+   of the Microhylidae (Anura, Amphibia). Acta
+   Zoologica. Stockholm 83: 263–275.
+Schmidt, K.P., and R.F. Inger. 1959. Amphibians
+   exclusive of the genera Afrixalus and Hypero-
+     lius. Exploration du Parc National de
+   l’Upemba. Mission G.F. de Witte, en Collabo-
+   ration avec W. Adam, A. Janssens, L. van Meel
+   et R. Verheyen (1946–1949) 56: 1–264.
+Schoch, R.R., and A.R. Milner. 2004. Structure
+   and implications of theories on the origins of
+     lissamphibians. In G. Arratia, M.V. Wilson, and
+   R. Cloutier (editors), Recent advances in the
+     origin and early radiation of vertebrates: 345–
+   377. Mu¨nchen: Pfeil.
+  Scholz, K.P. 1995. Zur Stammesgeschichte der
+   Salamandridae Gray, 1825. eine kladistische
+   Analyse anhand von Merkmalen aus Morphol-
+   ogie und Balzverhalten. Acta Biologica Ben-
+   rodis 7: 25–75.
+Schuh, R.T. 2003. The Linnaean system and its
+   250-year persistence. Botanical Review 69: 59–
+     79.
+Schulte, R. 1989. Nueva especie de rana venenosa
+   del genero Epipedobates registrada en la Cor-
+   dillera Oriental, Departamento de San Martin.
+   Bolet´ın de Lima 11: 41–46.
+Schwenk, K., and D.B. Wake. 1993. Prey pro-
+     cessing in Leurognathus marmoratus and the
+   evolution of form and function in desmogna-
+   thine salamanders (Plethodontidae). Biological
+   Journal of the Linnean Society 49: 141–162.
+Scopoli, G.A. 1777. Introductio ad historiam na-
+     turalem, sistens genera lapidium, planatarum, et
+   animalium hactenus detecta, caracteribus essen-
+   tialibus donata, in tribus divisa, subinde ad le-
+   ges naturae. Prague: Gerle.
+Scott, E. 2002. Phylogenetic relationships of the
+   subfamily Petropedetinae Noble, 1931 (Anura:
+     Ranidae): a simultaneous analysis of morpho-
+   logical and molecular data. Ph.D. dissertation.
+   Department of Zoology, University of the
+   Western Cape, Bellville, South Africa.
+Sever, D.M. 1990. Cloacal anatomy of female sal-
+   amanders of the plethodontid subfamily Des-
+
+   mognathinae (Amphibia: Urodela). Transac-          
+   tions of the American Microscopical Society        
+   109: 193–204.                                    
+Sever, D.M. 1991a. Comparative anatomy and
+   phylogeny of the cloacae of salamanders (Am-       
+   phibia: Caudata). 1. Evolution at the family lev-  
+   el. Herpetologica 47: 165–193.                   
+Sever, D.M. 1991b. Comparative anatomy and            
+   phylogeny of the cloacae of salamanders (Am-       
+   phibia: Caudata). 2. Cryptobranchidae, Hyno-
+   biidae, and Sirenidae. Journal of Morphology       
+   207: 283–301.                                    
+Sever, D.M. 1992. Comparative anatomy and phy-        
+   logeny of the cloacae of salamanders (Amphib-      
+   ia: Caudata). VI. Ambystomatidae and Dicamp-       
+   todontidae. Journal of Morphology 212: 305–
+   322.                                               
+Sever, D.M. 1994. Comparative anatomy and phy-        
+   logeny of the cloacae of salamanders (Amphib-      
+   ia: Caudata). VII. Plethodontidae. Herpetologi-    
+   cal Monographs 7: 276–337.                       
+Sever, D.M., E.A. Heinz, P.A. Lempart, and M.S.       
+   Taghon. 1990. Phylogenetic signiﬁcance of the    
+   cloacal anatomy of female bolitoglossine sala-
+   manders (Plethodontidae: tribe Bolitoglossini).    
+   Herpetologica 46: 431–446.                       
+Shaffer, H.B., J.M. Clark, and F. Kraus. 1991.        
+   When molecules and morphology clash: a phy-        
+   logenetic analysis of the North American am-       
+   bystomatid salamanders (Caudata: Ambysto-
+   matidae). Systematic Zoology 40: 284–303.        
+Sharrock, G., and J. Felsenstein. 1975. Finding all   
+   monothetic subsets of a taxonomic group. Sys-      
+   tematic Zoology 24: 373–377. [Cited as ‘‘1969
+   manuscript in preparation’’ by Liem, 1970.]    
+Sheil, C.A., J.R. Mendelson, III, and H.R. da Sil-    
+   va. 2001. Phylogenetic relationships of the spe-   
+   cies of Neotropical horned frogs, genus Hemi-      
+   phractus (Anura: Hylidae: Hemiphractinae),
+   based on evidence from morphology. Herpeto-        
+   logica 57: 203–214.                              
+Shubin, N.H., and F.A. Jenkins. 1995. An early
+   Jurassic jumping frog. Nature. London 377:         
+   49–52.                                           
+Silva, A.P.Z., C.F.B. Haddad, and S. Kasahara.        
+   2003. Chromosome banding in Macrogenioglot-
+   tus alipioi Carvalho, 1946 (Amphibia, Anura,       
+   Leptodactylidae), with comments on its taxo-       
+   nomic position. Boletim do Museu Nacional,         
+   Rio de Janeiro. Nova Se´rie, Zoologia. 499: 1–9.
+Silverstone, P.A. 1975. A revision of the poison-
+   arrow frogs of the genus Dendrobates Wagler.       
+   Natural History Museum of Los Angeles Coun-        
+   ty Science Bulletin 21: 1–55.                    
+Simmons, M.P. 2004. Independence of alignment         
+   and tree search. Molecular Phylogenetics and       
+   Evolution 31: 874–879.
+Simmons, M.P., and H. Ochoterena. 2000. Gaps
+   as characters in sequence-based phylogenetic
+     analyses. Systematic Biology 49: 369–381.
+Sinsch, U., and N. Juraske. 1995. Reassessment
+   of central Peruvian Telmatobiinae (genera Ba-
+     trachophrynus and Telmatobius) II. Allozymes
+   and phylogenetic relationships. Alytes 13: 52–
+   66.
+Sinsch, U., A.W. Salas, and V. Canales. 1995. Re-
+     assessment of central Peruvian Telmatobiinae
+   (genera Batrachophrynus and Telmatobius) I.
+   Morphometry and classiﬁcation. Alytes 13: 14–
+   44.
+Sites, J.W., Jr., M. Morando, R. Highton, F. Huber,
+   and R.E. Jung. 2004. Phylogenetic relationships
+   of the endangered Shenandoah Salamander
+   (Plethodon shenandoah) and other salamanders
+     of the Plethodon cinereus group (Caudata:
+   Plethodontidae). Journal of Herpetology 38:
+     96–105.
+Slabbert, G.K., and W.A. Maree. 1945. The cra-
+     nial morphology of the Discoglossidae and its
+   bearing upon the phylogeny of the primitive
+   Anura. Annals of the University of Stellen-
+   bosch 23A: 91–97.
+  Slowinski, J.B. 1998. The number of multiple
+   alignments. Molecular Phylogenetics and Evo-
+   lution 10: 264–266.
+.
+    Smith, M.A. 1930. The Reptilia and Amphibia of
+   the Malay Peninsula. A supplement to G.A.
+   Boulenger’s Reptilia and Batrachia, 1912. Bul-
+   letin of the Rafﬂes Museum 3: i–xviii, 1–149.
+Sokol, O. 1975. The phylogeny of anuran larvae:
+     a new look. Copeia 1975: 1–23.
+Sokol, O. 1977. A subordinal classiﬁcation of
+     frogs (Amphibia: Anura). Journal of Zoology.
+   London 182: 505–508.
+Sokol, O. 1981. The larval chondrocranium of Pe-
+   lodytes punctatus, with a review of tadpole
+   chondrocrania. Journal of Morphology 169:
+      161–183.
+Starrett, P.H. 1973. Evolutionary patterns in larval
+   morphology. In J.L. Vial (editor), Evolutionary
+     biology of the anurans: contemporary research
+   on major problems: 251–271. Columbia: Uni-
+   versity of Missouri Press.
+Steindachner, F. 1867. Amphibien. In Reise der
+   o¨sterreichischen Fregatte Novara um die Erde
+   in den Jahren 1857, 1858, 1859 unter den Ba-
+   fehlen des Commodore B. von Wu¨llerstorf-Ur-
+   bair, Zoologischer Theil. 1: 1–98. Wien: Kais-
+   erlich-Ko¨nigliche Hof- und Staatsdruckerei; in
+   Commission bei K. Gerold’s Sohn.
+Steinfartz, S., U.W. Hwang, D. Tautz, M. O¨ z, and
+   M. Veith. 2002. Molecular phylogeny of the
+   salamandrid genus Neurergus: evidence for an
+
+   intrageneric switch of reproductive biology.      
+   Amphibia-Reptilia 23: 419–431.                  
+Stejneger, L. 1907. Herpetology of Japan and ad-     
+   jacent territory. Bulletin of the United States   
+   National Museum 58: i–xx, 1–577.              
+Stejneger, L., and T. Barbour. 1917. A check list    
+   of North American amphibians and reptiles.        
+   Cambridge, MA: Harvard University Press.          
+Stephenson, E.M., E.S. Robinson, and N.G. Ste-       
+   phenson. 1974. Inter-speciﬁc relationships of   
+   Leiopelma (Amphibia: Anura): further karyo-       
+   logical evidence. Experientia 30: 1248–1250.    
+Stephenson, N.G. 1951. Observations on the de-       
+   velopment of the amphicoelous frogs, Leiopel-     
+   ma and Ascaphus. Journal of the Linnean So-       
+   ciety of London. Zoology 42: 18–28.             
+Stoll, N. 1961. Introduction. In International       
+   Commission of Zoological Nomenclature (edi-       
+   tors), International code of zoological nomen-    
+   clature adopted by the XV International Con-      
+   gress of Zoology: vii–xvii. London: Interna-    
+   tional Trust for Zoological Nomenclature.         
+Stuart, B.L., and T. Chan-ard. 2005. Two new         
+   Huia (Amphibia: Ranidae) from Laos and Thai-      
+   land. Copeia 2005: 279–289.                     
+Stuart, S.N., J.S. Chanson, N.A. Cox, B.E. Young,    
+   A.S.L. Rodrigues, D.L. Fischman, and R.W.         
+   Waller. 2004. Status and trends of amphibian      
+   declines and extinctions worldwide. Science       
+   306: 1783–1786.                                 
+Sumida, M., A. Allison, and M. Nishioka. 2000a.      
+   Evolutionary relationships among 12 species       
+   belonging to three genera of the family Micro-    
+   hylidae in Papua New Guinea revealed by al-       
+   lozyme analysis. Biochemical Systematics and      
+   Ecology 28: 721–736.                            
+Sumida, M., Y. Kondo, Y. Kanamori, and M. Ni-        
+   shioka. 2002. Inter- and intraspeciﬁc evolution-
+   ary relationships of the rice frog Rana limno-    
+   charis and the allied species R. cancrivora in-   
+   ferred from crossing experiements and mito-       
+   chondrial DNA sequences of the 12S and 16S        
+   rRNA genes. Molecular Phylogenetics and           
+   Evolution 25: 293–305.                          
+Sumida, M., M. Ogata, and M. Nishioka. 2000b.        
+   Molecular phylogenetic relationships of pond      
+   frogs distributed in the Palearctic Region in-    
+   ferred from DNA sequences of mitochondrial        
+   12S ribosomal RNA and cytochrome b genes.         
+   Molecular Phylogenetics and Evolution 16:         
+   278–285.                                        
+Swofford, D.L. 2002. PAUP*. Phylogenetic anal-       
+   ysis using parsimony (*and other methods),        
+   version 4.0 beta. Sunderland, MA: Sinauer As-     
+   sociates.                                         
+Swofford, D.L., G.J. Olsen, P.J. Waddell, and        
+   D.M. Hillis. 1996. Phylogenetic inference. In
+   D.M. Hillis, C. Moritz, and B.K. Mable (edi-
+     tors), Molecular systematics: 407–514. Sunder-
+   land, MA: Sinauer Associates.
+Tamarunov, L.P. 1964a. Salientia. In Y.A. Orlov
+       (editor), Osnovy paleontologii: spravochnik
+   dlia paleontologov i geologov SSSR, vol. 12.
+   Amphibia–Aves: 125–133. Moscow: Nauka.
+Tamarunov, L.P. 1964b. Lepospondyli. In Y.A.
+   Orlov (editor), Osnovy paleontologii: spravo-
+     chnik dlia paleontologov i geologov SSSR, vol.
+   12. Amphibia–Aves: 144–164. Moscow: Nau-
+     ka.
+Tanaka-Ueno, T., M. Matsui, S.-L. Chen, O. Tak-
+   enaka, and H. Ota. 1998a. Phylogenetic rela-
+   tionships of brown frogs from Taiwan and Ja-
+     pan assessed by mitochondrial cytochrome b
+   gene sequences (Rana: Ranidae). Zoological
+   Science. Tokyo 15: 283–288.
+Tanaka-Ueno, T., M. Matsui, T. Sato, S. Takenaka,
+   and O. Takenaka. 1998b. Phylogenetic relation-
+     ships of brown frogs with 24 chromosomes
+   from Far East Russia and Hokkaido assessed
+   by mitochondrial cytochrome b gene sequences
+   (Rana: Ranidae). Zoological Science. Tokyo
+     15: 289–294.
+Tandy, M., and R. Keith. 1972. Bufo of Africa. In
+   W.F. Blair (editor), Evolution in the genus Bufo:
+   119–170. Austin: University of Texas Press.
+Taylor, E.H. 1951. Two new genera and a new
+     family of tropical American frogs. Proceedings
+   of the Biological Society of Washington 64:
+   33–40.
+Taylor, E.H. 1968. The caecilians of the world: a
+   taxonomic review. Lawrence: University of
+   Kansas Press.
+  Taylor, E.H. 1969a. A new family of African
+   Gymnophiona. University of Kansas Science
+     Bulletin 48: 297–305.
+Taylor, E.H. 1969b. Skulls of Gymnophiona and
+   their signiﬁcance in the taxonomy of the group.
+   University of Kansas Science Bulletin 48: 585–
+   687.
+Thibaudeau, G., and R.I. Altig. 1999. Endotrophic
+     anurans. Development and evolution. In R.W.
+   McDiarmid and R. Altig (editors), Tadpoles:
+   the biology of anuran larvae: 170–188. Chica-
+   go: University of Chicago Press.
+Thompson, J.D., T.J. Gibson, F.J. Plewniak, F., and
+   D.G. Higgins. 1997. The ClustalX windows in-
+   terface: ﬂexible strategies for multiple sequence
+     alignment aided by quality analysis tools. Nu-
+   cleic Acids Research 24 4876–4882.
+Thompson, J.D., D.G. Higgins, and T.J. Gibson.
+   1994. CLUSTAL W: improving the sensitivity
+   of progressive multiple sequence alignments
+   through sequence weighting, position speciﬁc
+
+   gap penalties and weight matrix choice. Nu-         
+   cleic Acids Research 22: 4673–4680.               
+Tian, W., and Q. Hu. 1985. Taxonomical studies         
+   on the primitive anurans of the Hengduan            
+   Mountains, with descriptions of a new subfam-
+   ily and subdivision of Bombina. Acta Herpe-         
+   tologica Sinica, New Series 4: 219–224.           
+Tihen, J.A. 1958. Comments on the osteology and        
+   phylogeny of ambystomatid salamanders. Bul-         
+   letin of the Florida Museum of Natural History.     
+   Biological Sciences 3: 1–50.
+Tihen, J.A. 1960. Two new genera of African bu-        
+   fonids, with remarks on the phylogeny of re-        
+   lated genera. Copeia 1960: 225–233.               
+Tihen, J.A. 1965. Evolutionary trends in frogs.
+   American Zoologist 5: 309–318.                    
+Tilley, S.G., and J. Bernardo. 1993. Life history      
+   evolution in plethodontid salamanders. Herpe-       
+   tologica 49: 154–163.                             
+Ting, H.-P., and M.-C. T’sai. 1979. A new species
+   of frog (Rana minimus) from Fujian Province.        
+   Acta Zootaxonomica Sinica 4: 297–300. [In         
+   Chinese with English abstract.]                     
+Titus, T.A., and A. Larson. 1995. A molecular          
+   phylogenetic perspective on the evolutionary
+   radiation of the salamander family Salamandri-      
+   dae. Systematic Biology 44: 125–151.              
+Titus, T.A., and A. Larson. 1996. Molecular phy-       
+   logenetics of desmognathine salamanders (Cau-       
+   data: Plethodontidae): a reevaluation of evolu-
+   tion in ecology, life history, and morphology.      
+   Systematic Biology 45: 451–472.                   
+Trewevas, E. 1933. The hyoid and larynx of the         
+   Anura. Philosophical Transactions of the Royal      
+   Society of London, B, Biological Sciences 222:      
+   401–527.                                          
+Trontelj, P., and S. Goricki. 2003. Monophyly of
+   the family Proteidae (Amphibia: Caudata) test-      
+   ed by phylogenetic analysis of mitochondrial        
+   12S rDNA sequences. Natura Croatica. Zagreb
+   12: 113–120.                                      
+Trueb, L. 1993. Patterns of cranial diversity          
+   among the Lissamphibia (Amphibia, Temnos-           
+   pondyli). In J. Hanken and B.K. Hall (editors),     
+   The skull: 255–343. Chicago: University of        
+   Chicago Press.                                      
+Trueb, L., and D.C. Cannatella. 1986. Systemat-        
+   ics, morphology, and phylogeny of genus Pipa        
+   (Anura: Pipidae). Herpetologica 42: 412–449.      
+Trueb, L., and R. Cloutier. 1991. A phylogenetic       
+   investigation of the inter- and intrarelationships  
+   of the Lissamphibia (Amphibia: Temnospon-           
+   dyli). In H.P. Schultze and L. Trueb (editors),     
+   Origins of the higher groups of tetrapods: con-     
+   troversy and consensus: 223–313. Ithaca, NY:      
+   Cornell University Press.                           
+Tschudi, J.J., von. 1838. Classiﬁcation der Batra-
+     chier mit Beru¨cksichtigung der fossilen Thiere
+   dieser Abtheilung der Reptilien. Neuchaˆtel: Pe-
+   titpierre.
+Tschudi, J.J., von. 1845. Reptilium conspectus
+     quae in Republica Peruana reperiuntur et ple-
+   raquae observata vel collecta sunt in itinere a
+   Dr. J.J. de Tschudi. Archiv fu¨r Naturgeschichte
+   11: 150–170.
+Tyler, M.J. 1971a. The occurrence of the muscu-
+   lus cutaneous pectoris in the Anura. Herpeto-
+     logica 27: 150–152.
+  Tyler, M.J. 1971b. Observations on anuran myo-
+   integumental attachments associated with the
+   vocal sac apparatus. Journal of Natural History
+     5: 225–231.
+Tyler, M.J. 1971c. The phylogenetic signiﬁcance
+     of vocal sac structure in hylid frogs. University
+   of Kansas Publications. Museum of Natural
+   History 19: 319–360.
+Tyler, M.J. 1972. Superﬁcial mandibular muscu-
+     lature, vocal sacs and the phylogeny of Austra-
+   lo-Papuan leptodactylid frogs. Records of the
+   South Australian Museum 16: 1–20.
+Tyler, M.J. 1979. Herpetofauna relationships of
+     South America with Australia. In W.E. Duell-
+   man (editor), The South American herpetofau-
+   na: its origin, evolution, and dispersal. Univer-
+   sity of Kansas Museum of Natural History,
+     Monograph 7: 73–106.
+Tyler, M.J. 1982. Frogs, 2nd ed. Sydney: Collins.
+Tyler, M.J. 1985. Reproductive modes in Austra-
+     lian Amphibia. In G. Grigg, R. Shine, and H.
+   Ehman (editors), Biology of Australasian frogs
+   and reptiles: 265–267. Sydney: Royal Zoolog-
+   ical Society of New South Wales.
+  Tyler, M.J. 1989. Australian frogs. Ringwood,
+   Victoria, Australia: Viking O’Neil.
+Tyler, M.J., and M.M. Davies. 1978. Species-
+   groups within the Australopapuan hylid frog
+     genus Litoria Tschudi. Australian Journal of
+   Zoology, Supplementary Series 63: 1–47.
+Tyler, M.J., and W.E. Duellman. 1995. Superﬁcial
+   mandibular musculature and vocal sac structure
+   in hemiphractine hylid frogs. Journal of Mor-
+   phology 224: 65–71.
+  Uzzell, T., and T.J. Post. 1986. Rana temporaria
+   is not a member of the Rana boylii group. Sys-
+   tematic Zoology 35: 414–421.
+Vallan, D., M. Vences, and F. Glaw. 2003. Two
+   new species of the Boophis mandraka complex
+   (Anura, Mantellidae) from the Andasibe region
+   in eastern Madagascar. Amphibia-Reptilia 24:
+   305–319.
+Van der Hoeven, J. 1833. Handboek der dierkun-
+   de, grondbeginsels der natuurlijke geschiedenis
+
+   van het dierenrijk, tweeden deels, tweede stuk.   
+   Amsterdam: C.G. Sulpke.                           
+Van der Meijden, A., M. Vences, S. Hoegg, and        
+   A. Meyer. 2005. A previously unrecognized ra-     
+   diation of ranid frogs in southern Africa re-     
+   vealed by nuclear and mitochondrial DNA se-       
+   quences. Molecular Phylogenetics and Evolu-       
+   tion 37: 674–685. [Seen as an electronic/pdf    
+   preprint available from the publisher.]           
+Van der Meijden, A., M. Vences, and A. Meyer.        
+   2004. Novel phylogenetic relationships of the     
+   enigmatic brevicipitine and scaphiophrynine       
+   toads as revealed by sequences from the nucle-    
+   ar Rag-1 gene. Proceedings of the Royal Soci-     
+   ety of London. B (Supplement—Biology Let-       
+   ters) 271: S378–S381.                           
+Van Dijk, D.E. 2001. Osteology of the ranoid bur-    
+   rowing African anurans Breviceps and Hemi-        
+   sus. African Zoology. Pretoria 36: 137–141.     
+Van Gelder, R.G. 1977. Mammalian hybrids and         
+   generic limits. American Museum Novitates         
+   2635: 1–25.                                     
+Veith, M., and S. Steinfartz. 2004. When non-        
+   monophyly results in taxonomic consequenc-        
+   es—the case of Mertensiella within the Sala-    
+   mandridae (Amphibia: Urodela). Salamandra         
+   40: 67–80.                                      
+Vences, M., F. Andreone, F. Glaw, and J.E. Ran-      
+   drianirina. 2003a. Molecular and bioacoustic      
+   divergence in Mantidactylus granulatus and M.     
+   zavona n. sp. (Anura: Mantellidae): bearings      
+   for the biogeography of northern Madagascar.      
+   African Zoology. Pretoria 38: 67–78.            
+Vences, M., and F. Glaw. 2001. When molecules        
+   claim for taxonomic changes: new proposals on     
+   the classiﬁcation of Old World treefrogs (Am-   
+   phibia, Anura, Ranoidea). Spixiana. Mu¨nchen     
+   24: 85–92.                                      
+Vences, M., and F. Glaw. 2004. Revision of the       
+   subgenus Chonomantis (Anura: Mantellidae:         
+   Mantidactylus) from Madagascar, with descrip-     
+   tion of two new species. Journal of Natural His-  
+   tory. London 38: 77–118.                        
+Vences, M., F. Glaw, F. Andreone, R. Jesu, and G.    
+   Schimmenti. 2002. Systematic revision of the      
+   enigmatic Malagasy broad-headed frogs (Lau-       
+   rentomantis Dubois, 1980) and their phyloge-      
+   netic position within the endemic mantellid ra-   
+   diation of Madagascar. Bijdragen tot de Dier-     
+   kunde 70: 191–212.                              
+Vences, M., F. Glaw, J. Kosuch, I. Das, and M.       
+   Veith. 2000a. Polyphyly of Tomopterna (Am-        
+   phibia: Ranidae) based on sequences of the mi-    
+   tochondrial 16S and 12S rRNA genes, and eco-      
+   logical biogeography of Malagasy relict am-       
+   phibian groups. In W.R. Lourenc¸o and S.M.       
+   Goodman (editors), Diversite´ et ende´e´misme a
+   Madagascar/Diversity and endemism in Mada-
+   gascar: 229–242. Me´moires de la Socie´te´ de
+   Bioge´ographie. Paris.
+Vences, M., J. Kosuch, R. Boistel, C.F.B. Haddad,
+   E. La Marca, and S. Lo¨tters. 2003b. Convergent
+   evolution of aposematic coloration in Neotrop-
+   ical poison frogs: a molecular phylogenetic per-
+     spective. Organisms, Diversity & Evolution 3:
+   215–226.
+Vences, M., J. Kosuch, F. Glaw, W. Bo¨hme, and
+   M. Veith. 2003c. Molecular phylogeny of hy-
+   peroliid treefrogs: biogeographic origin of Mal-
+   agasy and Seychellean taxa and re-analysis of
+   familial paraphyly. Journal of Zoological Sys-
+     tematics and Evolutionary Research 41: 205–
+     213.
+Vences, M., J. Kosuch, S. Lo¨tters, A. Widmer,
+   K.H. Jungfer, J. Ko¨hler, and M. Veith. 2000b.
+     Phylogeny and classiﬁcation of poison frogs
+   (Amphibia: Dendrobatidae), based on mito-
+   chondrial 16S and 12S ribosomal RNA gene
+     sequences. Molecular Phylogenetics and Evo-
+   lution 15: 34–40.
+Vences, M., D.R. Vieites, F. Glaw, H. Brinkmann,
+     J. Kosuch, M. Veith, and A. Meyer. 2003d.
+   Multiple overseas dispersal in amphibians. Pro-
+     ceedings of the Royal Society of London. Se-
+   ries B, Biological Sciences 270: 2435–2442.
+Vences, M., S. Wanke, G. Odierna, J. Kosuch, and
+   M. Veith. 2000c. Molecular and karyological
+   data on the south Asian ranid genera Indirana,
+   Nyctibatrachus and Nannophrys (Anura: Rani-
+     dae). Hamadryad 25: 75–82.
+Wagler, J.G. 1828. Vorla¨uﬁge Uebersicht des Ger-
+   uftes, sowie Untungigung feines Systema am-
+     phibiorum. Isis von Oken 21: 859–861.
+ Wagler, J.G. 1830. Natu¨rliches System der Am-
+     phibien, mit vorangehender Classiﬁcation der
+   Sa¨ugthiere und Vogel. Ein Beitrag zur verglei-
+   chenden Zoologie. Mu¨nchen, Stuttgart and Tu¨-
+   bingen: J.G. Cotta.
+Wake, D.B. 1966. Comparative osteology and
+     evolution of the lungless salamanders, family
+   Plethodontidae. Memoires of the Southern Cal-
+   ifornia Academy of Sciences 4: 1–111.
+Wake, D.B. 1993. Phylogenetic and taxonomic is-
+   sues relating to salamanders of the family
+   Plethodontidae. Herpetologica 49: 229–237.
+Wake, D.B., and P. Elias. 1983. New genera and
+     new species of Central American salamanders,
+   with a review of the tropical genera (Amphibia,
+   Caudata, Plethodontidae). Natural History Mu-
+   seum of Los Angeles County Contributions in
+   Science. 345: 1–19.
+Wake, D.B., and J.F. Lynch. 1976. The distribu-
+    tion, ecology and evolutionary history of pleth-
+`
+
+   odontid salamanders in tropical America. Nat-      
+   ural History Museum of Los Angeles County          
+   Science Bulletin 175: 1–65.                      
+Wake, D.B., L.R. Maxson, and G.Z. Wurst. 1978.
+   Genetic differentiation, albumin evolution, and    
+   their biogeographic implications in plethodon-     
+   tid salamanders of California and southern Eu-     
+   rope. Evolution 32: 529–539.                     
+Wake, M.H. 1977. Fetal maintenance and its evo-       
+   lutionary signiﬁcance in the Amphibia: Gym-
+   nophiona. Journal of Herpetology 11: 379–386.    
+Wake, M.H. 1980. The reproductive biology of          
+   Nectophrynoides malcolmi (Amphibia: Bufon-         
+   idae), with comments on the evolution of re-       
+   productive modes in the genus Nectophryno-         
+   ides. Copeia 1980: 193–209.                      
+Wake, M.H. 1993. Non-traditional characters in
+   the assessment of caecilian phylogenetic rela-     
+   tionships. Herpetological Monographs 7: 42–      
+   55.                                                
+Wake, M.H., G. Parra-Olea, and J.P.-Y. Shee.          
+   2005. Biogeography and molecular phylogeny
+   of certain New World caecilians. In M.A. Don-      
+   nelly, B.I. Crother, C. Guyer, M.H. Wake, and      
+   M.E. White (editors), Ecology and evolution in     
+   the tropics: a herpetological perspective: 48–
+   64. Chicago: University of Chicago Press.          
+Walls, J.G. 1994. Jewels of the rainforest—poison   
+   frogs of the family Dendrobatidae. Neptune         
+   City, New Jersey: T.F.H. Publications.             
+Wang, L., and T. Jiang. 1994. On the complexity       
+   of multiple sequence alignment. Journal of
+   Computational Biology 1: 337–348.                
+Wassersug, R.J. 1984. The Pseudohemisus tad-          
+   pole: a morphological link between microhylid      
+   (Orton Type 2) and ranoid (Orton Type 4) lar-
+   vae. Herpetologica 40: 138–148.                  
+Wassersug, R.J., and W.R. Heyer. 1983. Morpho-        
+   logical correlates of subaerial existence in lep-  
+   todactylid tadpoles associated with ﬂowing wa-   
+   ter. Canadian Journal of Zoology 61: 761–769.    
+Wassersug, R.J., and W.F. Pyburn. 1987. The bi-       
+   ology of the Pe-ret toad, Otophryne robusta
+   (Microhylidae), with special consideration of      
+   its fossorial larva and systematic relationships.  
+   Zoological Journal of the Linnean Society.         
+   London 91: 137–169.
+Wei, G., N. Xu, D. Li, G. Wu, and X. Song. 1993.      
+   Karyotype C-band and Ag-NORs study of three        
+   stink frogs. Asiatic Herpetological Research 5:    
+   45–50.                                           
+Werner, F. 1896. Beitra¨ge zur Kenntniss der Rep-    
+   tilien und Batrachier von Centralamerika und       
+   Chile, sowie einiger seltenerer Schlangenarten.
+   Verhandlungen des Zoologisch-Botanischen           
+   Vereins in Wien 46: 344–365.                     
+Wheeler, Q.D., P.H. Raven, and E.O. Wilson.
+   2004. Taxonomy: impediment or expedient?
+     Science 303: 285.
+Wheeler, W.C. 1992. Extinction, sampling, and
+   molecular phylogenetics. In M.J. Novacek and
+   Q.D. Wheeler (editors), Extinction and phylog-
+     eny: 205–215. New York: Columbia University
+   Press.
+  Wheeler, W.C. 1994. Sources of ambiguity in nu-
+   cleic acid sequence alignment. In B. Schier-
+   water, B. Streit, G.P. Wagner, and R. DeSalle
+   (editors), Molecular ecology and evolution: ap-
+   proaches and applications: 323–352. Basel,
+     Switzerland: Birkha¨user.
+Wheeler, W.C. 1995. Sequence alignment, param-
+     eter sensitivity, and the phylogenetic analysis of
+   molecular data. Systematic Biology 44: 321–
+   331.
+Wheeler, W.C. 1996. Optimization alignment: the
+   end of multiple sequence alignment in phylo-
+   genetics? Cladistics 12: 1–9.
+Wheeler, W.C. 1998. Alignment characters, dy-
+     namic programing and heuristic solutions. In R.
+   DeSalle and B. Schierwater (editors), Molecu-
+   lar approaches to ecology and evolution, 2nd
+   ed.: 243–251. Basel, Switzerland: Birkha¨user.
+  Wheeler, W.C. 1999. Fixed character states and
+   the optimization of molecular sequence data.
+   Cladistics 15: 379–385.
+  Wheeler, W.C. 2000. Heuristic reconstruction of
+   hypothetical-ancestral DNA sequences: se-
+   quence alignment vs optimization. In R.W.
+     Scotland and R.T. Pennington (editors), Ho-
+     mology and systematics: 106–113. New York:
+   Taylor and Francis.
+Wheeler, W.C. 2001. Homology and the optimi-
+   zation of DNA sequence data. Cladistics 17:
+   S3–S11.
+Wheeler, W.C. 2002. Optimization alignment:
+   down, up, error, and improvements. In R.
+   DeSalle, G. Giribet, and W.C. Wheeler (edi-
+     tors), Techniques in molecular systematics and
+    evolution: 55–69. Basel, Switzerland: Birkha¨u-
+   ser.
+Wheeler, W.C. 2003a. Iterative pass optimization
+     of sequence data. Cladistics 19: 254–260.
+Wheeler, W.C. 2003b. Implied alignment: a syn-
+   apomorphy-based multiple sequence alignment
+   method. Cladistics 19: 261–268.
+Wheeler, W.C. 2003c. Search-based optimization.
+   Cladistics 19: 348–355.
+Wheeler, W.C., and D.S. Gladstein. 1992. Malign,
+   version 1.2. New York: Computer software dis-
+   tributed by the authors.
+Wheeler, W.C., D.S. Gladstein, and J. De Laet.
+   1996–2003. POY: Phylogeny reconstruction via
+   optimization of DNA data. New York: Com-
+
+   puter software distributed by the authors and    
+   from the American Museum of Natural Histo-       
+   ry: ftp://ftp.amnh.org/pub/molecular/poy.        
+Widmer, A., S. Lo¨tters, and K.-H. Jungfer. 2000.  
+   A molecular phylogenetic analysis of the Neo-    
+   tropical dart-poison frog genus Phyllobates      
+   (Amphibia: Dendrobatidae). Naturwissenschaf-     
+   ten. Berlin 87: 559–562.                       
+Wieczorek, A.M., A. Channing, and R.C. Drewes.      
+   1998. A review of the taxonomy of the Hyper-     
+   olius viridiﬂavus complex. Herpetological Jour-
+   nal. London 8: 29–34.                          
+Wieczorek, A.M., R.C. Drewes, and A. Channing.      
+   2000. Biogeography and evolutionary history      
+   of Hyperolius species: application of molecular  
+   phylogeny. Journal of Biogeography. Oxford       
+   27: 1231–1243.                                 
+Wieczorek, A.M., R.C. Drewes, and A. Channing.      
+   2001. Phylogenetic relationships within the Hy-  
+   perolius viridiﬂavus complex (Anura: Hypero-   
+   liidae), and comments on taxonomic status.       
+   Amphibia-Reptilia 22: 155–166.                 
+Wied-Neuwied, M.A.P., Prinz zu. 1825. Beitra¨ge    
+   zur Naturgeschichte von Brasilien, vol. 1 (Ver-  
+   zeichniss der Amphibien). Weimar, Germany:       
+   Gr. H.S. priv. Landes-Industrie-Comptoir.        
+Wiedersheim, R. 1877. Das Kopfskelet der Uro-       
+   delen (Fortsetzung). Morphologisches Jahr-       
+   buch. Leipzig 3: 459–548.                      
+Wiens, J.J. 1989. Ontogeny of the skeleton of       
+   Spea bombifrons (Anura: Pelobatidae). Journal    
+   of Morphology 202: 29–51.                      
+Wiens, J.J., R.M. Bonett, and P.T. Chippindale.     
+   2005. Ontogeny discombobulates phylogeny:        
+   paedomorphosis and higher-level salamander       
+   relationships. Systematic Biology 54: 91–110.  
+Wild, E.R. 1995. New genus and species of Am-       
+   azonian microhylid frog with a phylogenetic      
+   analysis of New World genera. Copeia 1995:       
+   837–849.                                       
+Wild, E.R. 1997. Description of the adult skeleton  
+   and developmental osteology of the hyperossi-    
+   ﬁed horned frog, Ceratophrys cornuta (Anura:   
+   Leptodactylidae). Journal of Morphology 232:     
+   169–206.                                       
+Wild, E.R. 1999. Description of the chondrocra-     
+   nium and osteogenesis of the chacoan burrow-     
+   ing frog, Chacophrys pierotti (Anura: Lepto-     
+   dactylidae). Journal of Morphology 242: 229–   
+   249.                                             
+Wiley, E.O. 1981. Phylogenetics. The theory and     
+   practice of phylogenetic systematics. New        
+   York: Wiley Interscience.                        
+Wilkinson, J.A., and R.C. Drewes. 2000. Char-       
+   acter assessment, genus level boundaries, and    
+   phylogenetic analysis of the family Rhacophor-   
+   idae: a review and present day status. Contem-
+   porary Herpetology 2000: 1–14. [Electronic
+   journal available at http://www.nhm.ac.uk/
+   hosted࿞sites/ch/ch/index.htm.]
+ Wilkinson, J.A., R.C. Drewes, and O.L. Tatum.
+   2002. A molecular phylogenetic analysis of the
+   family Rhacophoridae with an emphasis on the
+   Asian and African genera. Molecular Phyloge-
+     netics and Evolution 24: 265–273.
+Wilkinson, J.A., M. Matsui, and T. Terachi. 1996.
+   Geographic variation in a Japanese tree frog
+     (Rhacophorus arboreus) revealed by PCR-aid-
+     ed restriction site analysis of mtDNA. Journal
+   of Herpetology 30: 418–423.
+Wilkinson, M. 1991. Adult tooth crown morphol-
+   ogy in the Typhlonectidae (Amphibia: Gym-
+   nophiona): a reinterpretation of variation and its
+     signiﬁcance. Zeitschrift fu¨r Zoologische Syste-
+   matik und Evolutionsforschung 29: 304–311.
+Wilkinson, M. 1997. Characters, congruence and
+     quality: a study of neuroanatomical and tradi-
+   tional data in caecilian phylogeny. Biological
+     Reviews of the Cambridge Philosophical Soci-
+    ety 72: 423–470.
+Wilkinson, M., S.P. Loader, D.J. Gower, J.A.
+   Sheps, and B.L. Cohen. 2003. Phylogenetic re-
+   lationships of African caecilians (Amphibia:
+   Gymnophiona): insights from mitochondrial
+   rRNA gene sequences. African Journal of Her-
+     petology 52: 83–92.
+Wilkinson, M., and R.A. Nussbaum. 1996. On the
+   phylogenetic position of the Uraeotyphlidae
+     (Amphibia: Gymnophiona). Copeia 1996: 550–
+   562.
+Wilkinson, M., and R.A. Nussbaum. 1999. Evo-
+   lutionary relationships of the lungless caecilian
+     Atretochoana eiselti (Amphibia: Gymnophiona:
+   Typhlonectidae). Zoological Journal of the Lin-
+   nean Society. London 126: 191–223.
+Wilkinson, M., J.A. Sheps, O.V. Oommen, and
+     B.L. Cohen. 2002. Phylogenetic relationships
+   of Indian caecilians (Amphibia: Gymnophiona)
+   inferred from mitochondrial rRNA gene se-
+     quences. Molecular Phylogenetics and Evolu-
+   tion 23: 401–407.
+  Wilkinson, M., J. Thorley, and M.J. Benton. 1997.
+   Uncertain turtle relationships. Nature. London
+   387: 466.
+Withgott, J. 2000. Is it ‘‘So long, Linnaeus’’?
+     BioScience 50: 646–651.
+Wogel, H., P.A. Abrunhosa, and J.P. Pombal, Jr.
+   2004. Vocalizations and aggressive behavior of
+   Phyllomedusa rohdei (Anura: Hylidae). Her-
+   petological Review 35: 239–243.
+Wu, L., R. Xu, Q. Dong, D. Li, and J. Liu. 1983.
+   A new species of Rana and records of amphib-
+   ians from Guizhou Province. Acta Zoologica
+
+   Sinica 29: 66–70. [In Chinese, with English      
+   summary.]                                          
+Wu, S.-H. 1994. Phylogenetic relationships, high-     
+   er classiﬁcation and historical biogeography of  
+   the microhyloid frogs (Lissampibia: Anura:         
+   Brevicipitidae and Microhylidae). Ph.D. disser-    
+   tation. Department of Zoology, University of       
+   Michigan, Ann Arbor.                               
+Xie, F., and Z. Wang. 2000. [Review of the sys-       
+   tematics of pelobatids.] Cultum Herpetologica      
+   Sinica 8: 356–370. [In Chinese.]                 
+Yang, D. (editor), 1991a. [The Amphibia-fauna of      
+   Yunnan.] Beijing, China: China Forestry Pub-       
+   lishing House. [In Chinese.]                       
+Yang, D. 1991b. Phylogenetic systematics of the       
+   Amolops group of ranid frogs of southeastern       
+   Asia and the Greater Sunda Islands. Fieldiana.     
+   Zoology. New Series 63: 1–42.                    
+Yang, D., and S. Li. 1980. A new species of the       
+   genus Rana from Yunnan. Zoological Research.       
+   Kunming 1: 261–264.                              
+Yokoyama, S., H. Zhang, F.B. Radlwimmer, and          
+   N.S. Blow. 1999. Adaptive evolution of color       
+   vision of the Comoran coelacanth (Latimeria        
+   chalumnae). Proceedings of the National Acad-      
+   emy of Sciences of the United States of Amer-      
+   ica 96: 6279–6284.                               
+Young, B.E., K.R. Lips, J.K. Reaser, R. Iba´n˜ez D.,
+   A.W. Salas, J.R. Ceden˜o, L.A. Coloma, S.R.       
+   Ron, E. La Marca, J.R. Meyer, A. Mun˜oz, F.       
+   Bolan˜os, G. Chaves, and D. Romo. 2001. Pop-      
+   ulation declines and priorities for amphibian      
+   conservation in Latin America. Conservation        
+   Biology 15: 1213–1223.                           
+Zacj, I., and J.W. Arntzen. 1999. Phylogenetic re-    
+   lationships of the European newts (genus Tri-      
+   turus) tested with mitochondrial DNA sequence      
+   data. Contributions to Zoology. Amsterdam 68:      
+   78–81.                                           
+Zald´ıvar-Rivero´n, A., V. Leo´n-Regagnon, and A. 
+   Nieto-Montes de Oca. 2004. Phylogeny of the        
+   Mexican coastal leopard frogs of the Rana ber-     
+   landieri group based on mtDNA sequences.           
+   Molecular Phylogenetics and Evolution 30: 38–    
+   49.                                                
+Zardoya, R., and A. Meyer. 1996. Evolutionary         
+   relationships of the coelacanth, lungﬁshes, and  
+   tetrapods based on the 28S ribosomal RNA           
+   gene. Proceedings of the National Academy of       
+   Sciences United States of America 93: 5449–      
+   5454.                                              
+Zardoya, R., and A. Meyer. 1998. Complete mi-         
+   tochondrial genome suggests diapsid afﬁnities    
+   of turtles. Proceedings of the National Acade-     
+   my of Sciences of the United States of America     
+   95: 14226–14231.                                 
+Zardoya, R., and A. Meyer. 2000. Mitochondrial        
+   evidence on the phylogenetic position of
+     caecilians (Amphibia: Gymnophiona). Genetics
+   155: 765–775.
+Zardoya, R., and A. Meyer. 2001. On the origin
+     of and phylogenetic relationships among living
+   amphibians. Proceedings of the National Acad-
+   emy of Sciences of the United States of Amer-
+   ica 98: 7380–7383.
+Zhang, P., Y.Q. Chen, Y.F. Liu, H.-Y. Zhou, and
+   L.H. Qu. 2003a. The complete mitochondrial
+   genome of the Chinese giant salamander, An-
+     drias davidianus (Amphibia: Caudata). Gene
+   311: 93–98.
+Zhang, P., Y.Q. Chen, H.-Y. Zhou, X.L. Wang, and
+   L.H. Qu. 2003b. The complete mitochondrial
+   genome of a relic salamander, Ranodon sibiri-
+   cus (Amphibia: Caudata) and implications for
+   amphibian phylogeny. Molecular Phylogenetics
+     and Evolution 28: 620–626.
+Zhao, E. 1994. A study on vomerine teeth pattern
+   of the genus Liua, with revised diagnoses of
+     Liua and Ranodon (Caudata: Hynobiidae).
+   Sichuan Journal of Zoology 13: 162–166.
+Zhao, E., and S.-Q. Li. 1984. A new species of
+   the genus Platymantis (Amphibia: Ranidae)
+   from Xizang. Acta Herpetologica Sinica, New
+   Series 3: 55–57. [In Chinese with English sum-
+     mary.]
+  Ziegler, M., and M. Vences. 2002. The tadpole of
+    Rhacophorus verrucosus Boulenger, 1893,
+    from Vietnam (Amphibia: Anura: Rhacophori-
+    dae). Faunistische Abhandlungen. Staatliches
+   Museum fu¨r Tierkunde in Dresden 22: 319–
+   327.
+  Zug, G.R., L.J. Vitt, and J.P. Caldwell. 2001. Her-
+   petology: an introductory biology of amphibi-
+   ans and reptiles. New York: Academic Press.
+Zweifel, R.G. 1955. Ecology, distribution, and
+   systematics of frogs of the Rana boylei group.
+     University of California Publications in Zool-
+       ogy 54: 207–292.
+Zweifel, R.G. 1956. Two pelobatid frogs from the
+   Tertiary of North America and their relation-
+   ships to fossil and recent forms. American Mu-
+     seum Novitates 1762: 1–45.
+Zweifel, R.G. 1971. Results of the Archbold Ex-
+   peditions. No. 96. Relationships and distribu-
+     tion of Genyophryne thomsoni, a microhylid
+   frog of New Guinea. American Museum Nov-
+   itates 2469: 1–13.
+  Zweifel, R.G. 1972. Results of the Archbold Ex-
+   peditions. No. 97. A revision of the frogs of the
+   subfamily Asterophryinae, family Microhyli-
+     dae. Bulletin of the American Museum of Nat-
+   ural History 148: 411–546.
+Zweifel, R.G. 1986. A new genus and species of
+     microhylid frog from the Cerro de la Neblina
+   region of Venezuela and a discussion of rela-
+
+   tionships among New World microhylid gen-      
+   era. American Museum Novitates 2863: 1–24.   
+Zweifel, R.G. 2000. Partition of the Australopa-  
+   puan microhylid frog genus Sphenophryne with   
+   descriptions of new species. Bulletin of the   
+   American Museum of Natural History 253: 1–
+     130.
+Zwickl, D.J., and D.M. Hillis. 2002. Increased
+   taxon sampling greatly reduces phylogenetic
+   error. Systematic Biology 51: 588–598.
+
+
+
+
