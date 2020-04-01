@@ -1,0 +1,818 @@
+
+RAFFLES BULLETIN OF ZOOLOGY 62: 330–338
+Date of publication: 30 May 2014
+http://zoobank.org/urn:lsid:zoobank.org:pub:CAABF079-BFA8-48C9-986C-2BD100B3CB7E
+        The land snail genus Pterocyclos Benson, 1832 (Caenogastropoda:
+        Cyclophoridae) from Thailand and Peninsular Malaysia, with
+        descriptions of two new species
+            Chirasak Sutcharit*, Piyoros Tongkerd & Somsak Panha
+             Abstract. Specimens of the operculated land snail genus Pterocyclos Be
+             Malaysia were investigated based on their shell characteristics. Type 
+             and compared with newly collected specimens. Two new species are descr
+             & Panha, new species, from Tam Sumano, Patthalung, Thailand, adjacent 
+             Pterocyclos frednaggsi Sutcharit & Panha, new species, collected from 
+             adjacent areas in Peninsular Malaysia. Two species that hitherto were 
+             1851 and P. subulatus Sykes, 1903, were retained in this genus, while 
+             re-assigned to other genera, viz. Pearsonia regelspergeri (Morgan, 188
+             Conversely, two previously described species in other genera (Rhiostom
+             umbraticus Benthem Jutting, 1949) are here transferred to Pterocyclos,
+             umbraticus (Benthem Jutting, 1949). To stabilise the nomenclatural sta
+             Benson, 1832, and Pterocyclos spaleotes are designated herein.
+             Key words. Taxonomy, systematics, limestone, biodiversity, Gastropoda
+                        INTRODUCTION                                               
+The operculate land snails of the superfamily Cyclophoroidea                       
+are one of the more diverse terrestrial gastropods and show                        
+a wide variety of lifestyles, ranging from ground dwelling                         
+species that live hidden in the soil to tree climbing, arboreal                    
+species that live in the canopy. It is a species-rich taxon                        
+with turbinate to discoidal shells in which the last whorl is                      
+sometimes disconnected (Kobelt, 1902; Wenz, 1938; Stanisic,                        
+1998). In the Cyclophoroidea, the family Cyclophoridae Gray,                       
+1847, is the largest taxon group containing about 35 nominal                       
+genera (Wenz, 1938; Vaught, 1989). Their classiﬁcations
+were established by Kobelt (1902, 1911) utilising shell                            
+characteristics and have remained largely unchanged since                          
+then. However, recent modern works on the diversity of                             
+land snails in Southeast Asia using various systematic                             
+characters, such as karyotypic and DNA sequence analyses,                          
+have suggested that many cyclophoroidid species and taxa                           
+at the generic level need to be largely revised (Vermeulen,                        
+1999; Prasankok et al., 2009, 2011; Kongim et al., 2010,                           
+2013; Marzuki & Clements, 2013; Nantarat et al., 2014).                            
+This applied, for example, to the genus Pterocyclos Benson,                        
+1832, where additional new materials are now available from                        
+various localities in Thailand and Peninsular Malaysia for                         
+a taxonomic study.                                                                 
+Animal Systematics Research Unit, Department of Biology, Faculty of Science,       
+Chulalongkorn University, Bangkok 10330, Thailand; Email: jirasak4@yahoo.com       
+(*corresponding author CS); somsak.pan@chula.ac.th (SP)                            
+© National University of Singapore                                                 
+ISSN 2345-7600 (electronic) | ISSN 0217-2445 (print)
+                                                                              330
+                              Taxonomy & Systematics
+nson, 1832, from Thailand and Peninsular
+specimens and topotypic material were studied
+ibed, viz. Pterocyclos diluvium Sutcharit
+areas in Thailand, and Malaysia, and
+Bukit Chintamani, Pahang, Malaysia, and
+included in Pterocyclos, viz. P. blandi Benson,
+two other former Pterocyclos species were
+5) and Ptychopoma perrieri (Morlet, 1889).
+a spaleotes Tomlin, 1932, and Cyclotus
+ viz. P. spaleotes (Tomlin, 1932) and P.
+tus, the lectotype of Pterocyclos rupestris
+Pterocyclos has a wide distribution from South and Southeast
+Asia to southern China (Kobelt, 1902, 1911; Gude, 1921;
+Wenz, 1938; Yen, 1939; Benthem Jutting, 1948). The current
+delimitation of species is still reliant on the classical works of
+Kobelt (1902, 1911), which are mainly based on the degree
+of the apertural lip expansion, the shape of the accessory
+breathing structures, and other shell characters, including the
+calcareous cup-shaped operculum. However, these characters
+do not provide a consistent and unambiguous basis for the
+separation of the currently recognised genera in the tribe
+Pterocyclini.
+Currently, the genus Pterocyclos is comprised of about 45
+nominal species of which about 20 have been described
+from South Asia and Burma, and about 10 from the Greater
+Sunda Islands. Some are known from Indochina and southern
+China. Only four nominal species are reported from Thailand
+and Peninsular Malaysia (Kobelt, 1902, 1911; Gude, 1921;
+Benthem Jutting, 1949; Hemmen & Hemmen, 2001; Maassen,
+2001). This somewhat odd situation calls for a taxonomic
+study of the species in these regions. However, in order to
+do so it is necessary to investigate the type material of all
+relevant Pterocyclos species in the ﬁrst step and to verify
+their distinct generic placement. Against this background,
+the present study aims to conduct a taxonomic study of
+the Pterocyclos species found in Thailand and Peninsular
+Malaysia, including a comparison of type material and
+topotypic specimens. In addition, two overlooked species
+from other genera are herein redescribed and assigned to
+the genus Pterocyclos. Unique name-bearing types are also
+designated to stabilise the names.
+
+                MATERIAL AND METHODS                                       
+Several areas were surveyed in eastern to southern Thailand
+and in Peninsular Malaysia (Fig. 1). Specimens were                        
+collected and processed for classiﬁcation and identiﬁcation.               
+The terminology used in the description of their shell                     
+characters, including the accessory respiratory structures                 
+and the apertural lip expansion, follow Benthem Jutting                    
+(1949), Cox (1964), and Rees (1964). The type specimens                    
+and topotypic materials of all known nominal species that                  
+have been included in the genus Pterocyclos were examined                  
+and compared. The “shell” and “specimen in ethanol”                        
+mentioned in the examined material refer to the empty shells               
+and preserved specimens respectively. Descriptions of the                  
+new species herein are attributed to the ﬁrst and the third                
+author, Sutcharit and Panha, respectively.                                 
+Museum collections are abbreviated as follows: CUMZ,                       
+Chulalongkorn University, Museum of Zoology, Bangkok;                      
+NHMUK, The Natural History Museum, London; NMW,                            
+National Museum of Wales, Cardiff; SMF, Forschungsinstitut                 
+und Naturmuseum Senckenberg, Frankfurt am Main.; UMZC,                     
+University Museum of Zoology Cambridge, Cambridge;                         
+ZMA, Zoological Museum, Amsterdam, The Netherlands.                        
+Fig. 1. Distribution map of Pterocyclos species examined in this           
+study. The numbered locality names are detailed in Table 1. The
+approximate type locality of Pterocyclos subalatus, and Pterocyclos        
+umbraticus, are indicated by locality numbers 3 and 5, respectively.
+                                                                      331
+                             RESULTS
+This study recognised six nominal Pterocyclos species in
+Thailand and Peninsular Malaysia, two of which are new to
+science. Four nominal species, Pterocyclos blandi Benson,
+1851, P. regelspergeri Morgan, 1885, P. perrieri Morlet,
+1889 and P. subalatus Sykes, 1903 have previously been
+reported from Thailand and Peninsular Malaysia (Morgan,
+1885; Morlet, 1889; Kobelt, 1902, 1911; Hemmen &
+Hemmen, 2001; Maassen, 2001). However, after examining
+the type material and topotypic specimens, only P. blandi
+and P. subalatus were retained in the genus Pterocyclos. In
+contrast, because “Pterocyclos” regelspergeri showed a deep
+sutural groove, a calcareous plate-shaped operculum, and
+a non-expanded apertural lip, this species was transferred
+to the genus Pearsonia Kobelt, 1902. Similarly, topotypic
+shells of “Pterocyclos” perrieri from Srakeo, Thailand, had
+a corneous multi-spiral operculum, and an upper peripheral-
+lip expansion near the suture, two characters typical of
+the genus Ptychopoma Möllendorff, 1885, and to which
+this species was hence assigned. In addition, two nominal
+species previously classiﬁed as Rhiostoma spaleotes Tomlin,
+1932, and Cyclotus umbraticus Benthem Jutting, 1949, were
+transferred to the genus Pterocyclos.
+                  SYSTEMATIC ACCOUNT
+              Family Cyclophoridae Gray, 1847
+           Subfamily Cyclophorinae Gray, 1847
+     Tribe Pterocyclini Kobelt & Möllendorff, 1897
+               Genus Pterocyclos Benson, 1832
+Pterocyclos Benson, 1832: 11. Benson, 1836: 356. Troschel, 1848:
+    44. Benson, 1848: 345. Pfeiffer, 1849: 193. Adams & Adams,
+    1855: 277. Pfeiffer, 1858: 28. Pfeiffer, 1865: 41. Martens,
+    1867: 114. Wenz, 1938: 461. Bouchet & Rocroi, 2005: 146.
+Steganostoma Troschel, 1837: 163. Adams & Adams, 1855: 277.
+    Wenz, 1938: 461.
+Pterocyclus Agassiz, 1848: 908 [unjustiﬁed emendation; ICZN,
+    1999: Art. 19.1 and 33.2.3]. Nevill, 1878: 260. Fischer, 1885:
+    745. Kobelt & Möllendorff, 1897: 113. Kobelt, 1902: 160,
+    161. Kobelt, 1911: 719. Gude, 1921: 97. Vaught, 1989: 15.
+Type species. Pterocyclos rupestris Benson, 1832 by
+monotypy. The specimen that matches best with the original
+description and ﬁgures (Benson, 1832: 13, pl. 2, ﬁg. 1A–C)
+is here designated as the lectotype UMZC 2359.1 (Fig. 3A,
+no operculum) to stabilise the name. The other specimens
+become the paralectotypes UMZC 2359.2 (4 shells, Fig. 3B).
+The type locality is from “outlying rocks of the Rajmahal
+range of Hill, India”. Subsequently, based on differences in
+the shell colour, Benson (1832: 13) also recognised three
+varieties (var. 1–3) in the same lot of specimens. However,
+only the syntype UMZC 2359.3 of “var. 3” (1 shell, Fig.
+3C) could be distinguished from the others.
+Diagnosis. Apertural lip narrow to wide, wing-shaped and
+overhanging the accessory respiratory structure. This last
+
+structure varies from notch-like to completely tubular in      
+shape. The last whorl is usually completely attached to the    
+penultimate whorl (only in a few species is the last whorl     
+partly separated from the penultimate whorl). Operculum        
+calcareous with a shallow to deep concave proﬁle, inside       
+covered with a corneous layer, and outside with many           
+calcareous counterclockwise multilamellae. These characters    
+made Pterocyclos s.s. different from the other known           
+pterocyclini genera.
+External features. Animal shows blackish patches and/          
+or mottles scattered on a whitish body, faded near mantle      
+cavity (Fig. 2A–C). Head with pair of long cephalic tentacles  
+(ct), each containing dark eyespot at outer base (Fig. 2A).    
+Anterior body short with genital groove on right side running  
+downwards from anterior end of pallial cavity. Posterior       
+body long, foot broad, with operculum attached dorsally
+Fig. 2. A–C, General anatomy of Pterocyclos frednaggsi Sutchari
+4944, showing: A, right side of male with testis and external p
+female with lung cavity and heart. D, E, Radula morphology of: 
+frednaggsi Sutcharit & Panha, new species, paratype CUMZ 4581.
+of posterior body. Animal dioecious, male has both long
+conical external penis (p) on right side below tentacles, and
+sperm groove (sg) passed along to tip of external penis (Fig.
+2A); female shows only vaginal groove (vg) on right side
+(Fig. 2B). Lung cavity (lc) has large vein (v) and reticulated
+vessels. Ctenidium and osphradium absent. Mantle collar
+(mc) smooth and slightly thickened. Columellar muscle (cm)
+broad and thickened (Fig. 2B).
+Genitalia. Testis (te) with branched tubules, bright orange,
+located around 2–3 whorls from apex. Vas deferens (vd)
+thin, straight tube, connected between testis and prostate
+gland (pg). Narrow sperm groove connected from genital
+opening on the right side of snail to tip of external penis.
+Long cylindrical shaped external penis situated posteriorly
+below tentacles (Fig. 2A).
+t & Panha, new species, from Gua Musang, Kelantan, Malaysia CUMZ
+enis; B, right side of female with ovary and vaginal groove; C, left side of
+D, Pterocyclos spaleotes, topotype specimen CUMZ 4585; E, Pterocyclos
+          332
+
+Female: Ovary (ov) bright orange colour and multi-lobulate                  
+glands embedded with brownish digestive glands. Oviduct                     
+(od) with thin tube, connected between ovary and uterus
+(ut) (Fig. 2B).                                                             
+Radula morphology. Typical taenioglossate radula were                       
+observed (Fig. 2D, E), teeth arranged in v-shaped row,                      
+each transverse row contained 7 teeth (2-1-1-1-2). Central                  
+tooth large, symmetrical triangular shape, with 2–4 well                    
+developed cusps on each side. Lateral and marginal teeth
+slightly slender, inclining to central tooth, with 3–4 cusps.               
+Shape of teeth and number of cusps vary among species.                      
+Remarks. Two different spellings, viz. Pterocyclos and                      
+Pterocyclus, are widely used in the literature and both                     
+attributed to Benson (1832). However, the name Pterocyclus
+is an unjustiﬁed emendation that has been erroneously used                  
+as a valid name (e.g., Nevill, 1878; Fischer, 1885; Kobelt &
+Möllendorff, 1897; Kobelt, 1902, 1911). Wenz (1938) was                     
+the ﬁrst to place Pterocyclus in the synonymy of Pterocyclos.               
+In addition, he attributed the authorship of Pterocyclus to
+Crosse (1868). However, it now seems that Agassiz (1848:                    
+908) was responsible for this unjustiﬁed emendation. Hence,                 
+the proper authorship and date of the name Pterocyclus is                   
+“Agassiz, 1848” (ICZN, 1999: Art. 50.5).                                    
+Nomenclaturally, Pterocyclus Agassiz, 1848 [Mollusca,                       
+Gastropoda] is a junior homonym of Pterocyclus Gray,                        
+1846 [Aves, Passeriformes, Tomaliidae]. Thus, it should not                 
+be used as valid generic name (ICZN, 1999, Arts. 23, 52),
+even if Pterocyclus Gray, 1846 is itself a junior subjective                
+synonym of Garrulax Lesson, 1831 (Deignan et al., 1964;                     
+Sibley & Monroe, 1999).                                                     
+               Pterocyclos blandi Benson, 1851                              
+                     (Figs. 1, 3E, F; Table 1)
+Pterocyclos blandi Benson, 1851: 196, pl. 5 ﬁg. 1. Type locality:           
+    Pulo Susson insulam prope Pulo Penang jacentem. Reeve, 1863:
+    Pterocyclos, pl. 2 species 7. Morgan, 1885: 400. Kongim et              
+    al. 2013: 16, ﬁg. 2B.                                                   
+Pterocyclus blandi—Kobelt, 1902: 163. Laidlaw, 1928: 30.
+    Maassen, 2001: 26.                                                      
+Other material examined. Teluk Ewa, Pulau Langkawi, Kedah,                  
+Malaysia: CUMZ 3880 (64 shells), 4582 (44 shells, Fig. 3E, F),              
+4583 (70 shells), 4584 (3 shells). Gua Cerita, Northern Island, Pulau       
+Langkawi, Kedah, Malaysia: CUMZ 3879 (9 shells).                            
+Remark. Pterocyclos blandi was described by Benson                          
+(1851) in one of the two papers (out of nearly 60) in which                 
+Benson dealt with land snails and provided illustrations                    
+of specimens (Naggs, 1997). The species identiﬁcation is
+unambiguous and there are no type specimens. The species                    
+differs from all other Pterocyclos species by its depressed                 
+and thick shell, and transparent periostracum. The shell                    
+colour is usually uniform brown to purplish, rarely with                    
+variegated brown zigzag pattern, apertural lip whitish; upper               
+part of the apertural lip broadly expanded and wing-shaped;                 
+lower part of the apertural lip thickened and not expanded.                 
+Accessory respiratory structure triangular, overhanging by                  
+                                                                       333
+the upper part of the apertural lip. Operculum calcareous,
+slightly concave inside, and multilamellae outside.
+The species was not found in the limestone areas of Perlis,
+Kedah, Perak and Kelantan in Malaysia, and in southern
+Thailand. This suggests that P. blandi has a limited
+distribution and is possibly endemic to Langkawi Islands,
+Perlis, Malaysia, where the species seems to be declining
+due to exploitation of the limestone quarries.
+              Pterocyclos subalatus Sykes, 1903
+                            (Figs. 1, 3G)
+Pterocyclos subalatus Sykes, 1903: 195, 196, pl. 20, ﬁgs 21, 22.
+    Type locality: Gunong Inas, at 5000 feet.
+Pterocyclus subalatus—Laidlaw, 1928: 30. Maassen, 2001: 27.
+Type specimens. Holotype UMZC 1032 (height 8.8 ×
+diameter 17.2 mm, Fig. 3G) (no other material was available).
+Remark. Pterocyclos subalatus has been described in detail,
+based on two shells (Sykes, 1903). Because of its relatively
+small size (diameter about 15 mm), and its thick and brownish
+periostracum, this species superﬁcially resembles the genus
+Cyclotus. However, the holotype clearly shows the typical
+characters of Pterocyclos, i.e., the expanded apertural lip, with
+thin channel and shortly expanded of apertural lip at suture
+area, operculum low cup shape, and multilamellae outside.
+This species clearly differs from P. spaleotes and P.
+umbraticus because its last whorl is not disconnected from the
+penultimate whorl, while its accessory respiratory structure
+has a shallow channel. It further differs from P. umbraticus
+by having a smooth shell surface and much smaller shell size.
+             Pterocyclos spaleotes (Tomlin, 1932)
+                  (Figs. 1, 2D, 3H–J; Table 1)
+Rhiostoma spaleotes Tomlin, 1932: 227, pl. 26 text ﬁgure. Type
+    locality: In a hole in the rock just outside the Batu Caves, near
+    Kula Lumpur, Selangor. Laidlaw, 1932: 36. Maassen, 2001: 28.
+Type specimens. The specimen herein designated as the lectotype
+NMW 1955.158.01107 (height 11.4 × diameter 22.8 mm; Fig. 3H, no
+operculum), to stabilise the name, is the shell ﬁgured in the original
+description (Tomlin, 1932, pl. 26 text ﬁgure). The other specimen
+from the same lot of the lectotype becomes the paralectotype NMW
+1981.118.02705 (1 shell, Fig. 3I, no operculum).
+Other material examined. Topotypes from Batu Cave, Kuala
+Lumpur, Malaysia (03°14.276' N, 101°41.079' E): CUMZ 4585
+(35 specimens in ethanol, Fig. 3J), 4747 (52 shells).
+Remark. Pterocyclos spaleotes is only known from its type
+locality, despite several surveys in nearby areas. Originally, it
+was described from two shells without an operculum, which
+leads Tomlin (1932) to assign it to the genus Rhiostoma
+Benson, 1860. However, after examining the types (Fig.
+3G, H) and topotypic specimens (Fig. 3I), this generic
+placement seems untenable. The unique characters of P.
+spaleotes are: the small and thin shell, the corneous and
+transparent periostracum, and the surface with a variegated
+
+Fig. 3. A–D, Shell and operculum of Pterocyclos rupestris: A, lectotype UMZC 2359.1; B, paralectotype UMZC 2359.2; C, syntype of
+var. 3 UMZC 2359.3; D, operculum from same lot of the paralectotype (showing top, side and bottom views). E, F, Specimens of P.
+blandi from Langkawi Island, Perlis, Malaysia CUMZ 4582. G, Holotype UMZC 1032 of P. subalatus. H–J, Pterocyclos spaleotes: H,
+lectotype NMW 1955.158.01107, I, paralectotype NMW 1981.118.02705; J, topotype specimen CUMZ 4585. K, Holotype ZMA Moll.
+135622 of P. umbraticus. L–P, Pterocyclos diluvium Sutcharit & Panha, new species: L, holotype CUMZ 4595, M, paratype CUMZ 4588,
+N, specimen from Gua Cenderawasih, Perlis, Malaysia CUMZ 4592; and O, P, specimens from Tam Tone-din, Kuan-Don, Satun, Thailand
+CUMZ 4590 showing a: O, uniform whitish shell; and P, dark brown colour patterns. Q–S, Pterocyclos frednaggsi Sutcharit & Panha, new
+species: Q, holotype CUMZ 4594; R, paratype CUMZ 4581; S, specimen from Gua Pulai, Gua Musang, Kelantan, Malaysia CUMZ 4597.
+                                                                         334
+Fig. 3. A–D, Shell and operculum of Pterocyclos rupestris: A, lectotype UMZC 2359.1; B, paralectotype UMZC 2359.2; C, syntype of
+var. 3 UMZC 2359.3; D, operculum from same lot of the paralectotype (showing top, side and bottom views). E, F, Specimens of P.
+blandi from Langkawi Island, Perlis, Malaysia CUMZ 4582. G, Holotype UMZC 1032 of P. subalatus. H–J, Pterocyclos spaleotes: H,
+lectotype NMW 1955.158.01107, I, paralectotype NMW 1981.118.02705; J, topotype specimen CUMZ 4585. K, Holotype ZMA Moll.
+135622 of P. umbraticus. L–P, Pterocyclos diluvium Sutcharit & Panha, new species: L, holotype CUMZ 4595, M, paratype CUMZ 4588,
+N, specimen from Gua Cenderawasih, Perlis, Malaysia CUMZ 4592; and O, P, specimens from Tam Tone-din, Kuan-Don, Satun, Thailand
+CUMZ 4590 showing a: O, uniform whitish shell; and P, dark brown colour patterns. Q–S, Pterocyclos frednaggsi Sutcharit & Panha, new
+species: Q, holotype CUMZ 4594; R, paratype CUMZ 4581; S, specimen from Gua Pulai, Gua Musang, Kelantan, Malaysia CUMZ 4597.
+                                                                         334
+
+Table 1. Shell size variation in Pterocycl
+Species and Locality (CUMZ nos.)          
+Pterocyclos blandi                        
+1. Pulau Langkawi, Malaysia               
+(3880, 4582, 4583, 4584)                  
+2. Gua Cerita, Pulau Langkawi,            
+Malaysia (3879)                           
+Pterocyclos spaleotes                     
+4. Batu Cave, Kuala Lumpur,               
+Malaysia (4585, 4747)                     
+Pterocyclos diluvium Sutcharit & Panha, ne
+6. Tam Sumano, Patthalung,                
+Thailand (4588)                           
+7. Tam Puttha Kodome, Patthalung,         
+Thailand (3812)                           
+8. Tam Phaya Hong, Kong Ra,               
+Patthalung, Thailand (4870)               
+9. Tarutao National Park, Satun,          
+Thailand (4589, 4593, 4749, 4750)         
+10. Tam Tone-din, Kuan-Don, Satun,        
+Thailand (4590, 4591, 4866)               
+11. Gua Kelam, Perlis,                    
+Malaysia (3877, 4587)
+12. Perlis State Park, Malaysia (4586)    
+13. Sungi Jenia, Perlis, Malaysia (3878)  
+14. Gua Cenderawasih, Perlis,             
+Malaysia (3881, 4592)
+Pterocyclos frednaggsi Sutcharit & Panha, 
+15. Bukit Chintamanis, Pahang,            
+Malaysia (4581, 4571)                     
+16. Gua Pulai, Gua Musang, Kelanta,       
+Malaysia (4597)
+brown zigzag colour pattern and a dark bro
+band. The last whorl is usually partially 
+the penultimate whorl. Aperture rounded, w
+a little expansion of the upper part. The 
+structure has a short, tubular shape. The 
+calcareous, slightly concave inside and mu
+Pterocyclos spaleotes clearly differs from
+species by the shape of its accessory resp
+located on the sutural area, and by its ca
+shaped and multilamellae operculum. Moreov
+has been recorded (type locality) much fur
+Rhiostoma, which does not occur south of t
+karst in Perlis, Malaysia. Finally, prelim
+the DNA sequence of a fragment of the cyto
+subunit I gene supports the transfer of Rh
+to Pterocyclos (Tongkerd, unpublished data
+     Pterocyclos umbraticus (Benthem Jutti
+                            (Figs. 1, 3K) 
+Cyclotus umbraticus Benthem Jutting, 1949:
+    Type locality: Maxwell’s Hill (700 fee
+os spp. Specimen collections and catalogue numbers are indicated in parentheses.
+  No. of                Ranges, Mean ± S.D. (mm) of the Shell                     Number of
+Specimens                                                                           Whorls
+             Height (H)      Diameter (D)  H/D Ratio
+                                                                                    4¾–5½
+                                                                                     4¾–5
+180           8.9–13.2        19.3–25.4     0.42–0.57                               4¾–5½
+             11.0 ± 0.84     22.2 ± 1.28   0.50 ± 0.03
+                              18.9–25.6     0.40–0.47                               4¾–5½
+              8.9–10.6       22.4 ± 1.85   0.44 ± 0.02                              4¾–5½
+9            9.7 ± 0.67                                                             4¾–5½
+                                                                                    4¾–5½
+                                                                                    4½–5¾
+                                                                                     4–5½
+                                                                                    4½–5½
+                                                                                    4¾–5½
+71            8.3–12.1        15.6–20.7     0.48–0.68                               4¾–5½
+             9.7 ± 0.92      17.8 ± 1.16   0.55 ± 0.04
+                                                                                    4½–5¼
+                                                                                    4½–5¼
+w species
+13            11.8–14.4       21.8–25.2     0.52–0.61
+             13.3 ± 0.74     23.8 ± 1.06   0.56 ± 0.02
+              12.0–15.6       20.1–25.0     0.57–0.62
+             13.2 ± 1.18     22.5 ± 1.65   0.59 ± 0.02
+9             11.3–15.0       22.9–27.1     0.47–0.57
+             13.1 ± 1.16     25.2 ± 1.54   0.52 ± 0.03
+                              18.6–27.2     0.49–0.61
+              9.8–14.4       21.7 ± 1.50   0.55 ± 0.03
+11           11.9 ± 0.95      26.1–31.5     0.43–0.55
+              13.0–16.6      28.0 ± 1.42   0.50 ± 0.04
+             14.5 ± 0.88      20.0–26.7     0.45–0.59
+              10.7–13.3      22.6 ± 1.96   0.52 ± 0.04
+54           11.7 ± 0.70      24.4–28.3     0.49–0.61
+              12.6–15.0      26.0 ± 1.30   0.53 ± 0.04
+             13.8 ± 0.97      18.7–24.0     0.47–0.62
+                             21.9 ± 1.49   0.54 ± 0.03
+41            9.9–14.2        21.0–27.5     0.49–0.61
+             11.9 ± 0.99     24.3 ± 1.51   0.55 ± 0.03
+              11.5–15.6
+             13.3 ± 1.25
+17
+7
+26
+29
+new species
+47            10.8–14.8       21.8–32.0     0.43–0.60
+             13.1 ± 0.78     25.6 ± 1.64   0.51 ± 0.03
+              13.4–16.8       26.6–31.3     0.49–0.56
+             14.8 ± 1.17     28.6 ± 1.80   0.52 ± 0.02
+9
+wn peripheral                Type specimens. Holotype ZMA Mol. 135622 (height 13.2 ×
+disconnected from            diameter 29.4 mm, Fig. 3K) (no other material was available).
+ith a white lip and
+accessory respiratory        Remarks. Benthem Jutting (1949) described this species
+operculum is                 based on a number of shells. We have examined the
+ltilamellae outside.         holotype, which clearly does not show the typical characters
+                             of Cyclotus and, therefore, we suggest transferring the
+ any Rhiostoma               species to Pterocyclos. The shell has a relatively large, short
+iratory structure            channel-like accessory respiratory structure at the apertural
+lcareous, low cup-           lip, and the upper part of the apertural lip is expanded near
+er, P. spaleotes             the suture. In contrast, Cyclotus usually has a relatively
+ther south than              small shell (diameter 10–30 mm), no accessory respiratory
+he limestone                 structure or only a short sutural tube, and has a corneous
+inary analysis of            or thin calcareous, plate-shaped operculum (Kobelt, 1902,
+chrome oxidase               1911; Wenz, 1938). Because of these differences, we suggest
+iostoma spaleotes            the re-assignment of this species to Pterocyclos.
+).
+                             The characters by which P. umbraticus differs from the
+ng, 1949)                    other Pterocyclos species are the chevron-shaped, zigzag
+                             sculpture on the upper shell surface, and the accessory
+                             respiratory structure that forms a nearly complete tube. In
+ 54, 55, pl. 1 ﬁg. 1.        addition, this species tends to live in non-limestone forests
+t). Maassen, 2001: 15.       of highland areas (altitude about 200–1600 m) in Pahang
+                             (Benthem Jutting, 1949).
+                        335
+
+ Pterocyclos diluvium Sutcharit & Panha, new species                 
+                     (Figs. 1, 3L–P; Table 1)                        
+Rhiostoma asiphon—Benthem Jutting, 1960: 11. [not Möllendorff,       
+    1893].                                                           
+Pterocyclos sp.—Kongim et al., 2013: 16: ﬁg. 2A.                     
+Type specimens. Holotype CUMZ 4595 (height 13.9 ×                    
+diameter 25.4 mm; Fig. 3L). Type locality: Tam Sumano,               
+Patthalung, Thailand (7°35'183" N, 99°52'80" E). Paratypes           
+CUMZ 4588 (11 specimens in ethanol, Fig. 3M), NHMUK                  
+(2 shells), NMW (2 shells), SMF (2 shells) are from the              
+type locality.                                                       
+Other material examined. Gua Cenderawasih, Perlis,                   
+Malaysia CUMZ 3881 (44 shells), 4592 (7 shells, Fig. 3N).            
+Sungi Jenis, Perlis, Malaysia: CUMZ 3878 (27 shells). Gua            
+Kelam, Perlis, Malaysia: CUMZ 3877 (39 shells), 4587                 
+(6 shells). Wang Kelian, Perlis, Malaysia: CUMZ 3875 (4
+shells). Perlis State Park, Malaysia: CUMZ 4586 (10 shells).         
+Khao Loop-chang, Padang Besar, Songkhla: CUMZ 3876                   
+(4 shells). Tam Tone-din, Kuan-Don, Satun: CUMZ 4590                 
+(19 shells; Fig. 3O, P), 4591 (16 shells), 4866 (4 shells).          
+Tarutao National Park, Satun: CUMZ 4589 (14 shells), 4593            
+(3 shells), 4749 (6 shells), 4750 (43 shells). Tam Kantiphol,        
+Tung Wa, Satun: CUMZ 4596 (6 shells). Tam Phaya Hong,                
+Kong Ra, Patthalung: CUMZ 4870 (13 shells). Tam Puttha               
+Kodome, Srinagarindra, Patthalung: CUMZ 3812 (9 shells).
+Etymology. The speciﬁc epithet is from the Latin word                
+“diluvium” meaning “inundation or flood”. This is a
+commemorative name referring to the most devastating                 
+ﬂooding in the history of the Kingdom of Thailand in the             
+year 2011.                                                           
+Diagnosis. This new species differs from P. blandi by having         
+a larger shell, a triangular shaped accessory respiratory            
+device, an upper apertural-lip that is only slightly expanded,
+and a white to brown shell colour. It differs from the other         
+newly described species, viz. P. frednaggsi Sutcharit &              
+Panha, new species, by having a white to brown shell, a              
+thin periostracum, a triangular shaped accessory respiratory
+device, and a narrow peripheral band. The differences from           
+Rhiostoma asiphon Möllendorff, 1893, are the white to                
+brownish shell colour, the low, cup-shaped operculum, and            
+the triangular accessory respiratory structure.                      
+Description. Shell medium to large, depressed, thickened,
+and widely umbilicated. Apex acute; spire nearly ﬂat; suture         
+wide; whorl 4–5 convex becoming increasingly regular. Shell          
+surface with thin growth lines; periostracum thin, corneous          
+to brownish colour. Last whorl rounded and stout, narrow             
+dark brown peripheral band usually present. Shell colour             
+monochrome white, brown or brown zigzag pattern. Aperture            
+rounded with white lip; upper peripheral-lip is slightly             
+expanded near suture. Apertural tube structure triangular            
+shaped, connected with a radial ridge parallel to apertural          
+lip margin. Operculum calcareous, slightly concave inside            
+and multilamellae outside.
+                                                                336
+Distribution. Pterocyclos diluvium Sutcharit & Panha, new
+species, has only been located in limestone areas. It is mainly
+distributed in southern Thailand in Trang, Patthalung, Satun,
+Krabi, and Songkhla Provinces. In Malaysia, it was recorded
+from limestone hills in Perlis and Kedah.
+Remarks. This new species is superﬁcially similar to R.
+asiphon with which it could easily be misidentiﬁed. Under the
+name “Rhiostoma asiphon”, not in the sense of Möllendorff
+(1893, 1894), several specimens were reported from many
+localities from Peninsular Malaysia (Benthem Jutting, 1960).
+We examined those specimens and revisited all mentioned
+localities, and conﬁrmed none of them could be identiﬁed
+as R. asiphon s.s. Moreover, the type specimens of R.
+asiphon (lectotype SMF 130509 and paralectotypes SMF
+130510, 130511, 130512) are clearly distinct from this new
+species. Especially, with the purplish to black shell colour,
+the calcareous cup-shaped operculum, and notch shaped
+apertural tube structure.
+Intraspeciﬁc variation was observed in the specimens from
+Tam Tone-din, Satun (CUMZ 4590). This population tended
+to show a wide range of shell colour variation from dark
+brown (Fig. 3P) to white (Fig. 3O). However, the unique
+accessory respiratory structure and the operculum suggest that
+the observed colour variation is likely to reﬂect intraspeciﬁc
+patterns, although this requires further corroboration, such
+as from molecular data, for conﬁrmation.
+Pterocyclos frednaggsi Sutcharit & Panha, new species
+              (Figs. 1, 2A–C, E, 3Q–S; Table 1)
+Type specimens. Holotype CUMZ 4594 (height 12.1
+× diameter 27.8 mm; Fig. 3Q). Type locality: Bukit
+Chintamanis, Pahang, Malaysia (03°26.798' N, 102°00.987'
+E). Paratypes CUMZ 4581 (18 specimens in ethanol, Fig.
+3R), 4571 (29 shells), NHMUK (2 shells), NMW (2 shells),
+SMF (2 shells) are from the type locality.
+Other material examined. Gua Pulai, Gua Musang, Kelanta,
+Malaysia CUMZ 4597 (9 shells, Fig. 3S), 4944 (4 specimens
+in ethanol).
+Etymology. The specific epithet “frednaggsi” comes
+from Fred Naggs, malacologist at the Natural History
+Museum, London, who has enthusiastically encouraged and
+continuously supported land snail research in Thailand and
+other Southeast Asian countries.
+Diagnosis. Pterocyclos frednaggsi Sutcharit & Panha,
+new species, differs from P. blandi by having a thick and
+yellowish periostracum, a broad, dark brown peripheral
+band, a channel shaped accessory respiratory structure, and
+a slight expansion of the upper part of the apertural lip. It
+differs from P. spaleotes by having a larger shell, a thicker
+periostracum, and a broad, dark brown peripheral band.
+The differences from P. diluvium Sutcharit & Panha, new
+species, include the broad, dark brown peripheral band and
+the channel shaped accessory respiratory structure.
+
+This new species is superﬁcially similar to P. umbraticus, but        
+differs from this latter species by its relatively smooth shell       
+surface, the broad dark brown peripheral band, and the fact           
+that its distribution is limited to the lowland limestone area        
+(altitude less than 200 m amsl). In contrast, P. umbraticus           
+has a chevron-shaped, zigzag shell sculpture and tends to             
+live in non-limestone forests of highland areas (altitude
+about 200–1600 m amsl) at Maxwell’s Hill and Gunung                   
+Brinchang, Pahang (Benthem Jutting, 1949).
+Description. Shell medium sized, depressed, thickened,                
+widely umbilicated. Apex acute; spire ﬂattened to slightly            
+elevated; suture wide; 4–5 convex and regularly increasing            
+whorls. Shell surface with thin growth lines; periostracum
+brown and corneous. Last whorl rounded, stout, with a                 
+broad dark brown peripheral band. Shell colour brownish               
+or with a variegated, dark brown zigzag pattern on early              
+whorl. Aperture rounded. Apertural lip white, upper part              
+slightly expanded near suture. Accessory respiratory structure
+channel-like to short tubular shaped. Operculum calcareous,           
+slightly concave inside, and multilamellae outside.                   
+Radula. Central tooth with well developed central cusp and            
+two smaller lateral cusps on each side; central cusp small
+with pointed tip; four smaller lateral cusps on both sides            
+with dull to pointed head. Lateral teeth have three cusps;            
+outer cusp large, elongate shape, and two smaller inner               
+lateral cusps with curved tips. Inner marginal teeth have
+three cusps; central cusp large and convex head, and ﬂanked           
+with smaller and pointed head of one inner and one outer              
+lateral cusps. Outer marginal cusp bicuspid, each cusp with           
+pointed head (Fig. 2E).
+Distribution. This limestone dwelling species is known from           
+the type locality and from Gua Musang, Kelantan, Malaysia.            
+Remarks. Specimens of this species from Gua Musang,                   
+Kelantan (Fig. 3S) have slightly larger and darker shells with        
+a narrower peripheral band than typical shells. However,              
+the unique shape of the short tubular accessory respiratory
+structure and the multilamellae operculum suggest that these          
+atypical forms represent intraspeciﬁc geographic variation.           
+                  ACKNOWLEDGEMENTS                                    
+We thank Z. Yasin, A. Tan, and B. Ng (USM, Penang) for                
+their help during ﬁeldwork in Malaysia. We are grateful to P.         
+Bouchet and V. Héros (Muséum National ďHistoire Naturelle,
+Paris); F. Naggs and J. Ablett (NHMUK, London); H. Wood               
+(NMW, Cardiff); T. Backeljau (Royal Belgian Institute of              
+Natural Sciences, Brussels); R. Janssen (SMF, Frankfurt
+a/M); R.C. Preece (UMCZ, Cambridge); R.G. Moolenbeek                  
+(ZMA, Amsterdam) for their kind permissions and help                  
+when studying the collections under their care. We are                
+also indebted to N. Tandavanitja, and the ASRU members,               
+Chulalongkorn University for providing ﬁeld assistance.
+We also thank R. Butcher of the Publication Counseling                
+Unit (PCU), Faculty of Science, Chulalongkorn University              
+for improving the English throughout the manuscript. This
+project was funded by the Plant Genetic Conservation                  
+                                                                 337
+Project initiated by Her Royal Highness Princess Maha
+Chakri Sirindhon; the CU-RES 560530685-FW, the Darwin
+Initiative Project (no. 14-653); and the Thailand Research
+Fund Senior Research Scholar TRF-RTA5580001. Finally,
+we thank two anonymous reviewers for their constructive
+comments and improvement to this manuscript.
+                     LITERATURE CITED
+Adams H & Adams A (1854–1858) The Genera of Recent Mollusca;
+    Arranged According to Their Organization, volume 2. John van
+    Voorst, Paternoster Row, London, 661 pp. [1855, pp. 63–284,
+    pls 73–96].
+Agassiz L (1848) Nomenclatoris Zoologici Index Universalis,
+    Nomina Sytematica Classium, Ordinum, Familiarum et Generum
+    Animalium Omnium, Tam viventium Quam Fossilium. Soloduri,
+    sumtibus et typis jent et gassmann, 1135 pp.
+Benson WH (1832) Account of new genus of land snails, allies
+    to the genus Cyclostoma, of Lamarck; with a description of
+    species found on the outlying rock of the Rajmahal range of
+    hills. Journal of the Asiatic Society of Bengal, 1: 11–14.
+Benson WH (1836) Descriptive catalogue of terrestrial and ﬂuviatile
+    testacea, chieﬂy from the north-east frontier of Bengal. Journal
+    of the Asiatic Society of Bengal, 5: 350–358.
+Benson WH (1848) Note on the cyclostomatous genus Pterocyclos
+    Benson (Steganostoma Troschel). Annals and Magazine of
+    Natural History, Series 2 Volume 1: 345–347.
+Benson WH (1851) Geographical notices and characters of fourteen
+    new species of Cyclostoma from the East Indies. Annals and
+    Magazine of Natural History, Series 2 Volume 8: 184–197.
+van Benthem Jutting WSS (1948) Systematic studies on the non-
+    marine Mollusca of the Indo-Australian archipelago. Treubia,
+    19: 539–604.
+van Benthem Jutting WSS (1949) On collection of non-marine
+    Mollusca from Malaya in the Rafﬂes Museum, Singapore, with
+    an appendix on cave shells. Bulletin of the Rafﬂes Museum,
+    19: 50–77.
+van Benthem Jutting WSS (1960) Some notes on land and freshwater
+    Mollusca of Malaya. Basteria, 24: 10–20.
+Bouchet P & Rocroi J-P (2005) Classiﬁcation and nomenclator of
+    gastropod families. Malacologia, 47: 1–397.
+Cox LR (1964) Gastropoda, general characteristic of Gastropoda.
+    In: Moore RC & Pitrat CW (eds.) Treatise on Invertebrate
+    Palaeontology. Geological Society of America Inc., University
+    of Kansas Press, Kansas, USA. Pp. I85–I169.
+Crosse H (1868) Diagnoses molluscorum novorum. Journal de
+    Conchyliologie, 16: 174–178.
+Deignan HG, Paynter RA Jr & Ripley SD (1964) Check-list of Birds
+    of the World, a Continuation of the Work of James L. Peters,
+    Volume 10. Museum of Comparative Zoology, Massachusetts,
+    USA, 502 pp.
+Fischer P (1880–1887). Manuel de Conchyliologie et de
+    Paléontologie Conchyliologique ou Histoire Naturelle des
+    Mollusques Vivants et Fossiles. Librairie F. Savy, Paris, 1369
+    pp. [1885, pp. 689–986]
+Gray JE (1847) A list of the genera of recent Mollusca, their
+    synonyms and types. Proceedings of the Zoological Society
+    of London, 1847: 129–219.
+Gude GK (1921) Land operculates (Cyclophoridae, Truncatellidae,
+    Assiminaeidae, Helicinidae). In: Shipley AS & Marshall GAK
+    (eds.) The Fauna of British India including Ceylon and Burma,
+    Mollusca II. Taylor and Francis, Bombay, India. Pp. 1–386.
+Hemmen J & Hemmen C (2001) Aktualisierte Liste der terrestrischen
+    Gastropoden Thailands. Schriften zur Malakozoologie aus dem
+    Haus der Natur-Cismar, 18: 35–70.
+
+International Commission on Zoological Nomenclature (ICZN),                
+    1999. International Code of Zoological Nomenclature, 4th.              
+    International Trust for Zoological Nomenclature, London,               
+    306 pp.                                                                
+Kobelt W (1902) Das Tierreich: Cyclophoridae. R. Friedländer und           
+    Sohn, Berlin, Germany, 662 pp.                                         
+Kobelt W (1911–1914) Die gedeckekten Lngenschnecken                        
+    (Cyclostomacea). In: Abbildungen nach der Natur mit                    
+    Mischreibungen. Dritte Abteilung. Cyclophoridae II.
+    Systematisches Conchylien-Cabinet von Martini und Chemnitz,            
+    1(19)(3): 713–1048, Taf. 104–156. [1911, pp. 713–816, pls              
+    104–121]                                                               
+Kobelt W & Möllendorff O (1897) Katalog der gegenwärtig lebend             
+    bekannten Pneumonopomen. Nachrichtsblatt der Deutschen                 
+    Malakozoologischen Gesellschaft, 29: 105–120.                          
+Kongim B, Sutcharit C, Tongkerd P, Tan SHA, Quynh NX, Naggs F              
+    & Panha S (2010) Karyotype variation in the Genus Pollicaria           
+    (Caenogastropoda: Pupinidae). Zoological Studies, 49: 125–131.         
+Kongim B, Sutcharit C, Tongkerd P & Panha S (2013) Karyotype
+    of the Snorkel snail genera Pterocyclos and Rhiostoma                  
+    (Prosobranchia: Cyclophoridae). The Raffles Bulletin of                
+    Zoology, 61: 13–20.                                                    
+Laidlaw FF (1928) A list of land and fresh-water Mollusca of the
+    Malay Peninsula with note. Journal of Malayan Branch Royal             
+    Asiatic Society, 3: 25–37.                                             
+Laidlaw FF (1932) Notes on the land Mollusca of the Batu Cave,
+    Selangor, with description of two new species. Bulletin of the         
+    Rafﬂes Museum, 7: 35–41.                                               
+Maassen WJM (2001) A preliminary checklist of the non-marine
+    Molluscs of west Malaysia, A hand list. De Kreukel Supplement:         
+    1–155.                                                                 
+von Martens E (1867) Die Landschnecken. In: Die preussische
+    expedition nach Ost-Asien, Nach amtlichen Quellen. Zoology             
+    Teil 2, 477 pp.                                                        
+bin Marzuki ME & Clements GR (2013) A new species of                       
+    cyclophorid snail (Mollusca: Prosobranchia) from Terengganu,
+    Peninsular Malaysia. The Rafﬂes Bulletin of Zoology, 61: 21–24.        
+Möllendorff O (1885) Materiatien zur fauna von China. Jahrbücher           
+    der Deutschen Malakozoologischen Gesellschaft, 12: 349–398.            
+Möllendorff O (1893) Ueber den werth des deckels für die                   
+    systematik. Nachrichtenblatt der Deutschen Malakozoologischen          
+    Gesellschaft, 25: 137–147.
+Möllendorff O (1894) On a collection of land-shells from the Samui         
+    Islands, Gulf of Siam. Proceedings of the Zoological Society
+    of London, 1894: 146–156.                                              
+de Morgan J (1885) Mollusques terrestres & ﬂuviatiles du royaume
+    de Pérak et des pays voisins (Presqúile Malaise). Bulletin de          
+    la Société Zoologique de France, 10: 353–249.                          
+Morlet L (1889) Catalogue des coquilles recueillies, par M. Pavie          
+    dans le Cambodge et le Royaume de Siam, et description                 
+    ďespèces nouvelles (1). Journal de Conchyliologie, 37: 121–199.        
+Naggs F (1997) William Benson and the early study of land snails
+    in British India and Ceylon. Archives of Natural History, 24:          
+    37–88.                                                                 
+Nantarat N, Tongkerd P, Sutcharit C, Wade CM, Naggs F & Panha              
+    S (2014) Phylogenetic relationships of the operculate land snail
+    genus Cyclophorus Monfort, 1810 in Thailand. Molecular                 
+    Phylogenetics and Evolution, 70: 99–111.                               
+                                                                      338
+Nevill G (1878) Hand List of Mollusca in the Indian Museum
+    Calcutta; Part I Gastropoda: Pulmonata and Prosobranchia-
+    Neurobranchia. Printed by Order of the Trustees, Calcutta,
+    338 pp.
+Pfeiffer L (1846–1850) Die gedeckelten Lungenschnecken
+    (Helicinacea et Cyclostomacea). In: Abbildungen nach der
+    Natur mit Mischreibungen. Systematisches Conchylien-Cabinet
+    von Martini und Chemnitz. 1(19)(1): 1–228, Taf. 1–30. [1849,
+    pp. 177–208, Taf. 85–87].
+Pfeiffer L (1858) Monographia Pneumonopomorum Viventium,
+    Volume 2. Cassellis, Sumptibus Theodori Fischer, London,
+    249 pp.
+Pfeiffer L (1865) Monographia Pneumonopomorum Viventium,
+    Volume 3. Cassellis, Sumptibus Theodori Fischer, London,
+    284 pp.
+Prasankok P, Tongkerd P, Sutcharit C & Panha S (2011) Genetic
+    divergence in the snorkel snail, Rhiostoma housei, a species
+    complex in Thailand (Caenogastropoda: Cyclophoridae).
+    Biochemical Systematics and Ecology, 39: 834–840.
+Prasankok P, Sutcharit C, Tongkerd P & Panha S (2009) Biochemical
+    assessment of the taxonomic diversity of the operculate land
+    snail, Cyclophorus fulguratus (Gastropoda: Cyclophoridae) from
+    Thailand. Biochemical Systematics and Ecology, 36: 900–906.
+Rees WJ (1964) A review of breathing devices in land operculated
+    snails. Proceedings of the Malacological Society of London,
+    36: 55–67.
+Reeve LA (1863) Conchologia Iconica: Illustrations of the shells of
+    molluscous animals. Volume 14, Pterocyclos, pls 1–5. Lovell
+    Reeve & Co., London.
+Sibley CG & Monroe BL (1999) Distribution and Taxonomy of
+    Birds of the World. Yale University Press, New Haven &
+    London, 1111 pp.
+Stanisic J (1998) Superfamily Cyclophoridea. In: Beesley PL, Roos
+    GJB & Wells A (eds.) Mollusca: The Southern Synthesis, Fauna
+    of Australia, Volume 5. Part B. CSIRO Publishing, Melbourne.
+    Pp. 703–706.
+Sykes ER (1903) On the land operculate mollusks collected during
+    the “Skeat Expedition” to the Malay peninsula in 1899–1900.
+    Proceedings of the Zoological Society of London, 1903:
+    194–199.
+le Tomlin JRB (1932) Two new species of Rhiostoma. Proceedings
+    of the Malacological Society of London, 19: 227–228.
+Troschel FH (1837) Steganostoma nov. gen. Archiv für
+    Naturgeschichte, 3: 163–166.
+Troschel FH (1848) Ueber die Gattungen der cyclostomiden.
+    Zeitschrift für Malakozoologie, 4: 42–45.
+Vaught KC (1989) A Classiﬁcation of the Living Mollusca. American
+    Malacologists, Inc., Florida, USA. Pp. 189
+Vermeulen JJ (1999) Notes on the non-marine molluscs of the
+    island of Borneo 9. The genera Cyclophorus, Leptopoma, and
+    Craspedotropis (Gastropoda: Prosobranchia: Cyclophoridae).
+    Basteria, 63: 139–163.
+Wenz W (1938–1944) Gastropoda. Teil 1, Allgemeiner Teil
+    und Prosobranchia. In: Schindewol (ed.) Handbuch der
+    Paläozoologie, Volume 6, Gebrüder Bornträger, Berlin. Pp.
+    1–231
+Yen T-C (1939) Die chinesischen land- und Süßwasser-Gastropoden
+    des Natur-Museums Senckenberg. Abhandlungen der
+    Senckenbergisch-Naturforschenden Gesellschaft, 444:
+    1–234.
+
+
+
+
