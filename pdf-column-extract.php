@@ -5,14 +5,18 @@
 require_once(dirname(__FILE__) . '/text_to_refs.php');
 require_once(dirname(__FILE__) . '/shared.php');
 
+// Are we going to start from scratch?
 $force = false;
 //$force = true;
 
+// Aree we debugging?
 $debug = false;
 //$debug = true;
 
-$enhance = false;
-//$enhance = true;
+// Are we going to look for identifiers?
+$enhance_doi = true;
+$enhance_local = false;
+
 
 $basedir 	= 'raheem2014';
 $guid 		= '9786165518000';
@@ -21,6 +25,10 @@ $filename 	= 'raheem2014refs.pdf';
 $basedir 	= 'frost';
 $guid 		= '10.1206/0003-0090(2006)297[0001:tatol]2.0.co;2';
 $filename 	= 'frostetal.pdf';
+
+$basedir 	= 'raffles';
+$guid 		= 'CAABF079-BFA8-48C9-986C-2BD100B3CB7E';
+$filename 	= '62rbz330-338.pdf';
 
 
 $basefilename = $basedir . '/' . basename($filename, ".pdf");
@@ -54,7 +62,7 @@ if (!file_exists($textcolumns_filename) || $force)
 
 	foreach ($pages as $page)
 	{
-		$columns = split_column($page);
+		$columns = split_column($page, true);
 		
 		// blank first line as "header"
 		$new_text .= "\n";
@@ -67,23 +75,23 @@ if (!file_exists($textcolumns_filename) || $force)
 	file_put_contents($textcolumns_filename, $new_text);
 }
 
-//exit();
-
 $text = file_get_contents($textcolumns_filename);
 
 // extract reference strings
 $split_pages = explode("\f", $text);
 
-if ($debug)
+
+if ($debug && 0)
 {
 	print_r($split_pages);
 }
 
 
+
 // extract references
 $citationsfilename = $basefilename . ".refs.txt";
 
-if (!file_exists($citationsfilename))
+if (!file_exists($citationsfilename) || $force)
 {
 	$citations_strings = extract_citations($split_pages);
     file_put_contents($citationsfilename, join("\n", $citations_strings ));
@@ -96,8 +104,6 @@ if ($debug)
 {
 	print_r($citations_strings);
 }
-
-
 
 $failed = array();
 
@@ -211,25 +217,33 @@ foreach ($citations_strings as $string)
 	
 	}
 	
+	
+	
+	
 	// cleanup
-	$citation->{'journal-title'} = preg_replace('/,$/', '', $citation->{'journal-title'});
+	if (isset($citation->{'journal-title'}))
+	{
+		$citation->{'journal-title'} = preg_replace('/,$/', '', $citation->{'journal-title'});
+	}
 	
 	
 	// add identifiers
-	if ($matched)
+	if (isset($citation->unstructured))
 	{
 		// CrossRef DOI
-		if ($enhance)
+		if ($enhance_doi)
 		{
 			$doi = find_doi($citation->unstructured);
 			if ($doi != '')
 			{
 				$citation->{'rdmp_doi'} = strtolower($doi);
+				
+				echo $doi . "\n";
 			}    
 		}	
 		
 		// local match
-		if ($enhance)
+		if ($enhance_local)
 		{
 			$rdmp_guid = find_local($citation->unstructured);
 			if ($rdmp_guid != '')
@@ -240,6 +254,8 @@ foreach ($citations_strings as $string)
 				{
 					$citation->{'rdmp_doi'} = $rdmp_guid;
 				}
+				
+				echo $rdmp_guid . "\n";
 			}    
 		}
 	
@@ -250,7 +266,7 @@ foreach ($citations_strings as $string)
 		print_r($citation);	
 	}
 	
-	echo citation_to_sql($guid, $citation);	
+	//echo citation_to_sql($guid, $citation);	
 	
 	
 	if (!$matched)

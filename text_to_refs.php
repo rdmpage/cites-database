@@ -16,10 +16,7 @@ function is_name($str) {
 
 
 //----------------------------------------------------------------------------------------
-function is_end_of_citation($str, $mean_line_length) {
-
-	$debug = true;
-	$debug = false;
+function is_end_of_citation($str, $mean_line_length, $debug = false) {
 
 	if ($debug)
 	{
@@ -122,10 +119,7 @@ function is_end_of_citation($str, $mean_line_length) {
 }
 
 //----------------------------------------------------------------------------------------
-function extract_citations ($pages) {
-
-	$debug = true;
-	$debug = false;
+function extract_citations ($pages, $debug = false) {
 	
 	$citations = array();
 	
@@ -217,14 +211,14 @@ function extract_citations ($pages) {
 					break;
 				
 				case $STATE_IN_REFERENCES:
-					if (preg_match('/^\s*(\p{Lu}|\.\s*[0-9]{4})/u', $line))
+					if (preg_match('/^\s*((bin|de|le|van|von)\s+)?(\p{Lu}|\.\s*[0-9]{4})/u', $line, $m))
 					{
 						if (preg_match('/^((Note[s]? added in proof)|(Appendix)|(Buchbesprechungen)|(Figure)|(Index)|(Supplementary))/i', $line)) {
 							$state = $STATE_OUT_REFERENCES;
 						} else {
 							$state = $STATE_START_CITATION;
 							$citation = $line;
-							if (is_end_of_citation($line, $mean_line_length)) {
+							if (is_end_of_citation($line, $mean_line_length, $debug)) {
 								$citations[] = $citation;
 								$state = $STATE_IN_REFERENCES;
 							}
@@ -237,8 +231,8 @@ function extract_citations ($pages) {
 						$citation .= ' ';
 					}
 					$citation .= $line;
-					if (is_end_of_citation($line, $mean_line_length) 
-					|| (preg_match('/^(\p{Lu}/u', $lines[$line_number+1]))
+					if (is_end_of_citation($line, $mean_line_length, $debug) 
+					|| (preg_match('/^(\p{Lu})/u', $lines[$line_number+1]))
 					)
 					{
 						$citation = preg_replace('/\s\s+/u', ' ', $citation);
@@ -264,7 +258,7 @@ function extract_citations ($pages) {
 }
 
 //----------------------------------------------------------------------------------------
-function split_column($page)
+function split_column($page, $debug = false)
 {
 	$sum_line_length = 0;
 	$num_lines = 0;
@@ -274,7 +268,7 @@ function split_column($page)
 	
 	foreach ($lines as $line)
 	{
-		$sum_line_length += strlen($line);
+		$sum_line_length += mb_strlen($line);
 	}
 	
 	$mean_line_length = $sum_line_length / $num_lines;
@@ -308,7 +302,7 @@ function split_column($page)
 	// Sort counts, if we have indented references then #2 is the start of right column
 	arsort($column_count);
 	
-	// print_r($column_count);
+	//print_r($column_count);
 	
 	// raheem
 	$column_pos = array_keys($column_count)[0];
@@ -318,11 +312,14 @@ function split_column($page)
 	ksort($column_count);
 	$column_pos = array_keys($column_count)[0];
 
-	foreach ($lines as $line)
+	if ($debug)
 	{
-		//echo substr($line, 0, $column_pos) . "|" . substr($line, $column_pos) . "\n";
+		foreach ($lines as $line)
+		{
+			echo mb_substr($line, 0, $column_pos) . "|" . mb_substr($line, $column_pos) . "\n";
+		}
 	}
-		
+			
     $column_text = array();
     $column_text[0] = array();
    	$column_text[1] = array();
@@ -331,8 +328,8 @@ function split_column($page)
    	
    	for ($i = 0; $i < $n; $i++)
    	{
-  		$left_text 	= substr($lines[$i], 0, $column_pos);
-   		$right_text = substr($lines[$i], $column_pos);
+  		$left_text 	= mb_substr($lines[$i], 0, $column_pos);
+   		$right_text = mb_substr($lines[$i], $column_pos);
    	
    		$skip = false;   		
    		if ($i == 0)

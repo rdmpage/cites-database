@@ -447,7 +447,7 @@ function jats_xml($url, $doi = '')
 
 
 // From JATS XML
-if (1)
+if (0)
 {
 	$url = 'https://zookeys.pensoft.net/article/28800/download/xml/';
 

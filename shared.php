@@ -3,6 +3,9 @@
 
 require_once(dirname(__FILE__) . '/wikidata.php');
 
+mb_internal_encoding("UTF-8");
+
+
 //----------------------------------------------------------------------------------------
 function get($url, $accept = 'application/json')
 {
@@ -140,8 +143,6 @@ function citation_to_sql($guid, $csl)
 				$keys[] = '`editor`';
 				$values[] = '"' . addcslashes(join(';', $v), '"') . '"';
 				break;	
-				
-				
 
 			case 'article-title':
 			case 'first-page':
@@ -298,6 +299,91 @@ function wikidata_find_from_anything ($citation)
 	return $item;	
 
 
+}
+
+//----------------------------------------------------------------------------------------
+// String representation of citation for searching
+function citation_to_string($citation)
+{
+	$string = '';
+	
+	if (isset($citation->unstructured))
+	{
+		$string = $citation->unstructured;
+	}
+	else
+	{
+		$terms = array();
+	
+		$keys = array(
+			'author',
+			'year',
+			'article-title',
+			'journal-title',
+			'volume',
+			'first-page',
+			'last-page'
+		);
+	
+		foreach ($keys as $k)
+		{
+			if (isset($citation->{$k}))
+			{
+				switch ($k)
+				{
+					case 'author':
+						$terms[] = join(', ', $citation->{$k});
+						break;
+			
+					default:
+						$terms[] = $citation->{$k};
+						break;
+				}
+			}
+	
+		}
+		
+		$string = join (' ', $terms);
+			
+	}
+	
+	return $string;
+
+
+}
+
+//----------------------------------------------------------------------------------------
+// Try to add identifiers to citation
+function enhance_citation (&$citation)
+{
+	if (isset($citation->doi))
+	{
+		return;
+	}
+
+	$doi = find_doi(citation_to_string($citation));
+	if ($doi != '')
+	{
+		echo "-- Found DOI $doi\n\n"; 
+				
+		$citation->{'rdmp_doi'} = strtolower($doi);
+	}    
+	
+	if (!isset($citation->{'rdmp_doi'}))
+	{
+		$rdmp_guid = find_local(citation_to_string($citation));
+		if ($rdmp_guid != '')
+		{
+			echo "-- Found local GUID $rdmp_guid\n\n"; 
+		
+			$citation->{'rdmp_guid'} = $rdmp_guid;
+			
+			if (preg_match('/10\.\d+\//', $rdmp_guid))
+			{
+				$citation->{'rdmp_doi'} = $rdmp_guid;
+			}
+		}    
+	}	
 }
 
 ?>

@@ -2,6 +2,15 @@
 
 Database of citation relationships, sourced from CrossRef, web scraping, etc.
 
+
+## Scripts
+
+```php crossref-to-db.php``` takes DOI and gets citation data from CrossRef
+
+```php pensoft-to-db.php``` takes local Pensoft JATS XML download, extracts citations and tries to enhance
+
+
+
 ## PDF citation extraction
 
 Extract references from PDF
