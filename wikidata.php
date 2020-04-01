@@ -170,6 +170,33 @@ function wikidata_item_from_pdf($pdf)
 }
 
 //----------------------------------------------------------------------------------------
+// Does wikidata have this Handle id?
+function wikidata_item_from_handle($handle)
+{
+	$item = '';
+	
+	$sparql = 'SELECT * WHERE { ?work wdt:P1184 "' . $handle . '" }';
+	
+	$url = 'https://query.wikidata.org/bigdata/namespace/wdq/sparql?query=' . urlencode($sparql);
+	$json = wikidata_get($url, '', 'application/json');
+		
+	if ($json != '')
+	{
+		$obj = json_decode($json);
+		if (isset($obj->results->bindings))
+		{
+			if (count($obj->results->bindings) != 0)	
+			{
+				$item = $obj->results->bindings[0]->work->value;
+				$item = preg_replace('/https?:\/\/www.wikidata.org\/entity\//', '', $item);
+			}
+		}
+	}
+	
+	return $item;
+}
+
+//----------------------------------------------------------------------------------------
 // Do we have a journal with this ISSN?
 function wikidata_item_from_issn($issn)
 {
@@ -337,6 +364,16 @@ function csljson_to_wikidata($work, $check = true)
 			
 			}
 		}	
+		
+		// HANDLE
+		if ($item == '')
+		{
+			if (isset($work->message->HANDLE))
+			{
+				$item = wikidata_item_from_handle($work->message->HANDLE);
+			
+			}
+		}			
 	
 		// BioStor
 		if ($item == '')
@@ -413,7 +450,7 @@ $this->props = array(
 	
 	foreach ($work->message as $k => $v)
 	{
-	
+		
 		switch ($k)
 		{
 			case 'type':
@@ -630,6 +667,10 @@ $this->props = array(
 			case 'JSTOR':
 				$w[] = array($wikidata_properties[$k] => '"' . $v . '"');
 				break;
+				
+			case 'HANDLE':
+				$w[] = array($wikidata_properties[$k] => '"' . strtoupper($v) . '"');
+				break;				
 				
 			case 'ARCHIVE':
 				$w[] = array($wikidata_properties[$k] => '"' . $v . '"');
