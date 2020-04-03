@@ -90,11 +90,23 @@ function find_local($string)
 	{
 		$obj = json_decode($data);
 		
-		//print_r($obj);
+		// print_r($obj);
 		
 		if ($obj->found)
 		{
-			$guid = $obj->results[0]->guid;
+			// do we have DOI?
+			if ($guid == '')
+			{
+				if (isset($obj->results[0]->doi))
+				{
+					$guid = $obj->results[0]->doi;
+				}
+			}
+		
+			if ($guid == '')
+			{
+				$guid = $obj->results[0]->guid;
+			}
 		}
 		
 	}
@@ -354,23 +366,27 @@ function citation_to_string($citation)
 
 //----------------------------------------------------------------------------------------
 // Try to add identifiers to citation
-function enhance_citation (&$citation)
+function enhance_citation (&$citation, $do_crossref_search = true)
 {
 	if (isset($citation->doi))
 	{
 		return;
 	}
-
-	$doi = find_doi(citation_to_string($citation));
-	if ($doi != '')
+	
+	if ($do_crossref_search)
 	{
-		echo "-- Found DOI $doi\n\n"; 
+		$doi = find_doi(citation_to_string($citation));
+		if ($doi != '')
+		{
+			echo "-- Found DOI $doi\n\n"; 
 				
-		$citation->{'rdmp_doi'} = strtolower($doi);
-	}    
+			$citation->{'rdmp_doi'} = strtolower($doi);
+		}   
+	} 
 	
 	if (!isset($citation->{'rdmp_doi'}))
 	{
+	
 		$rdmp_guid = find_local(citation_to_string($citation));
 		if ($rdmp_guid != '')
 		{
