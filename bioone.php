@@ -7,8 +7,9 @@ require_once ('shared.php');
 
 global $doi;
 
+
 //----------------------------------------------------------------------------------------
-function get($url, $user_agent='Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405', $content_type = '')
+function bioone_get($url, $user_agent='Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405', $content_type = '')
 {	
 	$data = null;
 
@@ -32,6 +33,7 @@ function get($url, $user_agent='Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X
 	
 	return $data;
 }
+
 
 //----------------------------------------------------------------------------------------
 function resolve($url, $user_agent='', $content_type = '')
@@ -116,7 +118,7 @@ function get_html($identifier)
 		$url = $identifier;
 		
 		// /10.1600/
-		if (preg_match('/(?<doi>10.1600\/[^\.]+)/', $identifier, $m))
+		if (preg_match('/(?<doi>(10.1600|10.5733)\/[^\.]+)/', $identifier, $m))
 		{
 			$doi = $m['doi'];
 		}	
@@ -143,7 +145,7 @@ function get_html($identifier)
 		{
 
 			//echo "url=$url\n";
-			$html_content = get($url);
+			$html_content = bioone_get($url);
 		
 			// Need to resolve DOIO, and parameter to get refs, then parse...
 			//$html_content = get('https://bioone.org/journals/candollea/volume-66/issue-2/c2011v662a5/Calyptranthera-Viridiflava-Ammann-L-Gaut--Klack-Apocynaceae-sl-Secamonoideae/10.15553/c2011v662a5.short?tab=ArticleLinkReference');
@@ -215,6 +217,9 @@ function get_references_from_html($html_content)
 							case 'citation_title':
 								$citation->{'article-title'} = $m['value'];
 								$citation->{'article-title'} = preg_replace('/\.$/u', '', $citation->{'article-title'});
+								$citation->{'article-title'} = preg_replace('/&#xA;/u', '', $citation->{'article-title'});
+								
+								
 								break;
 								
 							case 'volume':
@@ -251,7 +256,7 @@ function get_references_from_html($html_content)
 	   
 	   if (isset($citation->{'year'}))
 	   {
-	   	$pattern = '/;"\s*[\/]?>\s*(?<authorstring>.*)\s+' . $citation->{'year'} . '/Uu';
+	   	$pattern = '/>\s*(?<authorstring>[^>]+)\s+' . $citation->{'year'} . '/Uu';
 	   	
 	   	//echo $pattern . "\n";
 	   	//echo $element->innertext . "\n";
@@ -274,6 +279,9 @@ function get_references_from_html($html_content)
 	   		$citation->{'author'} = explode('|', $authorstring);
 	   		
 	   	}
+	   	
+	   	
+	   	
 	   	
 	   }
 
@@ -535,9 +543,19 @@ $url = 'https://bioone.org/journals/systematic-botany/volume-35/issue-1/03636441
 
 $url = 'https://bioone.org/journals/systematic-botany/volume-41/issue-1/036364416X690732/Resurrection-and-New-Species-of-the-Neotropical-Genus-Adelonema-Araceae/10.1600/036364416X690732.full?tab=ArticleLinkReference';
 
+$url = 'https://bioone.org/journals/African-Invertebrates/volume-52/issue-2/afin.052.0211/Rediscovery-of-the-terrible-hairy-fly-Mormotomyia-hirsuta-Austen-Diptera/10.5733/afin.052.0211.full?tab=ArticleLinkReference';
+
+$url = 'https://bioone.org/journals/Acta-Chiropterologica/volume-19/issue-1/15081109ACC2017.19.1.001/Towards-Navigating-the-Minotaurs-Labyrinth--Cryptic-Diversity-and-Taxonomic/10.3161/15081109ACC2017.19.1.001.short?tab=ArticleLinkReference';
+
+$url = '10.3161/15081109ACC2017.19.1.001';
+
 $html = get_html($url);
 
-get_references_from_html($html);
+//echo $html;
+
+$citations = get_references_from_html($html);
+
+//print_r($citations);
 
 /*
 

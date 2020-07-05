@@ -19,7 +19,7 @@ $db->EXECUTE("set names 'utf8'");
 
 $guid = "10.11646/zootaxa.4154.5.1";
 $guid = "http://peckhamia.com/peckhamia/PECKHAMIA_114.1.pdf";
-
+$guid = '10.1080/00305316.1998.10433763';
 
 	// primary reference (assume DOI)
 	$primary = new stdclass;

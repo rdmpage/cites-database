@@ -74,6 +74,8 @@ function find_local($string)
 	
 	$url = 'http://localhost/~rpage/microcitation/www/api_openurl.php?rft.dat=' . urlencode($string);
 	
+	echo $url . "\n";
+	
 	$opts = array(
 	  CURLOPT_URL =>$url,
 	  CURLOPT_FOLLOWLOCATION => TRUE,
@@ -90,7 +92,7 @@ function find_local($string)
 	{
 		$obj = json_decode($data);
 		
-		// print_r($obj);
+		print_r($obj);
 		
 		if ($obj->found)
 		{
@@ -343,9 +345,11 @@ function citation_to_string($citation)
 			{
 				switch ($k)
 				{
+					/*
 					case 'author':
 						$terms[] = join(', ', $citation->{$k});
 						break;
+					*/
 			
 					default:
 						$terms[] = $citation->{$k};

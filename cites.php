@@ -74,7 +74,7 @@ function crossref($doi)
 {
 	$doi = strtolower($doi);
 
-	$url = 'https://api.crossref.org/v1/works/http://dx.doi.org/' . $doi;
+	$url = 'https://api.crossref.org/v1/works/' . $doi;
 	
 	$json = get($url);
 	

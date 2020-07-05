@@ -8,6 +8,7 @@ junk/*
 vendor
 .DS_Store
 examples/ZK_article_39128_en_1.pdf
+examples/Michener+2007+The+Bees+of+the+World.pdf
 .DS_Store
 
 ./*.txt
@@ -17,3 +18,4 @@ examples/ZK_article_39128_en_1.pdf
 !working/raheem2014/
 !working/raheem2014/*
 .DS_Store
+cache/*

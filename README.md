@@ -79,3 +79,6 @@ match.php matches citations to DOIs in ```microcitations.publications``` table (
 [Darwininitium – a new fully pseudosigmurethrous orthurethran genus from Nepal (Gastropoda, Pulmonata, Cerastidae)](https://doi.org/10.3897/zookeys.175.2755) has very few linked references, but many can be linked.
 
 
+## Example taxa
+
+[Oryzomys couesi](https://en.wikipedia.org/wiki/Oryzomys_couesi) has a very detailed Wikipedia page, how much of this can be captured in Wikidata?

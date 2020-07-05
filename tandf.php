@@ -278,6 +278,7 @@ function get_references_from_html($html_content)
 
 
 $doi = '10.1080/03946975.2005.10531220';
+$doi = '10.1080/00305316.1998.10433763';
 
 $safe_filename = $doi;
 $safe_filename = preg_replace('/[^a-z0-9]/i', '-', $safe_filename);
